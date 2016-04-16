@@ -1,5 +1,5 @@
 # CDReader
-+ **C** onvolutional **D**iscrete Reader.
++ **C**onvolutional **D**iscrete Reader.
 
 + Of course it is not able to play CDs.
 + It's just someone's Graduation design.
