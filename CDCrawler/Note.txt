@@ -1,0 +1,12 @@
+http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?symbol=#stockcode#&t1=all
+Adv	按照时间顺序，全面
+Dis	没有明确的股票名称和代码，文章多是泛指
+
+http://data.eastmoney.com/report/#dHA9MCZjZz0wJmR0PTImcGFnZT0x
+Adv	格式规范强，（个股研报）有评级，有股票代码
+Dis	每日的文章较少
+
+http://yanbao.stock.hexun.com/xgq/gsyj.aspx?1=1&page=1
+Adv	抓取难度低，有评级
+Dis	文章更新较少（比东方财富更少，但两者重合度不高）
+
