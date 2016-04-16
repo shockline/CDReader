@@ -1,0 +1,1993 @@
+[Log] 08-13 19:48:05 on 000001
+[Log] 08-13 19:49:23 on 000001
+[Log] 08-13 19:50:27 on 000001
+[Log] 08-13 19:53:18 on 000001
+[log] =1 Get the End
+[Log] 08-13 19:53:36 on 000001
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2774777/index.phtml
+[log] =2 Get the End
+[InfoMiss_ERROR]: on PT金田A000003
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 世纪星源000005
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2728825/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 零七股份000007
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深华新000010
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST石化A000013
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 沙河股份000014
+[log] =1 Get the End
+[InfoMiss_ERROR]: on PT中浩A000015
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深中华A000017
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2577387/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深深宝A000019
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深华发A000020
+[log] =1 Get the End
+[Log] 08-13 19:58:11 on 000021
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2511067/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深深房A000029
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深桑达A000032
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST新都000033
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深信泰丰000034
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华联控股000036
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 深南电A000037
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 宝安地产000040
+[log] =1 Get the End
+[Log] 08-13 20:10:22 on 000042
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2713392/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2225881/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2665497/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST中侨000047
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2813924/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST华赛000068
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 20:15:42 on 000070
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 广聚能源000096
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2713830/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中成股份000151
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST川化000155
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 国际实业000159
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 东方市场000301
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 20:25:47 on 000400
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST鑫光000405
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 石油大明000406
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金谷源000408
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST五环000412
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 民生控股000416
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 吉林化纤000420
+[log] =1 Get the End
+[Log] 08-13 20:33:45 on 000421
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华天酒店000428
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2529286/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2307066/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 绿景控股000502
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 南华生物000504
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 珠江控股000505
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中润资源000506
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 琼民源A000508
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华塑控股000509
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST金路000510
+[log] =1 Get the End
+[Log] 08-13 20:41:04 on 000511
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 渝开发000514
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 攀渝钛业000515
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2287603/index.phtml
+[InfoMiss_ERROR]: on 荣安地产000517
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 四环生物000518
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST凤凰000520
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 白云山A000522
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 银润投资000526
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 20:50:19 on 000532
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 万泽股份000534
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST猴王000535
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2267576/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on TCL通讯000542
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2719597/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金圆股份000546
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 湖南投资000548
+[log] =1 Get the End
+[InfoMiss_ERROR]: on S湘火炬000549
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2852520/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2773823/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2661661/index.phtml
+[InfoMiss_ERROR]: on 江铃汽车000550
+[log] =2 Get the End
+[log] =1 Get the End
+[Log] 08-13 20:57:54 on 000552
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 泰山石油000554
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on PT南洋000556
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST广夏000557
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 莱茵置业000558
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 海德股份000567
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 长城股份000569
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 苏常柴A000570
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:04:32 on 000572
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 粤宏远A000573
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 广东甘化000576
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 盐湖集团000578
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 威孚高科000581
+[log] =2 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on S*ST托普000583
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 友利控股000584
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 东北电气000585
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 汇源通信000586
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on PT粤金曼000588
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 国恒退000594
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 宝塔实业000595
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:10:53 on 000597
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 兴蓉环境000598
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 韶能股份000601
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金马集团000602
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 青海明胶000606
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 绵世股份000609
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST蒙发000611
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 湖北金环000615
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 石油济柴000617
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 吉林化工000618
+[log] =1 Get the End
+[Log] 08-13 21:14:19 on 000619
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST比特000621
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 恒立实业000622
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2760580/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天茂集团000627
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 高新发展000628
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 顺发恒业000631
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 三木集团000632
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 合金投资000633
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 风华高科000636
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 万方发展000638
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2716168/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:23:04 on 000651
+[InfoMiss_ERROR]: on 格力电器000651
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 泰达股份000652
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST九州000653
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2625919/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST海洋000658
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST南华000660
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 索芙特000662
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2774795/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2338818/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:28:51 on 000673
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST银山000675
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 智度投资000676
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST海龙000677
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 东方电子000682
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2709970/index.phtml
+[InfoMiss_ERROR]: on 东北证券000686
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 恒天天鹅000687
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST宏业000689
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 亚太实业000691
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 惠天热电000692
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 滨海能源000695
+[log] =1 Get the End
+[Log] 08-13 21:31:30 on 000697
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on S*ST佳纸000699
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 正虹科技000702
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 双环科技000707
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天兴仪表000710
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST京蓝000711
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 丰乐种业000713
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2778595/index.phtml
+[log] =1 Get the End
+[Log] 08-13 21:38:45 on 000720
+[InfoMiss_ERROR]: on 新能泰山000720
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 美锦能源000723
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2733460/index.phtml
+[log] =2 Get the End
+[InfoMiss_ERROR]: on *ST环保000730
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 罗牛山000735
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中房地产000736
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 南风化工000737
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:47:45 on 000751
+[InfoMiss_ERROR]: on 锌业股份000751
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 西藏发展000752
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 漳州发展000753
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 山西三维000755
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新华制药000756
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 斯太尔000760
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 锦州石化000763
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST华信000765
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 通化金马000766
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST大菲000769
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:52:49 on 000779
+[InfoMiss_ERROR]: on 三毛派神000779
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2463119/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST创智000787
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2590014/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 21:58:29 on 000802
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金宇车城000803
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST炎黄000805
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 银河投资000806
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天山纺织000813
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 辽河油田000817
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 方大化工000818
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金城股份000820
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 山东海化000822
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:01:08 on 000826
+[InfoMiss_ERROR]: on *ST长兴000827
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2762780/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST龙涤000832
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 贵糖股份000833
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中信国安000839
+[log] =1 Get the End
+[Urlopen_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2713527/index.phtml
+[InfoMiss_ERROR]: on 华茂股份000850
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 冀东装备000856
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2803733/index.phtml
+[log] =1 Get the End
+[Log] 08-13 22:12:09 on 000860
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2642477/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 扬子石化000866
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2240922/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 大连国际000881
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 海南高速000886
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2439654/index.phtml
+[log] =2 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:23:21 on 000890
+[InfoMiss_ERROR]: on 法尔胜000890
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST星美000892
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2721433/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2441094/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2831745/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2767251/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 数源科技000909
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2243962/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST天化000912
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 钱江摩托000913
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:28:45 on 000916
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2800675/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2772582/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2859558/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2747397/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2746120/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2645608/index.phtml
+[InfoMiss_ERROR]: on 南方汇通000920
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 河北宣工000923
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2796466/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 兰州黄河000929
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中粮生化000930
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 四川双马000935
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:34:00 on 000938
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 凯迪电力000939
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 广济药业000952
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 河池化工000953
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 欣龙控股000955
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中原油气000956
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2887129/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天保基建000965
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 上风高科000967
+[log] =1 Get the End
+[Log] 08-13 22:39:57 on 000968
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新中基000972
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2713912/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2790744/index.phtml
+[InfoMiss_ERROR]: on 桂林旅游000978
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中弘股份000979
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 大庆华科000985
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 九芝堂000989
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 诚志股份000990
+[log] =1 Get the End
+[Log] 08-13 22:44:13 on 000991
+[InfoMiss_ERROR]: on 通海高科000991
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST皇台000995
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中国中期000996
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2851142/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2343535/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2828839/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2707213/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2664650/index.phtml
+[InfoMiss_ERROR]: on 德豪润达002005
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2763274/index.phtml
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:49:49 on 002012
+[InfoMiss_ERROR]: on 凯恩股份002012
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST霞客002015
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2506213/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2402068/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2887243/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2727773/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2702763/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2793040/index.phtml
+[log] =3 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 七喜控股002027
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2565749/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 22:59:47 on 002032
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2536176/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 汉麻产业002036
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =2 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 南京港002040
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2225856/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2339808/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2203139/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2733114/index.phtml
+[log] =1 Get the End
+[Log] 08-13 23:11:04 on 002052
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中钢天源002057
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 粤水电002060
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2462211/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2271276/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2225796/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 瑞泰科技002066
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 景兴纸业002067
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:18:04 on 002072
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 苏州固锝002079
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:21:09 on 002092
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 山河智能002097
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 兴化股份002109
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 威海广泰002111
+[log] =1 Get the End
+[Log] 08-13 23:24:58 on 002112
+[InfoMiss_ERROR]: on 三变科技002112
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 罗平锌电002114
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新海股份002120
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天马股份002122
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新民科技002127
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:29:07 on 002132
+[log] =1 Get the End
+[Urlopen_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/1982196/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 安纳达002136
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2462305/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2271267/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2228392/index.phtml
+[InfoMiss_ERROR]: on 蓉胜超微002141
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2764674/index.phtml
+[InfoMiss_ERROR]: on 印纪传媒002143
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 通润装备002150
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:35:58 on 002152
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2462043/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2379948/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2347406/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2873008/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 中航三鑫002163
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 宁波东力002164
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 莱茵生物002166
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:42:35 on 002172
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2864795/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 千足珍珠002173
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 东方网络002175
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 艾派克002180
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2593413/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2504613/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新嘉联002188
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 利达光电002189
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:46:22 on 002192
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 九鼎新材002201
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 大连重工002204
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:48:37 on 002212
+[InfoMiss_ERROR]: on 南洋股份002212
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 特尔佳002213
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2860879/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2713467/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2575629/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 福晶科技002222
+[log] =1 Get the End
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-13 23:53:37 on 002232
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 威华股份002240
+[log] =1 Get the End
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华东数控002248
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2811618/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2812469/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2676348/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2191706/index.phtml
+[log] =4 Get the End
+[Log] 08-14 00:00:02 on 002252
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2268256/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2222256/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 立立电子002257
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 大东南002263
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 西仪股份002265
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:04:15 on 002272
+[InfoMiss_ERROR]: on 川润股份002272
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华昌化工002274
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2493373/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2554948/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2718310/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:11:13 on 002292
+[InfoMiss_ERROR]: on 奥飞动漫002292
+[log] =2 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2762264/index.phtml
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 精艺股份002295
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2219241/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 圣农发展002299
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 太阳电缆002300
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2685030/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 北新路桥002307
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 威创股份002308
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:18:01 on 002312
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2697048/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2751402/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 乐通股份002319
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2593417/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2459673/index.phtml
+[InfoMiss_ERROR]: on 新朋股份002328
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:24:05 on 002332
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2744026/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2760863/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2146844/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 柘中股份002346
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:27:57 on 002352
+[InfoMiss_ERROR]: on 鼎泰新材002352
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 兴民钢圈002355
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 浩宁达002356
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 齐星铁塔002359
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 同德化工002360
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2377182/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2877180/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2806742/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2718524/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:30:12 on 002372
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2708646/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2683497/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2596550/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国创高新002377
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 天原集团002386
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 新亚制程002388
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:34:25 on 002392
+[InfoMiss_ERROR]: on 力生制药002393
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 爱仕达002403
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2708639/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2810177/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:37:09 on 002412
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 毅昌股份002420
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =2 Get the End
+[Log] 08-14 00:39:14 on 002432
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2722897/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 龙星化工002442
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 摩恩电气002451
+[log] =1 Get the End
+[Log] 08-14 00:40:44 on 002452
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2555291/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 百川股份002455
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2062792/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2826141/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2565042/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2482864/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2566370/index.phtml
+[log] =1 Get the End
+[Log] 08-14 00:42:47 on 002472
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 圣莱达002473
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 宝莫股份002476
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 雏鹰农牧002477
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 富春环保002479
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2686601/index.phtml
+[InfoMiss_ERROR]: on 双塔食品002481
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2888550/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 山东墨龙002490
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:44:17 on 002492
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 汉缆股份002498
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 科林环保002499
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2837093/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:46:00 on 002512
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 蓝丰生化002513
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 齐峰新材002521
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 胜景山河002525
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2755506/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 英飞拓002528
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:46:37 on 002532
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 东方铁塔002545
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 千红制药002550
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2807761/index.phtml
+[log] =1 Get the End
+[Log] 08-14 00:47:38 on 002552
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2774226/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2008038/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2768312/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2731620/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2710293/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2468493/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2754533/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2317423/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2314186/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2217906/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2309304/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2238973/index.phtml
+[log] =1 Get the End
+[Log] 08-14 00:49:45 on 002572
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2858940/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2887275/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 双星新材002585
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2210703/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2424564/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 万安科技002590
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:50:51 on 002592
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2881776/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 海南瑞泽002596
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2252632/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 佰利联002601
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 世纪华通002602
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on *ST舜船002608
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2763244/index.phtml
+[log] =1 Get the End
+[Log] 08-14 00:52:17 on 002612
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2742436/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2881720/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 永大集团002622
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:53:19 on 002632
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 宏磊股份002647
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2417271/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2686799/index.phtml
+[log] =1 Get the End
+[Log] 08-14 00:54:26 on 002652
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 共达电声002655
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2878412/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2782557/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2728861/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 鞍重股份002667
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2887917/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:55:44 on 002672
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2884761/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2792243/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2758333/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 顺威股份002676
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 福建金森002679
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 龙洲股份002682
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 华东重机002685
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 金河生物002688
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 冀凯股份002691
+[log] =1 Get the End
+[Log] 08-14 00:56:29 on 002692
+[InfoMiss_ERROR]: on 远程电缆002692
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2441431/index.phtml
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 百洋股份002696
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2820870/index.phtml
+[log] =2 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 浙江世宝002703
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:58:04 on 002713
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2271827/index.phtml
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2170674/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2171051/index.phtml
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2170865/index.phtml
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 00:59:00 on 002733
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[Log] 08-14 10:17:42 on 000001
+[log] =1 Get the End
+[NoContent_ERROR]:http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/2774777/index.phtml
+[log] =2 Get the End
+[InfoMiss_ERROR]: on PT金田A000003
+[log] =1 Get the End
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 世纪星源000005
+[log] =1 Get the End
+[Log] 08-14 10:34:23 on 166105
+[InfoMiss_ERROR]: on 信达增利166105
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R003201000
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R007201001
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R014201002
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R028201003
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R091201004
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R182201005
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R001201008
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R002201009
+[log] =2 Get the End
+[InfoMiss_ERROR]: on R004201010
+[log] =2 Get the End
+[InfoMiss_ERROR]: on RC001202001
+[log] =2 Get the End
+[InfoMiss_ERROR]: on RC003202003
+[log] =2 Get the End
+[InfoMiss_ERROR]: on RC007202007
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0501R007203007
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0501R028203008
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0501R091203009
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0504R007203016
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0504R028203017
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0504R091203018
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0505R007203019
+[log] =2 Get the End
+[Log] 08-14 10:51:50 on 203020
+[InfoMiss_ERROR]: on 0505R028203020
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0505R091203021
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0509R007203031
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0509R028203032
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0509R091203033
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0512R007203040
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0512R028203041
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0512R091203042
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0513R007203043
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0513R028203044
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0513R091203045
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0601R007203049
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0601R028203050
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0601R091203051
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0603R007203052
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0603R028203053
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 0603R091203054
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC001204001
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC002204002
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC003204003
+[log] =2 Get the End
+[Log] 08-14 11:00:03 on 204004
+[InfoMiss_ERROR]: on GC004204004
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC007204007
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC014204014
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC028204028
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC091204091
+[log] =2 Get the End
+[InfoMiss_ERROR]: on GC182204182
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金金泰500001
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金泰和500002
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金安信500003
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金汉盛500005
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金裕阳500006
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金景阳500007
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金兴华500008
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金安顺500009
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金金鑫500011
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金汉兴500015
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金兴和500018
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金科讯500029
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金通乾500038
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 基金科瑞500056
+[log] =2 Get the End
+[Log] 08-14 11:08:06 on 500058
+[InfoMiss_ERROR]: on 基金银丰500058
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500等权502000
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500等权A502001
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500等权B502002
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国企改革502006
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国企改A502007
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国企改B502008
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 一带一路502013
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 一带一A502014
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 一带一B502015
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国金50502020
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国金50A502021
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国金50B502022
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 互联金融502036
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 网金A502037
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 网金B502038
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 50分级502048
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 上证50A502049
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 上证50B502050
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 嘉实元和505888
+[log] =2 Get the End
+[Log] 08-14 11:12:37 on 510010
+[InfoMiss_ERROR]: on 治理ETF510010
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 超大ETF510020
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 价值ETF510030
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 50ETF510050
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 央企ETF510060
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 央企申赎510061
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 民企ETF510070
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 责任ETF510090
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 周期ETF510110
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 非周ETF510120
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 中盘ETF510130
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 招商上证消费80510150
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 小康ETF510160
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 商品ETF510170
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 180ETF510180
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 龙头ETF510190
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 综指ETF510210
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 中小ETF510220
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 金融ETF510230
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 新兴ETF510260
+[log] =2 Get the End
+[Log] 08-14 11:16:21 on 510270
+[InfoMiss_ERROR]: on 国企ETF510270
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 成长ETF510280
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 380ETF510290
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 300ETF510300
+[log] =2 Get the End
+[InfoMiss_ERROR]: on HS300ETF510310
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 华夏300510330
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 资源ETF510410
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 180EWETF510420
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 50等权510430
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500沪市ETF510440
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 180高ETF510450
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500ETF510500
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 广发500510510
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 诺安500510520
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国寿500510560
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 能源行业510610
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 材料行业510620
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 消费行业510630
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 金融行业510650
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 医药行业510660
+[log] =2 Get the End
+[Log] 08-14 11:18:54 on 510680
+[InfoMiss_ERROR]: on 万家380510680
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 百强ETF510700
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 上50ETF510710
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 红利ETF510880
+[log] =2 Get the End
+[InfoMiss_ERROR]: on H股ETF510900
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国债ETF511010
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 企债ETF511210
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 城投ETF511220
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 易货币511800
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 博时货币511860
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 银华日利511880
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 华宝添益511990
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 医药ETF512010
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 非银ETF512070
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 景顺食品512210
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 景顺TMT512220
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 景顺医药512230
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500医药512300
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500工业512310
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 500原料512340
+[log] =2 Get the End
+[Log] 08-14 11:20:41 on 512500
+[InfoMiss_ERROR]: on 中证500512500
+[log] =2 Get the End
+[InfoMiss_ERROR]: on ETF500512510
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 主要消费512600
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 医药卫生512610
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 金融地产512640
+[log] =2 Get the End
+[InfoMiss_ERROR]: on MSCIA股512990
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 德国30513030
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 纳指ETF513100
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 标普500513500
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 恒指ETF513600
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 恒生通513660
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国泰黄金518800
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 黄金ETF518880
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 云化CWB1580012
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 武钢CWB1580013
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 深高CWB1580014
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 上汽CWB1580016
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 赣粤CWB1580017
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 石化CWB1580019
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 上港CWB1580020
+[log] =2 Get the End
+[Log] 08-14 11:22:43 on 580021
+[InfoMiss_ERROR]: on 青啤CWB1580021
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 国电CWB1580022
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 康美CWB1580023
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 宝钢CWB1580024
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 葛洲CWB1580025
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 江铜CWB1580026
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 长虹CWB1580027
+[log] =2 Get the End
+[InfoMiss_ERROR]: on 浦发银行600000
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 邯郸钢铁600001
+[log] =1 Get the End
+[InfoMiss_ERROR]: on 齐鲁石化600002
+[log] =1 Get the End
+[InfoMiss_ERROR]: on ST东北高600003
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
+[log] =1 Get the End
