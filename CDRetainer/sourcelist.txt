@@ -1,0 +1,3 @@
+EastMod/data/new.txt@http://data.eastmoney.com/report/
+SinaMod/data/new.txt@http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1
+Proxy.txt@http://www.baidu.com

@@ -1,0 +1,1047 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--published at 2015-08-07 16:46:39-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>围绕IP大做文章，期待下半年现象级作品层出不穷 _ 研究报告正文 _ 数据中心 _ 东方财富网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta name="keywords" content="光线传媒,300251,机构研究报告,研报中心,研报,个股评级,买入评级,个股研报,盈利预测,行业研究,行业研报,策略研究" />
+    <meta name="description" content="东方财富网研报中心:第一时间提供关于光线传媒(300251)的各大券商研究所报告，最大程度减少个人投资者与机构之间信息上的差异，使个人投资者更早的了解到上市公司基本面变化。" />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta http-equiv="refresh" content="1200" />
+    <link rel="stylesheet" type="text/css" href="/css/page.css" />
+    <link rel="stylesheet" type="text/css" href="/css/hyyb.css" />
+    <base target="_blank" />
+</head>
+<body>
+    <script>var NavCache = { Page: "", current_n: 4 };</script>
+    
+<link rel="stylesheet" type="text/css" media="all" href="/css/default.css?rt=20120711" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/layer2012.css?rt=20120717" />
+<script type="text/javascript" src="/js/base.js?rt=20120711"></script>
+<script type="text/javascript" src="/js/plugin.js?rt=20120711"></script>
+<script type="text/javascript" src="/js/layer2012.js?rt=201410711"></script>
+<div class="mainFrame">
+    <script type="text/javascript">
+        if (Math.random() < 0.25)
+            document.write('<iframe width="950" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://same.eastmoney.com/s?z=eastmoney&c=1254&op=1"></iframe>');
+        else
+            document.write('<iframe width="950" height="60" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://fund.eastmoney.com/trade/hqb_data.html?spm=100004.sbb"></iframe>');
+    </script>    
+</div>
+<div class="mainFrame">
+    <div class="menuNav">
+        <ul>
+            <li class="s"><b class="ico I"></b><a href="http://www.eastmoney.com/">东方财富网首页</a></li>
+            <li><a href="http://finance.eastmoney.com/">财经</a></li>
+            <li><a href="http://stock.eastmoney.com/">股票</a></li>
+            <li><a href="http://stock.eastmoney.com/newstock.html" class="red">新股</a></li>
+            <li><a href="http://stock.eastmoney.com/gzqh.html">期指</a></li>
+            <li><a href="http://option.eastmoney.com/">期权</a></li>
+            <li><a href="http://stock.eastmoney.com/chuangyeban.html">创业板</a></li>
+            <li><a href="http://quote.eastmoney.com/">行情</a></li>
+            <li><a href="http://data.eastmoney.com/" class="red">数据</a></li>
+            <li><a href="http://stock.eastmoney.com/global.html">全球</a></li>
+            <li><a href="http://hk.eastmoney.com/">港股</a></li>
+            <li><a href="http://futures.eastmoney.com/">期货</a></li>
+            <li><a href="http://forex.eastmoney.com/">外汇</a></li>
+            <li><a href="http://gold.eastmoney.com/">黄金</a></li>
+            <li><a href="http://www.1234567.com.cn/" class="red">基金</a></li>
+            <li><a href="http://money.eastmoney.com/">理财</a></li>
+            <li><a href="http://bank.eastmoney.com/">银行</a></li>
+            <li><a href="http://insurance.eastmoney.com/">保险</a></li>
+            <li><a href="http://bond.eastmoney.com/">债券</a></li>
+            <li><a href="http://guba.eastmoney.com/">股吧</a></li>
+            <li><a href="http://fund2.eastmoney.com/">基金吧</a></li>
+            <li><a href="http://blog.eastmoney.com/">博客</a></li>
+            <li class="e"><a href="http://so.eastmoney.com/">搜索</a></li>
+        </ul>
+    </div>
+    <div class="shadow">
+    </div>
+    <div class="sp6">
+    </div>
+</div>
+<div class="mainFrame">
+    <div class="banner">
+        <iframe width="950" height="90" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"
+            src="http://same.eastmoney.com/s?z=eastmoney&c=935&op=1"></iframe>
+    </div>
+</div>
+<div class="mainFrame">
+    <div class="logoBar">
+        <div class="logo">
+            <a href="http://www.eastmoney.com/" target="_blank">
+                <img src="/images/logo.gif" alt="东方财富网" /></a> <a href="http://data.eastmoney.com"
+                    target="_blank">
+                    <img src="/images/data_log_c.gif" height="48" border="0" alt="数据中心" /></a>
+        </div>
+        <div class="expand">
+            <span><b class="icoX V"></b><a href="http://video.eastmoney.com/2009/" target="_blank">视频</a></span> <span><b class="icoX M"></b><a href="http://wap.eastmoney.com/spread/"
+                target="_blank">手机版</a></span> <span><b class="icoX G"></b><a href="http://guba.eastmoney.com/"
+                    target="_blank">股吧</a></span> <span><b class="icoX C"></b><a href="http://js5.eastmoney.com/tg.aspx?ID=953"
+                        target="_blank" style="color: Red;">Choice数据</a></span>
+        </div>
+        <div class="remark">
+            <div class="search">
+                <form id="sofrm" method="post" action="" onsubmit="return checkso(this);">
+                    <div class="sradio">
+                        <span class="radio">
+                            <input type="radio" onclick="javascript: checkStock(true)" value="stock" id="c_stock"
+                                name="stype" checked="true" /></span>
+                        <label for="c_stock">
+                            股票/基金</label>
+                        <span class="radio">
+                            <input type="radio" onclick="javascript: checkStock(true)" value="guba" id="c_guba"
+                                name="stype" /></span>
+                        <label for="c_guba">
+                            股吧</label>
+                        <span class="radio">
+                            <input type="radio" onclick="javascript: checkStock(false)" value="blog" id="c_blog"
+                                name="stype" /></span>
+                        <label for="c_blog">
+                            博客</label>
+                        <span class="radio">
+                            <input type="radio" onclick="javascript: checkStock(false)" value="news" id="c_news"
+                                name="stype" /></span>
+                        <label for="c_news">
+                            资讯</label>
+                    </div>
+                    <input type="text" class="sinput" name="StockCode_bar" id="StockCode_bar" />
+                    <script type="text/javascript">
+                        var ss = new StockSuggest("StockCode_bar", arg);
+                        checkStock(true);
+                    </script>
+                    <div onclick="javascript:checkso('sofrm')" class="btn">
+                        <b>搜 索</b>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mainFrame" id="centerNavArea">
+    <div class="centerNav">
+        <b class="ltcorner"></b><b class="rtcorner"></b>
+        <ul id="centerNavTab">
+            <li><a href="http://data.eastmoney.com/center/" target="_self"><span>首页</span></a></li>
+            <li><a href="http://data.eastmoney.com/center/stock.html" target="_self"><span>特色数据</span></a></li>
+            <li><a href="http://data.eastmoney.com/xg/" target="_self"><span>新股数据</span></a></li>
+            <li><a href="http://data.eastmoney.com/zjlx/" target="_self"><span>资金流向</span></a></li>
+            <li><span>研究报告</span></li>
+            <li><span>年报季报</span></li>
+            <li><a href="http://data.eastmoney.com/center/macro.html" target="_self"><span>经济数据</span></a></li>
+            <li><span>理财数据</span></li>
+            <li><a href="http://data.eastmoney.com/center/fund.html" target="_self"><span>基金数据</span></a></li>
+            <li><span>期货期权</span></li>
+        </ul>
+    </div>
+    <div id="centerNavLi">
+        
+
+<div class="centerNavCont s1 hidden" id="centerNavCont1">
+    <span class="tag">热门</span>
+    <ul><li><span><a href="http://data.eastmoney.com/xg/xg/default.html">新股申购</a> </li></span><li><span><a href="http://data.eastmoney.com/zjlx/">资金流向</a> </li></span><li><span><a href="http://data.eastmoney.com/report/">研报中心</a> </li></span><li><span><a href="http://data.eastmoney.com/stockcomment/">千股千评</a> </li></span><li><span><a href="http://data.eastmoney.com/stock/lhb.html">龙虎榜单</a> </li></span><li><span><a href="http://data.eastmoney.com/executive/">高管持股</a> </li></span><li><span><a href="http://data.eastmoney.com/IF/Data/Contract.html">期指持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/xuangu/">选股器</a> </li></span><li><span><a href="http://data.eastmoney.com/bbsj/201406.html">季报大全</a> </li></span><li><span><a href="http://data.eastmoney.com/gsrl/default.html">股市日历</a> </li></span><li><span><a href="http://fund.eastmoney.com/fund.html">基金净值</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/cpi.html">CPI</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/ppi.html">PPI</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/cjsj/pmi.html">PMI</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s6 hidden" id="centerNavCont2" style="height: 44px; background: url(/images/layer2012.gif) repeat-x 0 -61px;">
+    <span class="tag"><a href="http://data.eastmoney.com/center/stock.html">特色数据</a></span>
+    <ul><li><span><a href="http://data.eastmoney.com/stockcomment/">千股千评</a> </li></span><li><span><a href="http://data.eastmoney.com/executive/">高管持股</a> </li></span><li><span><a href="http://data.eastmoney.com/stock/lhb.html">龙虎榜单</a> </li></span><li><span><a href="http://data.eastmoney.com/dxf/default.html">限售解禁</a> </li></span><li><span><a href="http://data.eastmoney.com/dzjy/default.html">大宗交易</a> </li></span><li><span><a href="http://data.eastmoney.com/rzrq/sh.html">融资融券</a> </li></span><li><span><a href="http://data.eastmoney.com/IF/Data/Contract.html">期指持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/xuangu/">选股器</a> </li></span><li><span><a href="http://data.eastmoney.com/notice/">公告大全</a> </li></span><li><span><a href="http://data.eastmoney.com/cmjzd/">股东人数</a> </li></span><li><span><a href="http://data.eastmoney.com/bgxx/hab.html">AB股比价</a> </li></span><li class="end"><span><a href="http://quote.eastmoney.com/center/list.html#ah_1">AH股比价</a> </li></span></ul>
+
+    <ul><li><span><a href="http://data.eastmoney.com/cjsj/yzgptj.html">股票帐户</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/gpjytj.html">股票统计</a> </li></span><li><span><a href="http://data.eastmoney.com/zlsj/">主力数据</a> </li></span><li><span><a href="http://data.eastmoney.com/zlsj/jj.html">基金持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/zlsj/qfii.html">QFII持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/zlsj/sb.html">社保持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/zlsj/qs.html">券商持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/tfpxx/">停复牌信息</a> </li></span><li><span><a href="http://data.eastmoney.com/gsrl/default.html">股市日历</a> </li></span><li><span><a href="http://data.eastmoney.com/IF/Data/Contracttf.html">国债期货持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/invest/invest/default.html">分析师指数</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/other/qsjy.html" class="red">券商业绩月报</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s2 hidden" id="centerNavCont3">
+    <span class="tag"><a href="http://data.eastmoney.com/xg/">新股数据</a></span>
+    <ul><li><span><a href="http://data.eastmoney.com/xg/xg/default.html">新股申购</a> </li></span><li><span><a href="http://data.eastmoney.com/xg/xg/calendar.html">新股日历</a> </li></span><li><span><a href="http://data.eastmoney.com/xg/gh/default.html">新股上会</a> </li></span><li><span><a href="http://data.eastmoney.com/xg/xg/sbqy.html">首发申报信息</a> </li></span><li><span><a href="http://data.eastmoney.com/xg/xg/chart/zql.html">新股解析</a> </li></span><li><span><a href="http://data.eastmoney.com/xg/xg/dxsyl.html">打新收益率</a> </li></span><li><span><a href="http://data.eastmoney.com/zrz/gkzf.html">增发</a> </li></span><li><span><a href="http://data.eastmoney.com/zrz/pg.html">配股</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/xg/kzz/default.html">可转债</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s3 hidden " id="centerNavCont4">
+    <span class="tag"><a href="http://data.eastmoney.com/zjlx/">资金流向</a></span>
+    <ul><li><span><a href="http://data.eastmoney.com/zjlx/dpzjlx.html" >大盘资金流</a></li></span><li><span><a href="http://data.eastmoney.com/zjlx/detail.html" >个股资金流</a></li></span><li><span><a href="http://data.eastmoney.com/zjlx/list.html" >主力排名</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/" >板块资金</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/hy.html" >行业资金流</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/gn.html" >概念资金流</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/dy.html" >地域资金流</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/jlr.html" >资金流监测</a></li></span><li><span><a href="http://data.eastmoney.com/bkzj/hgt.html" >沪港通资金流</a></li></span><li class="end"><span><a href="http://data.eastmoney.com/zjlx/hgt.html" >沪港通十大成交股</a></li></span></ul>
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s4 hidden" id="centerNavCont5">
+    <span class="tag">研究报告</span>
+    <ul><li><span><a href="http://data.eastmoney.com/report/">个股研报</a> </li></span><li><span><a href="http://data.eastmoney.com/report/hyyb.html">行业研报</a> </li></span><li><span><a href="http://data.eastmoney.com/report/ylyc.html">盈利预测</a> </li></span><li><span><a href="http://data.eastmoney.com/report/clbg.html">策略报告</a> </li></span><li><span><a href="http://data.eastmoney.com/report/qsch.html">券商晨会</a> </li></span><li><span><a href="http://data.eastmoney.com/report/hgyj.html">宏观研究</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/report/jgyxl.html">研究机构一览</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s5 hidden" id="centerNavCont6">
+    <span class="tag">财务数据</span>
+    <ul><li><span><a href="http://data.eastmoney.com/bbsj/201506/yjyg.html">2015年中报预告</a> </li></span><li><span><a href="http://data.eastmoney.com/bbsj/201503.html">2015一季报大全</a> </li></span><li><span><a href="http://data.eastmoney.com/bbsj/201503/yysj.html">2015一季度预约时间</a> </li></span><li><span><a href="http://data.eastmoney.com/bbsj/201412/yjbb.html">2014年报业绩</a> </li></span><li><span><a href="http://data.eastmoney.com/bbsj/201412/yjyg.html">2014年报业绩预告</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/bbsj/201412/yjkb.html">2014年报业绩快报</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s7 hidden" id="centerNavCont7">
+    <span class="tag"><a href="http://data.eastmoney.com/center/macro.html">经济数据</a></span>
+    <ul><li><span><a href="http://data.eastmoney.com/cjsj/cpi.html">CPI</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/ppi.html">PPI</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/pmi.html">PMI</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/gdp.html">GDP</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/yhll.html">利率</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/xzxd.html">新增贷款</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/ckzbj.html">存款准备金率</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/newhouse.html">房价指数</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/czsr.html">财政收入</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/hgjck.html">海关进出口</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/hbgyl.html">货币供应量</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/hjwh.html">外储</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/yjtz/default.html">成品油</a> </li></span><li class="end"><span></li></span></ul>
+
+    <span class="tag"><a href="http://data.eastmoney.com/center/macro.html">国际数据</a></span>
+    <ul><li><span><a href="http://data.eastmoney.com/cjsj/foreign_0_0.html">美国经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_1_0.html">德国经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_2_0.html">瑞士经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_3_0.html">日本经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_4_0.html">英国经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_5_0.html">澳大利亚经济数据</a> </li></span><li><span><a href="http://data.eastmoney.com/cjsj/foreign_7_0.html">加拿大经济数据</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/cjsj/foreign_6_0.html">欧元区经济数据</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s8 hidden" id="centerNavCont8">
+    <span class="tag">理财数据</span>
+    <ul><li><span><a href="http://data.eastmoney.com/money/financial.html">人民币理财产品</a> </li></span><li><span><a href="http://data.eastmoney.com/money/FinancialProducts.aspx?area=&cid=-1&cname=&cuir=2&bt=-1&sale=1&tp=-1&ss=1:false&p=1&ps=25">外币理财产品</a> </li></span><li><span><a href="http://trust.eastmoney.com/product_list.aspx?type=new">集合信托产品</a> </li></span><li><span><a href="http://data.eastmoney.com/money/insurance.html">保险产品库</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/money/cdkll.html">银行存贷款利率</a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s9 hidden" id="centerNavCont9">
+    <span class="tag"><a href="http://data.eastmoney.com/center/fund.html">基金数据</a></span>
+    <ul><li><span><a href="http://fund.eastmoney.com/data/fundranking.html">基金排行</a> </li></span><li><span><a href="http://fund.eastmoney.com/fundguzhi.html">净值估算</a> </li></span><li><span><a href="http://fund.eastmoney.com/fund.html">基金净值</a> </li></span><li><span><a href="http://fund.eastmoney.com/data/fundrating.html">基金评级</a> </li></span><li><span><a href="http://fund.eastmoney.com/fbsjj_dwjz.html">封基折价</a> </li></span><li><span><a href="http://fund.eastmoney.com/XFXJJ_jzrgq12.html">新发基金</a> </li></span><li><span><a href="http://fund.eastmoney.com/dingtou/syph_yndt.html">基金定投</a> </li></span><li><span><a href="http://fund.eastmoney.com/data/funddaogou.html">基金导购</a> </li></span><li><span><a href="http://fund.eastmoney.com/data/fundfenhong.html">基金分红</a> </li></span><li><span><a href="http://fund.eastmoney.com/company/default.html">基金公司</a> </li></span><li><span><a href="http://simu.eastmoney.com/data/smranklist.aspx">私募基金</a> </li></span><li class="end"><span><a href="http://fund.eastmoney.com/">更多>></a> </li></span></ul>
+
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+<div class="centerNavCont s10 hidden" id="centerNavCont10">
+    <span class="tag">期货数据</span>
+    <ul><li><span><a href="http://data.eastmoney.com/pmetal/comex/by.html">COMEX库存</a> </li></span><li><span><a href="http://data.eastmoney.com/pmetal/cftc/baiyin.html">CFTC持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/pmetal/etf/by.html">ETF持仓</a> </li></span><li><span><a href="http://data.eastmoney.com/futures/sh/data.html">期货龙虎榜</a> </li></span><li><span><a href="http://data.eastmoney.com/ifdata/xhgp.html">现货与股票</a> </li></span><li><span><a href="http://data.eastmoney.com/ifdata/qxhbj.html">期现货比价表</a> </li></span><li><span><a href="http://data.eastmoney.com/ifdata/jcjz.html">期货价差矩阵</a> </li></span><li><span><a href="http://data.eastmoney.com/ifdata/kcsj.html">期货库存</a> </li></span><li><span><a href="http://data.eastmoney.com/tf/tf.html">可交割国债</a> </li></span><li class="end"><span><a href="http://data.eastmoney.com/IF/Data/Contracttf.html">国债期货持仓</a> </li></span></ul>
+
+    <span class="tag">期权数据</span>
+    <ul><li><span><a href="http://data.eastmoney.com/report/option.html" >期权研报</a></li></span><li><span><a href="http://data.eastmoney.com/other/qqlhb.html" >期权龙虎榜单</a></li></span><li><span><a href="http://data.eastmoney.com/other/valueAnal.html" >期权价值分析</a></li></span><li><span><a href="http://data.eastmoney.com/other/riskanal.html" >期权风险分析</a></li></span><li class="end"><span><a href="http://data.eastmoney.com/other/premium.html" >期权折溢价</a></li></span></ul>
+    <b class="lbcorner"></b><b class="rbcorner"></b>
+</div>
+
+    </div>
+    <div class="centerMoreCont hidden" id="getMoreListCont">
+        <ul>
+            <li>-</li>
+        </ul>
+    </div>
+    <script>
+        initMenu();
+        var fixedBodyWidth = 950;
+    </script>
+</div>
+<div class="s6">
+</div>
+
+    <div class="mainFrame">
+        <div class="maincont">
+            <div class="cnBox">
+                <div class="titlebar">
+                    <b class="el0"></b>
+                    <div class="tit">
+                        <a href="/report/300251.html">光线传媒(300251)研究报告</a>正文
+                    </div>
+                    <div class="favor">
+                        <img src="/images/update.png" title="查看最新" alt="查看最新" onclick="location.reload()" />
+                        <img src="/images/favor.png" title="收藏本页" alt="收藏本页" onclick="AddFavor();" />
+                    </div>
+                    <div class="search" style="float: right; padding-left: 5px; padding-right: 5px;">
+                        <span class="txt">个股研报：</span>
+                        <form target="_self" method="get">
+                            <input value="输代码、名称或拼音" autocomplete="off" class="sinput" name="report_bar" id="report_bar" type="text">
+                        </form>
+                        <div class="btnSearch" style="float: left; cursor: pointer;" onclick="javascript:ggyb_search('report_bar')">
+                            <img src="/images/btn_search_red.gif" alt="查找" title="查询" />
+                        </div>
+                    </div>
+                    <div class="tips" style="float: right;">
+                        <b class="arr_01"></b>
+                        <a href="/report/" class="link1" title="点击进入研报中心">点击进入研报中心</a>
+                    </div>
+                    <script type="text/javascript">
+                        var zz = new StockSuggest("report_bar", {
+                            text: "输代码、名称或拼音",
+                            type: "ABSTOCK",
+                            autoSubmit: false,
+                            width: 200,
+                            header: ["选项", "代码", "名称", "类型"],
+                            body: [-1, 1, 4, -2],
+                            callback: function (ag) { window.open('/report/' + ag["code"] + '.html'); }
+                        });
+
+                        function ggyb_search(bb) {
+                            var s1 = document.getElementById(bb).value;
+                            var s = escape(s1);
+                            if (s1 == "输代码、名称或拼音" || s1 == "" || isNaN(parseInt(s1)) || s1.length != 6) {
+                                alert("请输入所要查询股票的代码！");
+                                return false;
+                            } else {
+                                var url = '/report/' + s1 + '.html';
+                                window.open(url);
+                            }
+                        }
+                    </script>
+                </div>
+            </div>
+            <div class="s6"></div>
+            <div class="c62">
+                <div class="cnBox">
+                    <div class="report-content">
+                        <div class="report-title">
+                            <h1>围绕IP大做文章，期待下半年现象级作品层出不穷</h1>
+                        </div>
+                        <div class="report-infos">
+                            <span><a href="http://www.eastmoney.com" target="_blank">www.eastmoney.com</a></span>
+                            <span>2015年08月07日 00:00</span>
+                            <span>中银国际证券</span>
+                            <span>旷实</span>
+                            <span style="font-weight: normal; font-size: 14px;"><a style="color: #039; text-decoration: underline; font-family: 宋体; font-size: 14px;" href="http://pdf.dfcfw.com/pdf/H3_AP201508070010422530_1.pdf">
+                                <img src="/images/pdf.png" alt="" width="18" height="19" style="vertical-align: middle;">查看PDF原文</a></span>
+                        </div>
+                        <div class="report-body Body" id="ContentBody">
+                            <!-- EM_StockImg_Start --><p style="text-align: center;text-indent:0em;"><a class="EmImageRemark" target="_blank" href="http://quote.eastmoney.com/SZ300251.html"><img border="0" alt="K图 300251_1" style="border: #d1d1d1 1px solid;" src="http://hqpick.eastmoney.com/k/3002512.png" onerror="javascript:this.src='http://hqres.eastmoney.com/EMQuote_Lib/img/picrnotfund.gif';"/></a></p><!-- EM_StockImg_End -->
+                            <div class="newsContent">
+                                <p>事件：</p><p></p><p>光线传媒(300251.CH/人民币27.91, 未有评级)发布2015年半年报，2015年上半年，公司实现营业收入4.14亿元，同比增长37.57%；实现归属上市公司的净利润为8,219万元，同比下降19.78%；实现每股基本收益0.06元。</p><p></p><p>点评：</p><p></p><p>1、四大板块优质作品持续产出，成本增加导致净利润下降：今年上半年，光线传媒上映了《钟馗伏魔》、《横冲直闯好莱坞》等六部电影，电影总票房12.87亿元，实现收入3.04亿元。电视剧业务，上半年未有新作品推出，仅确认《少年四大名捕》收入。动漫游戏方面，收购蓝弧线、热峰两家公司并表，开始贡献收入。</p><p></p><p>2、今年上半年，光线传媒投资龙视传媒25%股权，并与阿里巴巴达成战略合作。形成内容与渠道“两条腿”持续发展</p><p></p><p>1）投资龙视传媒，持续发掘优质IP：光线传媒孙公司香港影业国际有限公司以2,650万美元购买龙视传媒新发行的39,286股股权。完成购买后，香港影业持有龙视传媒25%股权。龙视传媒由好莱坞资深制片人、前漫威影业董事长兼CEO及漫威娱乐首席创意官阿维· 阿拉德和阳光七星娱乐媒体集团（杨澜吴征夫妇旗下）董事长吴征共同创办。龙视传媒致力于创作和开发面向全球市场的优质原创品牌内容和以中国为核心的强势IP。龙视传媒构建全产业链商业模式，集创作与开发电影、电视、动画片、漫画、游戏、衍生产品与服务为一体。 </p><p></p><p>2）与阿里巴巴战略合作：上半年，光线传媒与阿里巴巴签署战略合作协议，在内容和渠道上进行合作。通过合作，光线传媒拥有更丰富的上游内容资源和下游渠道资源。既保证了公司未来制作出更多优质的内容，也帮助这些内容资源找到更多的渠道出口。</p><p></p><p>3、未来展望，围绕IP 持续深耕：2015下半年及2016年，公司计划推出《新步步惊心》、《港囧》、《鬼吹灯》、《古剑奇谭》、《三体》、《盗墓笔记》、《诛仙》等影视剧作品，以及由小说《谁的青春不迷茫》改编的同名网络剧。公司投资龙视传媒拥有《极速天使》IP 改编权及经营权。公司未来将围绕优质IP 持续打造一系列的影视剧作品。同时可利用公司动漫游戏板块对IP进行下游变现。</p><p></p><p>公司当前市值409亿，根据万得一致预期，公司2015-2017年全面摊薄每股收益0.38、0.50、0.68元。从公司项目储备、影视剧制作能力以及相关产业布局以及渠道资源来看，公司是影视行业内的龙头公司。建议持续关注公司未来的现象级作品表现及其带来公司市值空间的提升。</p>
+                            </div>
+                        </div>
+                        <div style="text-align: right;">
+                            <span ><a style="color: red; text-decoration: underline; font-family: 宋体; font-size: 14px;" href="http://js5.eastmoney.com/tg.aspx?ID=2428">今日最新研究报告</a>&nbsp;&nbsp;</span>
+                            <span style="font-weight: normal; font-size: 14px;"><a style="color: #039; text-decoration: underline; font-family: 宋体; font-size: 14px;" href="http://pdf.dfcfw.com/pdf/H3_AP201508070010422530_1.pdf">
+                                <img src="/images/pdf.png" alt="" width="18" height="19" style="vertical-align: middle;">查看PDF原文</a></span>
+                        </div>
+                        <div></div>
+                    </div>
+                </div>
+                <script type="text/javascript" src="/js/EmNewsStockImageTip.js"></script>
+                <div class="s6"></div>
+                <div class="cnBox">
+                    <div class="titlebar">
+                        <b class="el0"></b>
+                        <div class="tit">
+                            <a href="/report/300251.html">光线传媒最新研究报告</a>
+                        </div>
+                        <div class="morecont">
+                            <a href="/report/300251.html">更多</a>
+                        </div>
+                    </div>
+                    <div class="content">
+                        <div class="report-list stocklist">
+                            <ul class="header">
+                                <li class="title">标题</li>
+                                <li class="type">评级类别</li>
+                                <li class="date">报告日期</li>
+                                <li class="name">机构名称</li>
+                                <li class="rank">机构影响力</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150807/APPGNmSYLuLbASearchReport.html">围绕IP大做文章&sbquo;期待下半年现象级作品层出不穷</a></li>
+                                <li class="type"></li>
+                                <li class="date">2015-08-07</li>
+                                <li class="stock"><a href="/report/80000200_0.html">中银国际</a></li>
+                                <li class="rank">★★★★</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150807/APPGNmSYLuVgASearchReport.html">上半年业绩符合预期&sbquo;下半年进入电影真正爆发期</a></li>
+                                <li class="type">买入</li>
+                                <li class="date">2015-08-07</li>
+                                <li class="stock"><a href="/report/80000135_0.html">银河证券</a></li>
+                                <li class="rank">★★★★★</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150806/APPGNmDZ6MdZASearchReport.html">因估值较高下调评级至卖出&sbquo;仍看好公司长期发展</a></li>
+                                <li class="type">减持</li>
+                                <li class="date">2015-08-06</li>
+                                <li class="stock"><a href="/report/80056613_0.html">高华证券</a></li>
+                                <li class="rank">★★★★</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150806/APPGNmDZ6P2TASearchReport.html">1H15净利降20%&sbquo;下半年电影票房值得期待</a></li>
+                                <li class="type"></li>
+                                <li class="date">2015-08-06</li>
+                                <li class="stock"><a href="/report/80000119_0.html">群益证券</a></li>
+                                <li class="rank">★</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150805/APPGNlyZprTtASearchReport.html">2015年半年报业绩回顾：IP资源储备充足&sbquo;下半年电影有望突破</a></li>
+                                <li class="type">增持</li>
+                                <li class="date">2015-08-05</li>
+                                <li class="stock"><a href="/report/80016241_0.html">中金公司</a></li>
+                                <li class="rank">★★★★★</li>
+                            </ul>
+                            
+                        </div>
+                        <div class="morelink tborder">
+                            <a href="/report/300251.html">点击查看全部&gt;&gt;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="s6"></div>
+                <div class="cnBox">
+                    <div class="titlebar">
+                        <b class="el0"></b>
+                        <div class="tit">
+                            <a href="/report/486yb_0.html">
+                                文化传媒最新研究报告 </a>
+                        </div>
+                        <div class="morecont">
+                            <a href="/report/486yb_0.html">更多</a>
+                        </div>
+                    </div>
+                    <div class="content">
+                        <div class="report-list jglist">
+                            <ul class="header">
+                                <li class="title" style="width: 300px;">标题</li>
+                                <li style="width: 55px;">评级类别</li>
+                                <li style="width: 55px;">评级变动</li>
+                                <li class="date">报告日期</li>
+                                <li style="width: 100px;">机构名称</li>
+                            </ul>
+                            
+                            <ul>
+                                <li style="width: 298px;" class="title"><a href="/report/20150804/hy,APPGNljaZJQVIndustry.html">传媒行业周报：持续推荐具有&quot;防守+进攻&quot;能力的数字营销板块</a></li>
+                                <li style="width: 55px;">持有</li>
+                                <li style="width: 55px;">无</li>
+                                <li class="date">2015-08-04</li>
+                                <li style="width: 100px; overflow: hidden;"><a href="/report/10001055_0.html" title="国海证券">国海证券</a></li>
+                            </ul>
+                            
+                            <ul>
+                                <li style="width: 298px;" class="title"><a href="/report/20150804/hy,APPGNljaZKPDIndustry.html">新电视月报：当强意识形态遇上开放网络</a></li>
+                                <li style="width: 55px;">持有</li>
+                                <li style="width: 55px;">无</li>
+                                <li class="date">2015-08-04</li>
+                                <li style="width: 100px; overflow: hidden;"><a href="/report/80000157_0.html" title="齐鲁证券">齐鲁证券</a></li>
+                            </ul>
+                            
+                            <ul>
+                                <li style="width: 298px;" class="title"><a href="/report/20150804/hy,APPGNljaZKRQIndustry.html">传媒行业周报：调整后等待反弹</a></li>
+                                <li style="width: 55px;">中性</li>
+                                <li style="width: 55px;">维持</li>
+                                <li class="date">2015-08-04</li>
+                                <li style="width: 100px; overflow: hidden;"><a href="/report/80000037_0.html" title="平安证券">平安证券</a></li>
+                            </ul>
+                            
+                            <ul>
+                                <li style="width: 298px;" class="title"><a href="/report/20150804/hy,APPGNljaZKtFIndustry.html">传媒周报：内地电影7月单月票房过50亿</a></li>
+                                <li style="width: 55px;">持有</li>
+                                <li style="width: 55px;">维持</li>
+                                <li class="date">2015-08-04</li>
+                                <li style="width: 100px; overflow: hidden;"><a href="/report/80000082_0.html" title="长城证券">长城证券</a></li>
+                            </ul>
+                            
+                            <ul>
+                                <li style="width: 298px;" class="title"><a href="/report/20150803/hy,APPGNlVbImedIndustry.html">传媒-互联网：票房、冬奥双喜临门&sbquo;持续关注相关子行业</a></li>
+                                <li style="width: 55px;">持有</li>
+                                <li style="width: 55px;">维持</li>
+                                <li class="date">2015-08-03</li>
+                                <li style="width: 100px; overflow: hidden;"><a href="/report/80000157_0.html" title="齐鲁证券">齐鲁证券</a></li>
+                            </ul>
+                            
+                        </div>
+                        <div class="morelink tborder">
+                            <a href="/report/486yb_0.html">点击查看全部&gt;&gt;</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="s6"></div>
+                <div class="cnBox">
+                    <div class="titlebar">
+                        <b class="el0"></b>
+                        <div class="tit">
+                            <a href="/report/80000200_0.html">中银国际证券最新研究报告 </a>
+                        </div>
+                        <div class="morecont">
+                            <a href="/report/80000200_0.html">更多</a>
+                        </div>
+                    </div>
+                    <div class="content">
+                        <div class="report-list jglist">
+                            <ul class="header">
+                                <li class="title">标题</li>
+                                <li class="date">报告日期</li>
+                                <li class="stock">研报对象</li>
+                                <li class="type">评级类别</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150807/APPGNmSYLuLbASearchReport.html">围绕IP大做文章&sbquo;期待下半年现象级作品层出不穷</a></li>
+                                <li class="date">2015-08-07</li>
+                                <li class="stock">光线传媒</li>
+                                <li class="rank"></li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150807/APPGNmSYLuVgASearchReport.html">上半年业绩符合预期&sbquo;下半年进入电影真正爆发期</a></li>
+                                <li class="date">2015-08-07</li>
+                                <li class="stock">光线传媒</li>
+                                <li class="rank">买入</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150806/APPGNmDZ6MdZASearchReport.html">因估值较高下调评级至卖出&sbquo;仍看好公司长期发展</a></li>
+                                <li class="date">2015-08-06</li>
+                                <li class="stock">光线传媒</li>
+                                <li class="rank">减持</li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150806/APPGNmDZ6P2TASearchReport.html">1H15净利降20%&sbquo;下半年电影票房值得期待</a></li>
+                                <li class="date">2015-08-06</li>
+                                <li class="stock">光线传媒</li>
+                                <li class="rank"></li>
+                            </ul>
+                            
+                            <ul>
+                                <li class="title"><a href="/report/20150805/APPGNlyZprTtASearchReport.html">2015年半年报业绩回顾：IP资源储备充足&sbquo;下半年电影有望突破</a></li>
+                                <li class="date">2015-08-05</li>
+                                <li class="stock">光线传媒</li>
+                                <li class="rank">增持</li>
+                            </ul>
+                            
+                        </div>
+                        <div class="morelink tborder">
+                            <a href="/report/80000200_0.html">点击查看全部&gt;&gt;</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="c32">
+                
+
+<div class="c32">
+    <div class="cnBox">
+        <div class="titlebar">
+            <b class="el0"></b>
+            <div class="tit">光线传媒重要数据一览</div>
+            <div class="morecont" style="margin-right: 40px;">
+                <a href="http://f10.eastmoney.com/f10_v2/OperationsRequired.aspx?code=SZ300251" target="_blank">更多</a>
+            </div>
+        </div>
+        <div class="content ggzwCont">
+            <div class="linkList">
+                <ul>
+                    <li>
+                        <a href="http://data.eastmoney.com/zjlx/300251.html">实时资金流向</a>
+                    </li>
+                    <li>
+                        <a href="http://quotef10.eastmoney.com/F10_zlkp/SZ300251.html">主力控盘程度</a>
+                    </li>
+                    <li>
+                        <a href="http://quotef10.eastmoney.com/F10_jgsh/SZ300251.html">机构散户资金</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <a href="http://data.eastmoney.com/report/300251.html">机构研究报告</a>
+                    </li>
+                    <li>
+                        <a href="http://data.eastmoney.com/stock/lhb/300251.html">交易龙虎榜单</a>
+                    </li>
+                    <li>
+                        <a href="http://f9.eastmoney.com/SZ300251.html">深度数据揭秘</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <a href="http://data.eastmoney.com/executive/300251.html">高管持股变动</a>
+                    </li>
+                    <li>
+                        <a href="http://t.eastmoney.com/stock.aspx?code=300251">最新传闻汇总</a>
+                    </li>
+                    <li>
+                        <a href="http://data.eastmoney.com/bbsj/300251.html">最新业绩一览</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="grCont">
+                <div class="titlebar">
+                    <div class="tit">光线传媒基本面数据</div>
+                    <a href="http://f10.eastmoney.com/HotNews.aspx?code=SZ300251">更多</a>
+                </div>
+                <ul class="odd">
+							<li class="left">总股本							14.67亿股</li>
+							<li>流通股							12.25亿股</li>
+							</ul>
+							<ul>
+							<li class="left">每股收益							0.00元</li>
+							<li>每股未分配利润							0.59元</li>
+							</ul>
+							<ul class="odd">
+							<li class="left">每股净资产							4.25元</li>
+							<li>净资产收益率							1.70%</li>
+							</ul>
+							<ul>
+							<li class="left">净利润							8218.75万</li>
+							<li>净利润增长率							-19.78%</li>
+							</ul>
+							
+            </div>
+            <div class="grCont" style="background-color: #fff;">
+                <div class="titlebar">
+                    <div class="tit">光线传媒投资评级</div>
+                    <a href="http://data.eastmoney.com/report/300251.html">更多</a>
+                </div>
+                <div class="content">
+                    <div class="report-img-cont img-chart1">
+                        <div class="PingJiDivRight_right" id="PingJiPic">
+                            <div class="top" id="PingJiTop">
+                                <div class="text">一月内整体评级</div>
+                                <div class="jian" id="Top_Jian"></div>
+                            </div>
+                            <div class="bottom" id="PingJiButtom">
+                                <div class="text">三月内整体评级</div>
+                                <div class="jian" id="Bottom_Jian"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <table style="width: 301px;" cellspacing="0" cellpadding="0" border="0" class="report_t">
+                        <tbody>
+                            <tr class="hd">
+                                <th>统计时段</th>
+                                <th>买入</th>
+                                <th>增持</th>
+                                <th>中性</th>
+                                <th>减持</th>
+                                <th>卖出</th>
+                                <th>合计</th>
+                            </tr>
+                            <tr><td>一个月内</td><td>2</td><td>2</td><td>0</td><td>1</td><td>0</td><td>5</td></tr><tr><td>三个月内</td><td>3</td><td>3</td><td>0</td><td>1</td><td>0</td><td>7</td></tr><tr><td>半年内</td><td>5</td><td>5</td><td>1</td><td>1</td><td>0</td><td>12</td></tr><tr><td>一年内</td><td>16</td><td>15</td><td>1</td><td>1</td><td>0</td><td>33</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="grCont" style="background-color: #fff;">
+                <div class="titlebar">
+                    <div class="tit">光线传媒盈利预测</div>
+                    <a href="http://data.eastmoney.com/report/300251.html">更多</a>
+                </div>
+                <div class="content">
+                    <div class="img-chart2">
+                        <div id="container10" style="width: 297px; height: 200px;"></div>
+                    </div>
+                    <table style="width: 301px;" cellspacing="0" cellpadding="0" border="0" class="report_t">
+                        <tbody>
+                            <tr>
+                                <th width="80">
+                                    <img src="/images/datezb.gif"></th>
+                                
+                                <th>2014A</th>
+                                
+                                <th>2015E</th>
+                                
+                                <th>2016E</th>
+                                
+                                <th>2017E</th>
+                                
+                            </tr>
+                            
+                            <tr>
+                                <td>每股收益(元)</td>
+                                
+                                <td>0.23</td>
+                                
+                                <td>0.39</td>
+                                
+                                <td>0.51</td>
+                                
+                                <td>0.70</td>
+                                
+                            </tr>
+                            <tr>
+                                <td>净利润(亿元)</td>
+                                
+                                <td>3.30</td>
+                                
+                                <td>5.66</td>
+                                
+                                <td>7.41</td>
+                                
+                                <td>10.27</td>
+                                
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var PJNumber = {"NumberOne":4,"NumberThree":4.14285714285714,"PageType":"right"};
+</script>
+
+
+                <div class="s6"></div>
+                
+                <div class="cnBox">
+                    <div class="titlebar">
+                        <b class="el0"></b>
+                        <div class="tit">
+                            <a href="/report/ReportYlyc.aspx?sortType=-1&sortRow=3&sortColumn=ChangePercent#f=IndustryID&bk=BK04861">文化传媒热门个股评级一览</a>
+                        </div>
+                        <div class="morecont">
+                            <a href="/report/ReportYlyc.aspx?sortType=-1&sortRow=3&sortColumn=ChangePercent#f=IndustryID&bk=BK04861">更多</a>
+                        </div>
+                    </div>
+                    <div class="content">
+                        <table class="t1" id="Table1" style="width: 320px;" cellpadding="0" cellspacing="0">
+                            <thead class="h432">
+                                <tr>
+                                    <th rowspan="2">名称</th>
+                                    <th rowspan="2">涨跌幅</th>
+                                    <th rowspan="2">研报数</th>
+                                    <th colspan="5">机构投资评级(近六个月)</th>
+                                </tr>
+                                <tr>
+                                    <th>买入</th>
+                                    <th>增持</th>
+                                    <th>中性</th>
+                                    <th>减持</th>
+                                    <th>卖出</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                    <tr>
+                                        
+                                        <td><a href="/report/600088.html">中视传媒</a></td>
+                                        <td><span class="red">10.01%</span></td>
+                                        <td><a href="/report/600088.html">0</a></td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/300364.html">中文在线</a></td>
+                                        <td><span class="red">10.01%</span></td>
+                                        <td><a href="/report/300364.html">2</a></td>
+                                        <td>2</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/600831.html">广电网络</a></td>
+                                        <td><span class="red">9.99%</span></td>
+                                        <td><a href="/report/600831.html">1</a></td>
+                                        <td>0</td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/601999.html">出版传媒</a></td>
+                                        <td><span class="red">9.98%</span></td>
+                                        <td><a href="/report/601999.html">1</a></td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/600037.html">歌华有线</a></td>
+                                        <td><span class="red">7.96%</span></td>
+                                        <td><a href="/report/600037.html">30</a></td>
+                                        <td>14</td>
+                                        <td>12</td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/300148.html">天舟文化</a></td>
+                                        <td><span class="red">6.38%</span></td>
+                                        <td><a href="/report/300148.html">2</a></td>
+                                        <td>0</td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/300392.html">腾信股份</a></td>
+                                        <td><span class="red">6.19%</span></td>
+                                        <td><a href="/report/300392.html">11</a></td>
+                                        <td>6</td>
+                                        <td>4</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/300251.html">光线传媒</a></td>
+                                        <td><span class="red">6.10%</span></td>
+                                        <td><a href="/report/300251.html">24</a></td>
+                                        <td>8</td>
+                                        <td>8</td>
+                                        <td>1</td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/300291.html">华录百纳</a></td>
+                                        <td><span class="red">6.01%</span></td>
+                                        <td><a href="/report/300291.html">27</a></td>
+                                        <td>12</td>
+                                        <td>7</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/300426.html">唐德影视</a></td>
+                                        <td><span class="red">5.88%</span></td>
+                                        <td><a href="/report/300426.html">11</a></td>
+                                        <td>9</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/300336.html">新文化</a></td>
+                                        <td><span class="red">5.76%</span></td>
+                                        <td><a href="/report/300336.html">28</a></td>
+                                        <td>25</td>
+                                        <td>2</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/300264.html">佳创视讯</a></td>
+                                        <td><span class="red">5.60%</span></td>
+                                        <td><a href="/report/300264.html">2</a></td>
+                                        <td>0</td>
+                                        <td>2</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/600234.html">山水文化</a></td>
+                                        <td><span class="red">5.36%</span></td>
+                                        <td><a href="/report/600234.html">0</a></td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                <tr class="odd">
+                                    
+                                        <td><a href="/report/000681.html">视觉中国</a></td>
+                                        <td><span class="red">5.13%</span></td>
+                                        <td><a href="/report/000681.html">21</a></td>
+                                        <td>19</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        
+                                        <td><a href="/report/002633.html">*ST申科</a></td>
+                                        <td><span class="red">5.01%</span></td>
+                                        <td><a href="/report/002633.html">1</a></td>
+                                        <td>1</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                        <td>0</td>
+                                    </tr>
+                                    
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+                
+
+<!--Cached at 2015-08-07 16:43:12-->
+<div class="s6"></div>
+<div class="cnBox">
+    <div class="titlebar">
+        <b class="el0"></b>
+        <div class="tit">
+            机构一致看多个股
+        </div>
+        
+    </div>
+    <div class="content">
+        <table class="t1" id="dt_1" style="width: 320px;" cellpadding="0" cellspacing="0">
+            <thead class="h432">
+                <tr>
+                    <th>名称</th>
+                    <th>研报</th>
+                    <th>看多家数</th>
+                    <th>最高<br />
+                        目标价</th>
+                    <th>最低<br />
+                        目标价</th>
+                    <th>现价</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td><a href="/report/000002.html">万科A</a></td><td><a href="/report/000002.html">详细</a></td><td>74</td><td>19.70</td><td>12.29</td><td>14.60</td></tr><tr class="odd"><td><a href="/report/300144.html">宋城演艺</a></td><td><a href="/report/300144.html">详细</a></td><td>65</td><td>72.27</td><td>29.97</td><td>65.20</td></tr><tr><td><a href="/report/002344.html">海宁皮城</a></td><td><a href="/report/002344.html">详细</a></td><td>58</td><td>35.00</td><td>16.38</td><td>16.59</td></tr><tr class="odd"><td><a href="/report/601633.html">长城汽车</a></td><td><a href="/report/601633.html">详细</a></td><td>53</td><td>77.70</td><td>30.08</td><td>33.40</td></tr><tr><td><a href="/report/600048.html">保利地产</a></td><td><a href="/report/600048.html">详细</a></td><td>51</td><td>20.55</td><td>9.25</td><td>9.35</td></tr><tr class="odd"><td><a href="/report/000100.html">TCL集团</a></td><td><a href="/report/000100.html">详细</a></td><td>48</td><td>7.82</td><td>3.60</td><td>5.22</td></tr><tr><td><a href="/report/600588.html">用友网络</a></td><td><a href="/report/600588.html">详细</a></td><td>44</td><td>74.88</td><td>35.82</td><td>37.61</td></tr><tr class="odd"><td><a href="/report/300274.html">阳光电源</a></td><td><a href="/report/300274.html">详细</a></td><td>43</td><td>48.98</td><td>17.94</td><td>29.39</td></tr><tr><td><a href="/report/002024.html">苏宁云商</a></td><td><a href="/report/002024.html">详细</a></td><td>43</td><td>19.11</td><td>11.70</td><td>13.79</td></tr><tr class="odd"><td><a href="/report/002251.html">步步高</a></td><td><a href="/report/002251.html">详细</a></td><td>42</td><td>40.80</td><td>15.28</td><td>19.62</td></tr><tr><td><a href="/report/600340.html">华夏幸福</a></td><td><a href="/report/600340.html">详细</a></td><td>42</td><td>77.00</td><td>23.19</td><td>29.07</td></tr><tr class="odd"><td><a href="/report/600570.html">恒生电子</a></td><td><a href="/report/600570.html">详细</a></td><td>41</td><td>153.50</td><td>41.96</td><td>69.19</td></tr><tr><td><a href="/report/002508.html">老板电器</a></td><td><a href="/report/002508.html">详细</a></td><td>39</td><td>65.52</td><td>31.49</td><td>40.73</td></tr><tr class="odd"><td><a href="/report/600036.html">招商银行</a></td><td><a href="/report/600036.html">详细</a></td><td>39</td><td>21.99</td><td>10.80</td><td>18.29</td></tr><tr><td><a href="/report/002563.html">森马服饰</a></td><td><a href="/report/002563.html">详细</a></td><td>39</td><td>68.25</td><td>21.88</td><td>23.97</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="s6"></div>
+<div class="cnBox">
+    <div class="titlebar">
+        <b class="el0"></b>
+        <div class="tit">
+            热门行业追踪
+        </div>
+        <div class="morecont">
+            <a href="http://quote.eastmoney.com/center/BKList.html#trade_0_0?sortRule=0">更多</a>
+        </div>
+    </div>
+    <div class="content">
+        <table class="t1" id="Table1" style="width: 320px;" cellpadding="0" cellspacing="0">
+            <thead class="h0">
+                <tr>
+                    <th>名称</th>
+                    <th>涨跌幅</th>
+                    <th>相关</th>
+                    <th>领涨股票</th>
+                    <th>相关</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td><a href="http://quote.eastmoney.com/center/list.html#28002447">电子信息</a></td><td><span class="red">4.69%</span></td><td><a href="/report/447yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/447.html">资金流</a></td><td><a href="http://quote.eastmoney.com/002177.html">御银股份</a></td><td><a href="/report/002177.html">研报</a> <a href="http://data.eastmoney.com/zjlx/002177.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002450">港口水运</a></td><td><span class="red">4.31%</span></td><td><a href="/report/450yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/450.html">资金流</a></td><td><a href="http://quote.eastmoney.com/600428.html">中远航运</a></td><td><a href="/report/600428.html">研报</a> <a href="http://data.eastmoney.com/zjlx/600428.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002480">航天航空</a></td><td><span class="red">4.02%</span></td><td><a href="/report/480yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/480.html">资金流</a></td><td><a href="http://quote.eastmoney.com/600677.html">航天通信</a></td><td><a href="/report/600677.html">研报</a> <a href="http://data.eastmoney.com/zjlx/600677.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002457">输配电气</a></td><td><span class="red">3.96%</span></td><td><a href="/report/457yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/457.html">资金流</a></td><td><a href="http://quote.eastmoney.com/000585.html">东北电气</a></td><td><a href="/report/000585.html">研报</a> <a href="http://data.eastmoney.com/zjlx/000585.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002448">通讯行业</a></td><td><span class="red">3.84%</span></td><td><a href="/report/448yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/448.html">资金流</a></td><td><a href="http://quote.eastmoney.com/002194.html">武汉凡谷</a></td><td><a href="/report/002194.html">研报</a> <a href="http://data.eastmoney.com/zjlx/002194.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002486">文化传媒</a></td><td><span class="red">3.61%</span></td><td><a href="/report/486yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/486.html">资金流</a></td><td><a href="http://quote.eastmoney.com/600088.html">中视传媒</a></td><td><a href="/report/600088.html">研报</a> <a href="http://data.eastmoney.com/zjlx/600088.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002471">化纤行业</a></td><td><span class="red">3.55%</span></td><td><a href="/report/471yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/471.html">资金流</a></td><td><a href="http://quote.eastmoney.com/000615.html">湖北金环</a></td><td><a href="/report/000615.html">研报</a> <a href="http://data.eastmoney.com/zjlx/000615.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002433">农牧饲渔</a></td><td><span class="red">3.43%</span></td><td><a href="/report/433yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/433.html">资金流</a></td><td><a href="http://quote.eastmoney.com/300175.html">朗源股份</a></td><td><a href="/report/300175.html">研报</a> <a href="http://data.eastmoney.com/zjlx/300175.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002476">木业家具</a></td><td><span class="red">3.39%</span></td><td><a href="/report/476yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/476.html">资金流</a></td><td><a href="http://quote.eastmoney.com/002259.html">升达林业</a></td><td><a href="/report/002259.html">研报</a> <a href="http://data.eastmoney.com/zjlx/002259.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002459">电子元件</a></td><td><span class="red">3.29%</span></td><td><a href="/report/459yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/459.html">资金流</a></td><td><a href="http://quote.eastmoney.com/600405.html">动力源</a></td><td><a href="/report/600405.html">研报</a> <a href="http://data.eastmoney.com/zjlx/600405.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002420">民航机场</a></td><td><span class="red">3.27%</span></td><td><a href="/report/420yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/420.html">资金流</a></td><td><a href="http://quote.eastmoney.com/000099.html">中信海直</a></td><td><a href="/report/000099.html">研报</a> <a href="http://data.eastmoney.com/zjlx/000099.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002436">纺织服装</a></td><td><span class="red">3.27%</span></td><td><a href="/report/436yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/436.html">资金流</a></td><td><a href="http://quote.eastmoney.com/000045.html">深纺织A</a></td><td><a href="/report/000045.html">研报</a> <a href="http://data.eastmoney.com/zjlx/000045.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002482">商业百货</a></td><td><span class="red">3.22%</span></td><td><a href="/report/482yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/482.html">资金流</a></td><td><a href="http://quote.eastmoney.com/000564.html">西安民生</a></td><td><a href="/report/000564.html">研报</a> <a href="http://data.eastmoney.com/zjlx/000564.html">资金流</a></td></tr><tr class="odd"><td><a href="http://quote.eastmoney.com/center/list.html#28002545">机械行业</a></td><td><span class="red">3.19%</span></td><td><a href="/report/545yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/545.html">资金流</a></td><td><a href="http://quote.eastmoney.com/002531.html">天顺风能</a></td><td><a href="/report/002531.html">研报</a> <a href="http://data.eastmoney.com/zjlx/002531.html">资金流</a></td></tr><tr><td><a href="http://quote.eastmoney.com/center/list.html#28002539">综合行业</a></td><td><span class="red">3.16%</span></td><td><a href="/report/539yb.html">研报</a> <a href="http://data.eastmoney.com/bkzj/539.html">资金流</a></td><td><a href="http://quote.eastmoney.com/600661.html">新南洋</a></td><td><a href="/report/600661.html">研报</a> <a href="http://data.eastmoney.com/zjlx/600661.html">资金流</a></td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="http://cmsjs.eastmoney.com/channel/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/js/Emcharts/js/lib/highcharts/highcharts.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/js/Emcharts/js/lib/highcharts/highcharts-3d.js" charset="utf-8"></script>
+    <script type="text/javascript" src="/js/Emcharts/js/public_emchart2.js" charset="utf-8"></script>
+    <script type="text/javascript">
+        $(function () {
+            var chart = emChart.models.cobChart({
+                container: "container10",
+                dataUrl: "http://data.eastmoney.com/Report/Report_PicData.aspx?code=3002512",
+                yAxisLableSuffix: ["", ""]
+            });
+        });
+    </script>
+    <script src="/js/YanBao/JiGouYingXiangLiPic.js"></script>
+    <div id="footer">
+        
+
+<div class="spacer20">
+</div>
+<div class="mainFrame">
+    <div class="Footer">
+        <div class="spacer15">
+        </div>
+        数据来源：<a href="http://js5.eastmoney.com/tg.aspx?ID=953" style="color: #00298F;">东方财富Choice数据</a>
+        <br />
+        <br />
+        <a href="#" target="_self" onclick="javascript:this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.eastmoney.com/')">将东方财富网设为上网首页吗？</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_self"
+            onclick="javascript:window.external.AddFavorite('http://www.eastmoney.com/', '东方财富网——中国财经证券门户网站')">将东方财富网添加到收藏夹吗？</a><br>
+        <br />
+        <div class="contact">
+            <a href="http://corp.eastmoney.com/Lianxi_guanyu.asp" target="_blank">关于我们</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                href="http://corp.eastmoney.com/Lianxi_guanggao.asp" target="_blank">广告服务</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                    href="http://corp.eastmoney.com/Lianxi_lianxi.asp" target="_blank">联系我们</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                        href="http://corp.eastmoney.com/zhaopin/zhaopin_1.asp" target="_blank">诚聘英才</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                            href="http://corp.eastmoney.com/lianxi_mianze.asp" target="_blank">免责声明</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                                href="http://corp.eastmoney.com/Lianxi_falvshengming.asp" target="_blank">法律声明</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                                    href="http://corp.eastmoney.com/Lianxi_zhengao.asp" target="_blank">征稿启事</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                                        href="http://www.eastmoney.com/sitemap.html" target="_blank">网站地图</a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+                                            href="http://corp.eastmoney.com/media.asp" target="_blank">友情链接</a>
+        </div>
+        <br />
+        建议及投诉热线：021-54509980&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://corp.eastmoney.com/Lianxi_liuyan.asp"
+            target="_blank"><img src="http://g1.dfcfw.com/g1/img2011/msg.gif" width="25" height="14"
+                border="0" alt="" />意见与建议</a><br />
+        <br />
+        证券投资咨询资质：上海东方财富证券研究所 编号：ZX0064<br />
+        <br />
+        <img src="http://g1.dfcfw.com/g1/img2011/icp.gif" width="15" height="17" border="0"
+            alt="" />&nbsp;沪ICP证：沪B2-20070217&nbsp;&nbsp;版权所有：东方财富网<br />
+        <br />
+        <div class="m_b">
+            <a href="http://www.cyberpolice.cn/" class="footer-police" title="上海网警网络110">
+                <img src="http://g1.dfcfw.com/g1/img2011/police.png" border="0" width="106" height="40" alt="" /></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    _cpyno = "data";
+</script>
+<script type="text/javascript" src="http://js4.eastmoney.com/counter.js?c=t"></script>
+<script type="text/javascript">
+    window.adDataType = "data"; //共3个值：quote，data，guba不写默认表示其他频道；
+    window.adSwitch = "both";//共3个值：both,left,right 不写默认both；
+    window.fixedBodyWidth = 950;//950,1000 不写默认1000
+
+    //add by haibin 20150529 全站有空位导航条加机构和基金的广告（暂时写死，待加布告栏）
+    var Column_Navigation = document.getElementById("Column_Navigation");
+    if (Column_Navigation) {
+        var linkNav_HB = document.getElementById("Column_Navigation").parentNode;
+        var elem_child = linkNav_HB.childNodes;
+        for (var i = 0; i < elem_child.length; i++) {
+            if (elem_child[i].nodeName == "#text" && !/\s/.test(elem_child.nodeValue)) { linkNav_HB.removeChild(elem_child[i]) }
+        }
+        var chils_HB = linkNav_HB.childNodes.length;
+        if (chils_HB == 1) {
+            var gg_link = document.createElement("DIV");
+            gg_link.className = "gg_link";
+            if (Column_Navigation.clientWidth > 370) {
+                gg_link.innerHTML = '<a class="jg_gg" href="http://fundact.eastmoney.com/information/2015002_JYN/?spm=100004002.mw">买不到牛股？立即查看哪些板块正被机构盯上</a><a class="jj_gg" href="http://stattg.eastmoney.com/10149?spm=100004002.mw">10000亿资金正在建仓股票(名单)</a>';
+            }
+            else {
+                gg_link.innerHTML = '<a class="jg_gg" href="http://fundact.eastmoney.com/information/2015002_JYN/?spm=100004002.mw">买不到牛股？立即查看哪些板块正被机构盯上</a><a class="jj_gg" href="http://stattg.eastmoney.com/10149?spm=100004002.mw">10000亿资金正在建仓的股票(名单)点击查看>></a>';
+            }
+            linkNav_HB.appendChild(gg_link)
+        }
+    }
+</script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/public/ad.tools.v2.min.js"></script>
+<script type="text/javascript" src="http://cmsjs.eastmoney.com/analysis/emtj.min.js?v=20150408"></script>
+
+
+
+
+    </div>
+</body>
+</html>

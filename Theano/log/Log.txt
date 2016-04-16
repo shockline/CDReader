@@ -1,0 +1,38 @@
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:13:54
+[Notice] Function Work Started. 04-15 13:13:54
+[Notice] Start Loading Data 04-15 13:13:59
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:14:22
+[Notice] Function Work Started. 04-15 13:14:22
+[Notice] Start Loading Data 04-15 13:14:25
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:14:47
+[Notice] Function Work Started. 04-15 13:14:47
+[Notice] Start Loading Data 04-15 13:14:52
+[Notice] Using Mode[test], Data[car], PoolingModel[average_exc_pad] 04-15 13:15:31
+[Notice] Function Work Started. 04-15 13:15:31
+[Notice] Start Loading Data 04-15 13:15:35
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:15:43
+[Notice] Function Work Started. 04-15 13:15:43
+[Notice] Start Loading Data 04-15 13:15:46
+[Notice] Data has been already loaded 04-15 13:18:27
+[Notice] Start Loading Training Data 04-15 13:19:25
+[Notice] Compiling computing graph. 04-15 13:21:30
+[Notice] Computing Graph Compiled 04-15 13:22:53
+[Notice] Start Training 04-15 13:22:53
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:38:31
+[Notice] Function Work Started. 04-15 13:38:31
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 13:57:21
+[Notice] Function Work Started. 04-15 13:57:21
+[Notice] Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad] 04-15 14:20:51
+[Notice] Function Work Started. 04-15 14:20:51
+[Notice] Start Loading Data 04-15 14:20:55
+[Notice] 745 Labels Loaded  04-15 14:20:55
+[Notice] 745 Documents Loaded  04-15 14:20:58
+[Notice] 1736 Stop-Words Loaded  04-15 14:20:58
+[Notice] w2v model Loaded, contains: 272582 elements 04-15 14:23:13
+[Notice] Data has been already loaded 04-15 14:23:37
+[Notice] Start Loading Training Data 04-15 14:24:43
+[Notice] 2221 Labels Loaded  04-15 14:24:43
+[Notice] 2221 Documents Loaded  04-15 14:24:49
+[Notice] Compiling computing graph. 04-15 14:26:59
+[Notice] Computing Graph Compiled 04-15 14:28:22
+[Notice] Start Training 04-15 14:28:22

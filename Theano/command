@@ -1,0 +1,2 @@
+python structureTestOnMonster2.py train cfh_all cfh_all average_exc_pad
+python structureTestOnMonster2OneDocTest.py statistic cfh_all cfh_all average_exc_pad
