@@ -18,8 +18,7 @@ class prxMod:
     LastTime = 0
     CurrentDate = "Current Date"
     CurrentTime = -1
-    proxylist = [] # Serviceability-unknown prxlist
-    prxlist = [] # Service-Avaliable List
+    proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
 
     logger=logging.getLogger()
     handler=logging.FileHandler(Log)
@@ -37,7 +36,7 @@ class prxMod:
             proxy_handler = urllib2.ProxyHandler({"http" : '%s:%s'%(ip,port)});
             opener = urllib2.build_opener(proxy_handler);
             urllib2.install_opener(opener);
-            request = urllib2.Request('http://www.baidu.com/');  
+            request = urllib2.Request('http://data.eastmoney.com/');  
             request.add_header('User-Agent', 'fake-client');  
             response = urllib2.urlopen(request,timeout=3);  
             text = response.read(); 
@@ -62,25 +61,43 @@ class prxMod:
             lines = [line.strip().split('@')[0] for line in file('new.txt')];
             for l in lines:
                 tmp = l.split(':');
-                ip = tmp[0];
+                ip = tmp[0]; 
                 port = tmp[1];
                 self.test_proxy(ip,port);
             os.remove('./new.txt')
             return True
+        elif os.path.exists('./pxylist.txt'):
+            if self.proxylist :
+                return True
+            else :
+                f = open(r"./pxylist.txt")
+                self.proxylist = cPickle.load(f)
+                return True
         else:
             self.logger.info("[ERROR]: prx_new fail at " + str(self.LastDate))
         return False
 
+        
     def Getpxylist(self):
         Status = self.check_proxy()
         self.LastDate = str(time.strftime('%m%d',time.localtime(time.time())))
         if (os.path.exists('./proxy_inuse.txt')):
             self.proxylist = [line.strip().split('@')[0] for line in file('proxy_inuse.txt')];  
-            cPickle.dump(self.proxylist, open("pxylist%s.txt" % self.LastDate, "w"))
-            os.remove('./proxy_inuse.txt')
+            os.remove('./proxy_inuse.txt') # Delete tmpFile
+            self.StoreFile()
+        elif Status == False:
+            self.logger.info("[ERROR]: Getlist fail at " + str(self.LastDate))
+        return Status # If return true, list can be available as "proxylist"
+
+
+    def StoreFile(self):
+        cPickle.dump(self.proxylist, open("pxylist.txt", "w"))
+        
+    def RefreshList(self):
+        if self.proxylist:
+            fobj = open('proxy_inuse.txt','a');
+            for each in self.proxylist:
+                fobj.write("%s" % str(each));
+            fobj.close();
         else :
-            self.logger.info("[ERROR]: prx_inuse fail at " + str(self.LastDate))
-        return Status
-
-
-
+            self.logger.info("[TIP]: Empty pxylist at " + str(self.LastDate))
