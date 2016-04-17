@@ -1,5 +1,5 @@
-import numpy,os
 import sys
+import numpy,os
 
 class LR_model:
 
@@ -19,12 +19,12 @@ class LR_model:
         predict_noeng = self.__lr.predict(feature)
         probs_noeng = self.__lr.predict_proba(feature)
         probs_noeng = numpy.array(probs_noeng)
-        #print 'probs ', probs_noeng
-        for i in [5]:
-            predict_noeng = 1 * (probs_noeng[:,1] >= i/10.)
-            return str(predict_noeng).replace("[","").replace("]","")
-            print 'i = ', i
-            print 'predict ', predict_noeng
-        print 'probs_noeng ', probs_noeng
+        # print 'probs ', probs_noeng
+        # for i in [5]:
+            # predict_noeng = 1 * (probs_noeng[:,1] >= i/10.)
+        # return str(predict_noeng).replace("[","").replace("]","")
+            # print 'i = ', i
+            # print 'predict ', predict_noeng
+        return str(probs_noeng[0][0])
 
 

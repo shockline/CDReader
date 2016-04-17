@@ -1,10 +1,9 @@
+import os
 import sys
 import jieba
-import os
-
-corpus = ""
 
 def Path_make_corpus(dirname):
+    corpus = ""
     if os.path.isdir(dirname):
         filenames = os.listdir(dirname)
         for filename in filenames:
@@ -21,6 +20,7 @@ def Path_make_corpus(dirname):
 
 
 def File_make_corpus(filename):
+    corpus = ""
     if os.path.isfile(filename):
         f = open(filename,'r')
         contents = f.readlines()
@@ -36,6 +36,7 @@ def File_make_corpus(filename):
 
 
 def String_make_corpus(text):
+    corpus = ""
     if isinstance(text, basestring):
         words_seg = jieba.lcut(text)
         for i in range(len(words_seg)):
@@ -43,3 +44,13 @@ def String_make_corpus(text):
         corpus = ' '.join(words_seg)
     return corpus
 
+
+def dealWithContent(content, posDict, negDict):
+    pos, neg = [], []
+    for Word in content:
+        if Word in posDict and Word not in pos: 
+            pos.append(Word)
+            continue
+        if Word in negDict and Word not in neg:
+            neg.append(Word)
+    return " ".join(pos) + '\t' + " ".join(neg)

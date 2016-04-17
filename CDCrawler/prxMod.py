@@ -26,7 +26,12 @@ class prxMod:
     LastDate = "Last Recorded Date"
     CurrentDate = "Current Date"
     proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
-        
+    
+    # Varieties Setter and Getter
+    def Get_proxylist(self): # This means get the list of 'self'
+        return self.proxylist
+    
+    
     def test_proxy(self,ip,port):
         #print ip,port,'miao'
         try:
@@ -74,7 +79,7 @@ class prxMod:
         return False # Means there's no more new prx to add
 
         
-    def Getpxylist(self):
+    def Getpxylist(self): # This means get list by calculating from origin resource
         Status = self.check_proxy()
         self.LastDate = str(time.strftime('%m%d',time.localtime(time.time())))
         if (os.path.exists(path_tmplist)):
@@ -84,9 +89,7 @@ class prxMod:
         elif Status == False:
             l.Warning("Getlist fail at " + str(self.LastDate))
         return Status # If return true, list can be available as "proxylist"
-    
-    def Get_pxylist(self):
-        return self.proxylist
+
 
     def Storepxy(self): # Make a back-up
         cPickle.dump(self.proxylist, open(path_pxylist, "w"))

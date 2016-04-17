@@ -1,7 +1,10 @@
 #*- coding: gbk -*-
 
+from goose import Goose
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
+from goose.text import StopWordsChinese
+
 import os
 import sys
 import time
@@ -12,6 +15,7 @@ import cPickle
 import urllib2
 import ConfigParser
 
+sourceName = "EAST"
 l = logMod.logMod()
 
 config = ConfigParser.ConfigParser()  
@@ -26,8 +30,6 @@ _MAINURL = config.get("netpage","MAINURL")
 
 class crlMod:
 
-    Data = path_data
-    Dict = path_dict
     LastDate = "Last Recorded Date"
     LastTime = 0
     infile = ""
@@ -46,17 +48,17 @@ class crlMod:
         self.LastTime = time.localtime(time.time())
         self.ChangeFile()
     
-    
-    def SetProxy(self, exlist):
-        self.proxylist.extend(exlist)
-        tmplist = []
-        for each in self.proxylist :
-            if each not in tmplist :
-                tmplist.append(each)
-        self.proxylist = tmplist # Unique
-    
+    # Varieties Getter and Setter
     def Get_crawllist(self):
         return self.crawllist
+    
+    def Set_crawllist(self, exlist):
+        try :
+            self.crawllist = exlist
+            return True
+        except Exception, ex:
+            l.Warning("Setter Error on Crawllist %s" % str(ex))
+            return False
     
     def Get_dictStore(self):
         return self.dictStore
@@ -69,6 +71,27 @@ class crlMod:
             l.Warning("Setter Error on dictStore %s" % str(ex))
             return False
     
+    def Get_Storetmp(self):
+        return self.Storetmp
+    
+    def Set_Storetmp(self, exStore):
+        try :
+            self.Storetmp = exStore
+            return True
+        except Exception, ex:
+            l.Warning("Setter Error on Storetmp %s" % str(ex))
+            return False
+    
+    
+    def SetProxy(self, exlist):
+        self.proxylist.extend(exlist)
+        tmplist = []
+        for each in self.proxylist :
+            if each not in tmplist :
+                tmplist.append(each)
+        self.proxylist = tmplist # Unique
+    
+    # Crawl Module Functions
     def GetDesc(self, pagesite) :
         pxy = ""
         value = "NULL"
@@ -80,15 +103,24 @@ class crlMod:
             l.Notice("%s\t Desc_Crawl fail %s" % (str(pxy), str(pagesite).replace(self.UrlHead,"")))
             return value
         soup = BeautifulSoup(html_doc, "lxml")
-        #soup = BeautifulSoup(html_doc)
         for link in soup.find_all('div') :
             if link.get('class') and link.get('class')[0] == 'newsContent' :
-                value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','')
+                value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','').replace('\"','\'')
                 return value
-        if value == "NULL" or len(value) < 4:
+        if value == "NULL" or len(value) < 10:
             self.proxylist.remove(pxy)
             print pxy, " >OUT"
         return value
+    
+    
+    def GetDesc_goose(self, url) :
+        article = "NULL"
+        try :
+            g = Goose({'stopwords_class': StopWordsChinese})
+            article = g.extract(url=url)
+        except Exception, ex:
+            l.Warning("Goose_Crawl Failed %s" % str(ex))
+        return str(article.cleaned_text).replace('\t','').replace('\r','').replace('\n','').replace('\b','').replace('"',"'")
     
     
     def MergeUrl(self, link) :    
@@ -113,32 +145,36 @@ class crlMod:
                 key = "%s\x01%s\x01%s" % ( str(link['secuFullCode']), str(link['title']), str(link['author']) )
                 for retry in xrange(0,3) :
                     value = self.GetDesc(pagesite)
-                    if value == "NULL" or len(value) < 4 :
-                        # l.Notice("Get %s Desc from %s" % (value, str(pagesite).replace(self.UrlHead, "")))
-                        if self.proxylist:
-                            continue
-                        else :
+                    if value == "NULL" or len(value) < 10 :
+                        if not self.proxylist:                        
                             break
                     else :
                         break
+                if value == "NULL" : # Retry For Goose (Back-up / alternative)
+                    l.Notice("Regular Crawl => Goose Retry %s" % str(pagesite).replace(self.UrlHead,"") )
+                    for retry in xrange(0,3) :
+                        value = self.GetDesc_goose(pagesite)
+                        if value != "NULL" and len(value) >= 10 :
+                            break
                 if (not self.dictStore.has_key(key)) or self.dictStore[key] != pagesite :
-                    thistime = time.localtime(time.time())
-                    self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % \
-                    (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'], \
-                     link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value, \
-                     str(time.strftime('%Y%m%d', thistime)), str(time.strftime('%H:%M:%S', thistime)) ) ) 
-                    self.Storetmp[key] = pagesite
+                    if len(value) > 4:
+                        thistime = time.localtime(time.time())
+                        self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % \
+                        (sourceName, link['secuFullCode'][:6], link['secuName'], link['companyCode'], link['rate'], \
+                         link['change'], link['sratingName'], link['insName'], link['author'], pagesite, link['title'], \
+                         value, str(time.strftime('%Y%m%d', thistime)), str(time.strftime('%H:%M', thistime)) ) ) 
+                        self.Storetmp[key] = pagesite
                 else :
                     return 1 # This one has been crawled
-            return 0
+            return 0 # Page_end
         else :
             return -2 # soup is Empty
     
     
     def Getdoc(self, url, pxy) :
-        tmp = pxy.split(':');
-        ip = tmp[0];
-        port = tmp[1];
+        __tmp = pxy.split(':');
+        ip = __tmp[0];
+        port = __tmp[1];
         proxy_handler = urllib2.ProxyHandler({"http" : '%s:%s'%(ip,port)});
         opener = urllib2.build_opener(proxy_handler);
         urllib2.install_opener(opener);
@@ -167,44 +203,50 @@ class crlMod:
     
     def ChangeFile(self): # Achieve current infile [Ignore]
         self.LastDate = str(time.strftime('%m%d',time.localtime(time.time())))
-        self.infile = open(self.Data.replace('.txt','%s.txt' % self.LastDate),"a")
+        self.infile = open(str(path_data).replace('.txt','%s.txt' % self.LastDate),"a")
     
     def WriteInFile(self, pList): # Write list in reverse_mode
         NowX = str(time.strftime('%m%d',time.localtime(time.time())))
-        WriteX = open(self.Data.replace('.txt','%s.txt' % NowX),"a")
-        for each in pList: # In ascending order according to the time sequence
-            WriteX.write(each)
+        WriteX = open(str(path_data).replace('.txt','%s.txt' % NowX),"a")
+        for _each in pList :
+            WriteX.write(_each + '\n')
         
     def DumpDict(self): # Dump dictStore
-        if self.dictStore:
-            cPickle.dump(self.dictStore, open(self.Dict, "w"))
+        __store = self.Get_dictStore()
+        if __store:
+            cPickle.dump(__store, open(str(path_dict), "w"))
     
     def Storepxy(self): # Make a back-up
-        if self.proxylist :
-            cPickle.dump(self.proxylist, open(path_pxylist, "w"))
+        __store = self.proxylist
+        if __store :
+            cPickle.dump(__store, open(str(path_pxylist), "w"))
     
     def Getpxy(self): # Randomly-get a new proxy
-        pos = random.randrange(0, len(self.proxylist), 1)
-        return self.proxylist[pos]
+        __pos = random.randrange(0, len(self.proxylist), 1)
+        return self.proxylist[__pos]
     
     def CrawlPage(self, page) : # Crawl CurrentPage
-        self.ChangeFile()
-        self.crawllist = []
+        # self.ChangeFile()
+        __Refreshlist = []
+        if page == 1 :
+            self.Set_crawllist(__Refreshlist)
         url = self.MainUrl.replace("pagesites", str(page))
         ret = self.GetMainUrl(url, self.Getpxy())
         if ret == 0: # Crawl till Page_end
-            l.Notice("Initial Finish")
-            if self.Storetmp : # If No news then return 'Empty'
-                self.dictStore = self.Storetmp # For Testing ProxyPool You can Remove this line
-            #self.WriteInFile()
+            if self.dictStore :
+                return self.CrawlPage(page+1)
+            else :
+                l.Notice("Initial Finish")
+            if self.Storetmp :
+                self.Set_dictStore(self.Get_Storetmp())  # If want to test ProxyPool you can Remove this line
         elif ret == 1: # If Store Changed
-            if self.Storetmp:
+            if self.Storetmp: # If No news then return 'Empty'
                 l.Notice("Something New Existed")
-                self.dictStore = self.Storetmp # For Testing ProxyPool You can Remove this line
-            #self.WriteInFile()
+                self.Set_dictStore(self.Get_Storetmp()) # If want to test ProxyPool you can Remove this line
         elif ret == -1: # Gain Failed
             l.Fatal("Proxylist has been empty, This time's Crawl_list will be cleared.")
         elif ret <= -2: # NoContentError (Soup.size is 0 or Desc is empty)
             l.Warning("GetSoup Failed!")
-        self.Storetmp = {}
+        __Refreshdict = {}
+        self.Set_Storetmp(__Refreshdict)
         return ret

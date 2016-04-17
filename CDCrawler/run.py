@@ -1,4 +1,5 @@
 #-*- coding: gbk -*-
+
 import os
 import sys
 import json
@@ -6,7 +7,7 @@ import time
 import random
 import cPickle
 import urllib2
-import ConfigParser   
+import ConfigParser
 import crlMod # Crawl Module as crlMod.py
 import prxMod # Proxy Module as prxMod.py
 import logMod # Logger Module as LogMod.py
@@ -14,27 +15,33 @@ import logMod # Logger Module as LogMod.py
 import common.Wordseg as Wordseg
 import lr.LR_model as LR_model
 import liblinear.Liblinear_model as Liblinear_model
+import MysqlMod # MySQL Module as Mysql.py
 
+# CONFIG SET
+config = ConfigParser.ConfigParser()  
+config.read("./conf/Basic.conf") 
+path_dict = config.get("path", "path_dict")
+path_pxylist = config.get("path", "path_pxylist")
+path_Positive = config.get("path", "path_Positive")
+path_Negative = config.get("path", "path_Negative")
+exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
+
+# Global_Vars
 pxylist = []
 LastTime = -1
-CurrentTime = -1
+posWlist = [line.strip() for line in file(path_Positive) ]
+negWlist = [line.strip() for line in file(path_Negative) ]
 LastDate = "Last Recorded Date"
+
+# Initial_Objects
+s = MysqlMod.MysqlMod()
 p = prxMod.prxMod()
 c = crlMod.crlMod()
 l = logMod.logMod()
 lr = LR_model.LR_model()
 liblinear = Liblinear_model.Liblinear_model()
 
-config = ConfigParser.ConfigParser()  
-config.read("./conf/Basic.conf") 
-# CONFIG SET
-path_dict = config.get("path", "path_dict")
-path_pxylist = config.get("path", "path_pxylist")
-exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
-
-
 def init(): # Run Once at First_time
-    LastTime = time.time()
     if os.path.exists(path_dict):
         d = open(path_dict)
         c.Set_dictStore(cPickle.load(d))
@@ -42,25 +49,52 @@ def init(): # Run Once at First_time
         f = open(path_pxylist)
         pxylist = cPickle.load(f)
     if p.Getpxylist():
-        pxylist.extend(p.proxylist)
+        pxylist.extend(p.Get_proxylist())
         c.SetProxy(pxylist)
-        
     
 def DailyMT(): # Daily Maintenance
     try :
         cdict = c.Get_dictStore()
         if cdict: # Dump dictStore
             c.DumpDict()
-        plist = p.Get_pxylist()
+        plist = p.Get_proxylist()
         if plist: # Dump proxylist
             c.SetProxy(plist)
             c.Storepxy()
     except Exception,ex:
-        l.Warning("%s's DMT Failed <%s" % (str(LastDate),str(ex)))
+        l.Warning("%s's DMT Failed %s" % (str(LastDate),str(ex)))
+        
+    
+def AddLabels():
+    result = []
+    try :
+        s.Create()
+        result = c.Get_crawllist()
+        l.Notice("AddLabels Started, %s objects this time" % len(result))
+        _len = len(result) - 1
+        for _idx in xrange(0, _len + 1) :
+            idx = _len - _idx # Reverse idx
+            if len(result[idx]) <= 4:
+                continue
+            corpuX = ""
+            _slices = result[idx].split('\t')
+            corpuX = Wordseg.String_make_corpus(_slices[11].encode("utf-8"))
+            label1 = lr.Predict(corpuX)
+            label2 = liblinear.Predict(corpuX)
+            _content = corpuX.split(' ')
+            label3 = Wordseg.dealWithContent(_content, posWlist, negWlist)
+            result[idx] =  "%s\t%s\t%s\t%s" % ( str(result[idx]), str(label1), str(label2), str(label3) )
+            s.Insert("StockAddData", result[idx])
+        s.Destroy()
+        c.WriteInFile(result) # Use this can get a txt recording infolist
+    except Exception, ex:
+        l.Fatal("Add Labels Failed %s" % str(ex))
+    return result
         
 
 if __name__ == '__main__' :
     try :
+        LastTime = time.time()
         init() # Noted "./new.txt" should be existed
     except Exception,ex:
         l.Fatal( "Initial Failed %s" % str(ex) )
@@ -70,26 +104,17 @@ if __name__ == '__main__' :
         if (CurrentTime - LastTime > exec_cyctime): # Crawl when 'exec_cyctime' later
             try :
                 LastTime = CurrentTime
+                c.ChangeFile()
                 status = c.CrawlPage(1)
                 if status >= 0:
-                    time1 = time.time()
-                    result = c.Get_crawllist()
-                    #print len(result)
-                    for idx in xrange(0,len(result)) :
-                        corpuX = ""
-                        corpuX = Wordseg.String_make_corpus(result[idx].split('\t')[10])
-                        label1 = lr.Predict(corpuX)
-                        label2 = liblinear.Predict(corpuX)
-                        print label1,"\t###\t",label2
-                        result[idx] =  "%s\t%s\t%s\n" % (result[idx], str(label1), str(label2) ) 
-                    result.reverse()
-                    c.WriteInFile(result)
-                    time2 = time.time()
-                    l.Notice("Predict During %s seconds" % str(time2-time1) )
+                    AddLabels()
+                    l.Notice("InsertSQL Finished")
             except Exception,ex:
-                l.Fatal("Main_Crawl Failed %s" % str(ex))
+                l.Fatal("This_Crawl Failed %s" % str(ex))
             c.Storepxy() # Open For Testing proxylists
-        if (CurrentDate != LastDate): # Daily Maintenance
+            c.DumpDict() # Open For Testing dictStores
+        if ( CurrentDate != LastDate ): # Daily Maintenance
+            l.Notice("Daily Maintenance Started From %s to %s" % (str(LastDate),str(CurrentDate)) )
             LastDate = CurrentDate
             try :
                 DailyMT()

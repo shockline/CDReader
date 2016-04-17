@@ -525,3 +525,131 @@ Prefix dict has been built succesfully.
 [Notice] Predict During 0.000134944915771 seconds 10-20 18:50:32
 [Notice] Predict During 9.67979431152e-05 seconds 10-20 18:56:10
 [Notice] Predict During 9.79900360107e-05 seconds 10-20 19:02:09
+[Warning] 219.142.192.196:739 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 11:22:48
+[Notice] 219.142.192.196:734	 Desc_Crawl fail 20151021/APPGPeBsWuYgASearchReport.html 10-21 11:23:04
+[Notice] 219.142.192.196:1669	 Desc_Crawl fail 20151021/APPGPeBsWuYfASearchReport.html 10-21 11:23:34
+[Notice] 119.6.144.74:83	 Desc_Crawl fail 20151021/APPGPeBsWueZASearchReport.html 10-21 11:23:47
+[Notice] 183.136.135.153:8080	 Desc_Crawl fail 20151021/APPGPeBsWuiiASearchReport.html 10-21 11:23:53
+[Notice] 218.161.34.107:8080	 Desc_Crawl fail 20151021/APPGPeBsWujBASearchReport.html 10-21 11:23:57
+[Notice] 118.143.207.1:8080	 Desc_Crawl fail 20151021/APPGPeBsWuigASearchReport.html 10-21 11:23:59
+[Notice] 219.142.192.196:2779	 Desc_Crawl fail 20151021/APPGPeBsWujIASearchReport.html 10-21 11:24:05
+[Notice] 61.149.182.102:8080	 Desc_Crawl fail 20151021/APPGPeBsWulfASearchReport.html 10-21 11:24:08
+[Notice] 219.142.192.196:793	 Desc_Crawl fail 20151021/APPGPeBsWuvnASearchReport.html 10-21 11:24:24
+[Notice] 182.18.19.219:3128	 Desc_Crawl fail 20151021/APPGPeBsWuvnASearchReport.html 10-21 11:24:24
+[Notice] Something New Existed 10-21 11:24:27
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.399 seconds.
+Prefix dict has been built succesfully.
+[Notice] Predict During 3.49639010429 seconds 10-21 11:24:30
+[Notice] Predict During 0.000127077102661 seconds 10-21 11:28:48
+[Warning] 219.142.192.196:2819 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 11:34:48
+[Notice] Predict During 0.000112056732178 seconds 10-21 11:34:49
+[Warning] 61.149.182.102:8080 GetMainURL failed: <urlopen error [Errno 111] Connection refused> 10-21 11:40:45
+[Notice] 121.43.187.19:8080	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 11:40:52
+[Notice] Predict During 0.000115871429443 seconds 10-21 11:40:53
+[Notice] 61.158.173.188:9797	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 11:46:48
+[Notice] Predict During 0.000109910964966 seconds 10-21 11:46:49
+[Notice] 118.144.149.200:3128	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 11:52:51
+[Notice] Predict During 9.67979431152e-05 seconds 10-21 11:52:51
+[Notice] Predict During 9.58442687988e-05 seconds 10-21 11:58:46
+[Notice] Predict During 0.000113964080811 seconds 10-21 12:04:47
+[Notice] Predict During 0.000123977661133 seconds 10-21 12:10:47
+[Warning] 183.224.77.75:3128 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 12:16:48
+[Notice] Predict During 0.000111818313599 seconds 10-21 12:16:50
+[Warning] 106.56.225.200:3128 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 12:22:48
+[Warning] 219.142.192.196:5252 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 12:22:51
+[Notice] Predict During 0.000102043151855 seconds 10-21 12:22:55
+[Notice] Predict During 9.98973846436e-05 seconds 10-21 12:28:48
+[Notice] Predict During 0.000123977661133 seconds 10-21 12:34:49
+[Notice] 219.142.192.196:2461	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 12:40:48
+[Notice] Predict During 9.89437103271e-05 seconds 10-21 12:40:49
+[Warning] 119.6.144.74:81 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 12:46:48
+[Warning] 219.142.192.196:4345 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 12:46:51
+[Notice] Predict During 0.000103950500488 seconds 10-21 12:47:00
+[Notice] Predict During 9.70363616943e-05 seconds 10-21 12:53:25
+[Notice] 219.142.192.196:4757	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 12:58:53
+[Notice] 124.88.67.6:81	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 12:58:53
+[Notice] Predict During 0.000138998031616 seconds 10-21 12:58:54
+[Warning] 223.100.7.119:8080 GetMainURL failed: HTTP Error 502: Bad Gateway 10-21 15:17:42
+[Warning] 219.142.192.196:40820 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 15:17:45
+[Warning] 119.6.144.74:83 GetMainURL failed: <urlopen error [Errno 110] Connection timed out> 10-21 15:17:48
+[Notice] 219.142.192.196:1447	 Desc_Crawl fail 20151021/APPGPeBsWu1xASearchReport.html 10-21 15:17:58
+[Notice] 222.88.236.236:82	 Desc_Crawl fail 20151021/APPGPeBsWubbASearchReport.html 10-21 15:18:59
+[Notice] 219.142.192.196:9000	 Desc_Crawl fail 20151021/APPGPeBsWubbASearchReport.html 10-21 15:19:02
+[Notice] 106.39.160.121:80	 Desc_Crawl fail 20151021/APPGPeBsWuaLASearchReport.html 10-21 15:19:08
+[Notice] 219.142.192.196:715	 Desc_Crawl fail 20151021/APPGPeBsWuaLASearchReport.html 10-21 15:19:11
+[Notice] 219.142.192.196:2849	 Desc_Crawl fail 20151021/APPGPeBsWuaQASearchReport.html 10-21 15:19:14
+[Notice] 119.6.144.74:843	 Desc_Crawl fail 20151021/APPGPeBsWuf9ASearchReport.html 10-21 15:19:22
+[Notice] 219.142.192.196:32676	 Desc_Crawl fail 20151021/APPGPeBsWuigASearchReport.html 10-21 15:19:36
+[Notice] 218.77.97.173:3128	 Desc_Crawl fail 20151021/APPGPeBsWujIASearchReport.html 10-21 15:19:42
+[Notice] 183.218.63.174:8118	 Desc_Crawl fail 20151021/APPGPeBsWulEASearchReport.html 10-21 15:19:46
+[Notice] 221.193.240.119:3128	 Desc_Crawl fail 20151021/APPGPeBsWulbASearchReport.html 10-21 15:22:27
+[Notice] 219.142.192.196:744	 Desc_Crawl fail 20151021/APPGPeBsWupBASearchReport.html 10-21 15:22:37
+[Notice] 219.142.192.196:715	 Desc_Crawl fail 20151021/APPGPeBsWupBASearchReport.html 10-21 15:22:40
+[Notice] 219.142.192.196:4757	 Desc_Crawl fail 20151021/APPGPeBsWvvZASearchReport.html 10-21 15:22:59
+[Notice] 218.161.34.107:8080	 Desc_Crawl fail 20151021/APPGPeBsWvvbASearchReport.html 10-21 15:23:03
+[Notice] 60.191.173.11:3128	 Desc_Crawl fail 20151021/APPGPeBsWvvbASearchReport.html 10-21 15:23:04
+[Notice] 219.142.192.196:1457	 Desc_Crawl fail 20151021/APPGPeBsWvthASearchReport.html 10-21 15:23:17
+[Notice] 120.198.243.144:80	 Desc_Crawl fail 20151021/APPGPeBsWvthASearchReport.html 10-21 15:23:20
+[Notice] 219.142.192.196:1447	 Desc_Crawl fail 20151021/APPGPeBsWvzbASearchReport.html 10-21 15:23:24
+[Notice] Initial Finish 10-21 15:23:27
+[Fatal] This_Crawl Failed global name 'Set_dictStore' is not defined 10-21 15:23:27
+[Notice] 219.142.192.196:4757	 Desc_Crawl fail 20151021/APPGPeBsWu1sASearchReport.html 10-21 15:23:34
+[Notice] 183.136.135.154:8080	 Desc_Crawl fail 20151021/APPGPeBsWu1sASearchReport.html 10-21 15:23:39
+[Notice] 58.220.2.135:80	 Desc_Crawl fail 20151021/APPGPeBsWuYeASearchReport.html 10-21 15:23:43
+[Notice] 220.249.185.178:9797	 Desc_Crawl fail 20151021/APPGPeBsWuYeASearchReport.html 10-21 15:23:43
+[Notice] 121.43.187.19:8080	 Desc_Crawl fail 20151021/APPGPeBsWubdASearchReport.html 10-21 15:23:58
+[Notice] 112.101.80.171:9797	 Desc_Crawl fail 20151021/APPGPeBsWubdASearchReport.html 10-21 15:24:01
+[Notice] 219.142.192.196:32676	 Desc_Crawl fail 20151021/APPGPeBsWuaQASearchReport.html 10-21 15:24:06
+[Fatal] This_Crawl Failed 'dict' object has no attribute 'append' 10-21 15:52:24
+[Notice] 219.142.192.196:2510	 Desc_Crawl fail 20151021/APPGPeBsWuYgASearchReport.html 10-21 16:05:42
+[Notice] 220.249.185.178:9797	 Desc_Crawl fail 20151021/APPGPeBsWubdASearchReport.html 10-21 16:05:50
+[Notice] 219.142.192.196:2461	 Desc_Crawl fail 20151021/APPGPeBsWuaLASearchReport.html 10-21 16:05:54
+[Notice] 219.142.192.196:39330	 Desc_Crawl fail 20151021/APPGPeBsWuaLASearchReport.html 10-21 16:05:57
+[Notice] 219.142.192.196:9000	 Desc_Crawl fail 20151021/APPGPeBsWuf9ASearchReport.html 10-21 16:07:15
+[Notice] 222.88.236.236:843	 Desc_Crawl fail 20151021/APPGPeBsWuiiASearchReport.html 10-21 16:07:38
+[Notice] 119.6.144.74:843	 Desc_Crawl fail 20151021/APPGPeBsWuiiASearchReport.html 10-21 16:07:41
+[Notice] 219.142.192.196:2849	 Desc_Crawl fail 20151021/APPGPeBsWujBASearchReport.html 10-21 16:07:49
+[Notice] 117.177.243.42:82	 Desc_Crawl fail 20151021/APPGPeBsWujBASearchReport.html 10-21 16:07:49
+[Notice] 117.177.243.42:8083	 Desc_Crawl fail 20151021/APPGPeBsWulEASearchReport.html 10-21 16:08:13
+[Notice] 219.142.192.196:1457	 Desc_Crawl fail 20151021/APPGPeBsWulDASearchReport.html 10-21 16:08:18
+[Notice] 183.218.63.174:8118	 Desc_Crawl fail 20151021/APPGPeBsWuliASearchReport.html 10-21 16:08:42
+[Notice] 124.202.200.98:8118	 Desc_Crawl fail 20151021/APPGPeBsWuuFASearchReport.html 10-21 16:08:47
+[Notice] 117.177.243.42:8080	 Desc_Crawl fail 20151021/APPGPeBsWuuFASearchReport.html 10-21 16:08:47
+[Notice] 183.218.63.174:8118	 Desc_Crawl fail 20151021/APPGPeBsWuvnASearchReport.html 10-21 16:09:04
+[Notice] 103.233.147.98:8080	 Desc_Crawl fail 20151021/APPGPeBsWvvbASearchReport.html 10-21 16:09:14
+[Notice] 58.67.159.50:80	 Desc_Crawl fail 20151021/APPGPeBsWvvbASearchReport.html 10-21 16:09:17
+[Notice] 117.177.243.42:8084	 Desc_Crawl fail 20151021/APPGPeBsWvvlASearchReport.html 10-21 16:09:19
+[Notice] 218.9.69.2:9797	 Desc_Crawl fail 20151021/APPGPeBsWw2DASearchReport.html 10-21 16:09:25
+[Notice] Initial Finish 10-21 16:09:27
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.508 seconds.
+Prefix dict has been built succesfully.
+[Fatal] Error: there's a Rollback (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\xe4\xb9\xb0\xe5\x85\xa5"\xe3\x80\x82","20151021","16:07","1","\xe9\x93\x81\xe9\xbe\x99\xe7\x89\xa9\xe6\xb5\x81 0.00252070732923 \xe4\xb8\xad\xe5\x9b\xbd\xe8\xbf\x9c\xe6\xb4\x8b 0\' at line 1') 10-21 16:09:31
+[Fatal] Error: there's a Rollback (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\xe4\xb9\xb0\xe5\x85\xa5"\xe3\x80\x82","20151021","16:07","1","\xe9\x93\x81\xe9\xbe\x99\xe7\x89\xa9\xe6\xb5\x81 0.00252070732923 \xe4\xb8\xad\xe5\x9b\xbd\xe8\xbf\x9c\xe6\xb4\x8b 0\' at line 1') 10-21 16:09:32
+[Notice] InsertSQL Finished 10-21 16:09:33
+[Notice] InsertSQL Finished 10-21 16:11:34
+[Notice] 219.142.192.196:1447	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 16:17:35
+[Notice] 218.161.34.107:8080	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 16:17:38
+[Notice] 124.88.67.6:81	 Desc_Crawl fail 20151021/APPGPeBsWu1nASearchReport.html 10-21 16:17:38
+[Fatal] This_Crawl Failed global name 'UrlHead' is not defined 10-21 16:17:38
+[Notice] 222.88.236.236:843	 Desc_Crawl fail 20151021/APPGPeBsWu1sASearchReport.html 10-21 16:33:22
+[Notice] 219.142.192.196:1669	 Desc_Crawl fail 20151021/APPGPeBsWubbASearchReport.html 10-21 16:33:35
+[Notice] 222.88.236.236:82	 Desc_Crawl fail 20151021/APPGPeBsWuaLASearchReport.html 10-21 16:33:58
+[Notice] 116.31.76.197:3128	 Desc_Crawl fail 20151021/APPGPeBsWuf9ASearchReport.html 10-21 16:34:08
+[Notice] 122.226.62.90:3128	 Desc_Crawl fail 20151021/APPGPeBsWueZASearchReport.html 10-21 16:34:10
+[Notice] 221.193.240.119:3128	 Desc_Crawl fail 20151021/APPGPeBsWujBASearchReport.html 10-21 16:36:47
+[Notice] 219.142.192.196:1504	 Desc_Crawl fail 20151021/APPGPeBsWujBASearchReport.html 10-21 16:36:50
+[Notice] 219.142.192.196:816	 Desc_Crawl fail 20151021/APPGPeBsWugHASearchReport.html 10-21 16:36:57
+[Notice] 219.142.192.196:1513	 Desc_Crawl fail 20151021/APPGPeBsWvHyASearchReport.html 10-21 16:37:30
+[Notice] 219.142.192.196:5587	 Desc_Crawl fail 20151021/APPGPeBsWvwDASearchReport.html 10-21 16:37:44
+[Notice] Initial Finish 10-21 16:37:49
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.503 seconds.
+Prefix dict has been built succesfully.
+[Fatal] Error: there's a Rollback (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\xe4\xb9\xb0\xe5\x85\xa5"\xe3\x80\x82","20151021","16:34","1","\xe9\x93\x81\xe9\xbe\x99\xe7\x89\xa9\xe6\xb5\x81 0.00252070732923 \xe4\xb8\xad\xe5\x9b\xbd\xe8\xbf\x9c\xe6\xb4\x8b 0\' at line 1') 10-21 16:37:53
+[Fatal] Error: there's a Rollback (1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'\xe4\xb9\xb0\xe5\x85\xa5"\xe3\x80\x82","20151021","16:34","1","\xe9\x93\x81\xe9\xbe\x99\xe7\x89\xa9\xe6\xb5\x81 0.00252070732923 \xe4\xb8\xad\xe5\x9b\xbd\xe8\xbf\x9c\xe6\xb4\x8b 0\' at line 1') 10-21 16:37:54
+[Notice] InsertSQL Finished 10-21 16:37:55
