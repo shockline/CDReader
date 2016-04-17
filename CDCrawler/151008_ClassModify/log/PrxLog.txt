@@ -1,0 +1,51 @@
+[ERROR]: prx_new fail at Last Recorded Date
+[ERROR]: prx_inuse fail at 1008
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:''
+[check]:timed out
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:<urlopen error [Errno 111] Connection refused>
+[check]:timed out
+[check]:IncompleteRead(0 bytes read)
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:exceptions must be old-style classes or derived from BaseException, not str
+[check]:timed out
+[check]:HTTP Error 500: Internal Server Error
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
+[check]:timed out
+[check]:<urlopen error [Errno 111] Connection refused>
+[check]:<urlopen error [Errno 111] Connection refused>
+[check]:timed out
+[check]:<urlopen error [Errno 110] Connection timed out>
