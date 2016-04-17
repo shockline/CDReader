@@ -1,2 +1,8 @@
-[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 15:04:33
-[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 15:04:36
+[Notice] Get NULL Desc from 20151015/APPGPckwwhMZASearchReport.html 10-15 18:42:52
+[Warning] GetSoup Failed 10-15 18:42:52
+[Warning] This Crawl Failed, return -3 10-15 18:42:52
+[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 18:48:30
+[Notice] Something New Existed 10-15 18:48:53
+[Notice] Something New Existed 10-15 18:54:30
+[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 19:00:30
+[Notice] Something New Existed 10-15 19:00:36

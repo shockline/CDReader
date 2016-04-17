@@ -5,15 +5,19 @@ import sys
 import time
 import urllib2
 import logging 
+import ConfigParser
+
+config = ConfigParser.ConfigParser()  
+config.read("./conf/Basic.conf") 
+# CONFIG SET
+path_log = config.get("path", "path_log")
 
 class logMod:
 
-    Log = "./log/Log.txt"
-    LastDate = "Last Recorded Date"
+    Log = path_log
     LastTime = 0
+    LastDate = "Last Recorded Date"
     CurrentDate = "Current Date"
-    CurrentTime = -1
-    infile = ""
 
     logger=logging.getLogger()
     handler=logging.FileHandler(Log)
@@ -39,7 +43,7 @@ class logMod:
         self.logger.info("[Notice] %s " % str(tstring) + self.getTime())
         
     def CheckLog(self):
-        if os.path.exists("./log/Log.txt"):
+        if os.path.exists(Log):
             return True
         else :
             return False

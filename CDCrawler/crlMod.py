@@ -10,12 +10,24 @@ import random
 import logMod
 import cPickle
 import urllib2
+import ConfigParser
 
 l = logMod.logMod()
 
+config = ConfigParser.ConfigParser()  
+config.read("./conf/Basic.conf") 
+# CONFIG SET
+path_dict = config.get("path", "path_dict")
+path_data = config.get("path", "path_data")
+path_pxylist = config.get("path", "path_pxylist")
+exec_runtime = config.getint("para","EXEC_CYCLETIME")
+_URLHEAD = config.get("netpage","URLHEAD")
+_MAINURL = config.get("netpage","MAINURL")
+
 class crlMod:
 
-    Data =  "./data/crlData.txt"
+    Data = path_data
+    Dict = path_dict
     LastDate = "Last Recorded Date"
     LastTime = 0
     infile = ""
@@ -25,12 +37,9 @@ class crlMod:
     dictStore = {} # dict from last time, updated by 'tmp'
     proxylist = []
     
-    UrlHead = "http://data.eastmoney.com/report/"
-    MainUrl = "http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?\
-type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,\
-%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=pagesites&mkt=0&stat=0&cmd=2&code=&rt=47941243"
+    UrlHead = _URLHEAD
+    MainUrl = _MAINURL
 
-    
     def __init__(self):
         self.LastTime = time.localtime(time.time())
         self.ChangeFile()
@@ -79,16 +88,15 @@ type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,\
                 if pagesite == "NULL":
                     return -3 # Retry
                 key = "%s$%s$%s" % (link['secuFullCode'],link['title'],link['author'])
+                value = self.GetDesc(pagesite)
+                if value == "NULL":
+                    l.Notice("Get NULL Desc from %s" % str(pagesite).replace(self.UrlHead, ""))
+                    return -3 # Retry
                 if (not self.dictStore.has_key(key)) or self.dictStore[key] != pagesite :
+                    self.infile.write( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
+                    % (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'],\
+                    link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value) ) 
                     self.Storetmp[key] = pagesite
-                    value = self.GetDesc(pagesite)
-                    if value != "NULL" :
-                        self.infile.write( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
-                        % (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'],\
-                        link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value) ) 
-                    else :
-                         l.Notice("Get NULL Desc from %s" % str(pagesite).replace(self.UrlHead, ""))
-                         return -3 # Retry
                 else :
                     return 1 # This one has been crawled
             return 0
@@ -124,11 +132,7 @@ type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,\
                 return self.GetMainUrl(url,newpxy)
             else :
                 return -1 # Pxylist is Empty
-        for retry in xrange(1,5):
-            Status = self.GetContent(contents)
-            if Status >= 0 or retry == 4:
-                return Status
-        return 0
+        return self.GetContent(contents)
 
     
     def ChangeFile(self):
@@ -136,13 +140,14 @@ type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,\
         self.infile = open(self.Data.replace('.txt','%s.txt' % self.LastDate),"a")
     
     
-    def DumpDict(self):
+    def DumpDict(self): # Dump dictStore
         if self.dictStore:
-            cPickle.dump(self.dictStore, open("dictStore.txt", "w"))
+            cPickle.dump(self.dictStore, open(Dict, "w"))
     
     
     def Storepxy(self): # Make a back-up
-        cPickle.dump(self.proxylist, open("pxylist.txt", "w"))
+        if self.proxylist :
+            cPickle.dump(self.proxylist, open(path_pxylist, "w"))
     
     
     def CrawlPage(self, page) :
@@ -155,10 +160,11 @@ type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,\
                 l.Notice("Something New Existed")
         elif ret == -1: # Gain Failed
             l.Fatal("Proxylist has been empty")
-        elif ret <= -2: # Soup.size is 0 or Desc is empty
+        elif ret <= -2: # NoContentError (Soup.size is 0 or Desc is empty)
             l.Warning("GetSoup Failed")
         elif ret == 0: # Crawl until Page_end
             l.Notice("Initial Finish")
         if self.Storetmp : # If No news then return 'Empty'
             self.dictStore = self.Storetmp
+            self.Storetmp = []
         return ret
