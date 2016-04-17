@@ -5,29 +5,18 @@ from multiprocessing import Pool
 import os
 import sys
 import time
-import json
+import logMod
 import cPickle
 import urllib2
-import logging 
+
+l = logMod.logMod()
 
 class prxMod:
 
-    Log = "./log/PrxLog.txt"
     Data =  "./data/PrxData.txt"
     LastDate = "Last Recorded Date"
-    LastTime = 0
     CurrentDate = "Current Date"
-    CurrentTime = -1
     proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
-
-    logger=logging.getLogger()
-    handler=logging.FileHandler(Log)
-    logger.addHandler(handler)
-    logger.setLevel(logging.NOTSET)
-
-    reload(sys)
-    sys.setdefaultencoding('utf-8')
-
         
     def test_proxy(self,ip,port):
         #print ip,port,'miao'
@@ -47,17 +36,15 @@ class prxMod:
                     fobj = open('proxy_inuse.txt','a');
                     fobj.write('%s:%s\n'%(ip,port));
                     fobj.close();
-                    #print ip,port;
-                    #logger.info("[check]:" + str(ip) + ":" + str(port))
             else:
                 raise 'error';
         except Exception,ex:
-            self.logger.info("[check]:" + str(ex))   
+            l.Notice("%s Failed, %s" % (str(ip), str(ex)))
             
             
     def check_proxy(self):
         lines = []
-        if (os.path.exists('./new.txt')):
+        if (os.path.exists('./new.txt')): # Format : <IPAddress>:<Port>@<Anything> per line
             lines = [line.strip().split('@')[0] for line in file('new.txt')];
             for l in lines:
                 tmp = l.split(':');
@@ -74,8 +61,8 @@ class prxMod:
                 self.proxylist = cPickle.load(f)
                 return True
         else:
-            self.logger.info("[ERROR]: prx_new fail at " + str(self.LastDate))
-        return False
+            l.Fatal("Please Add new Proxylist <" + str(self.LastDate))
+        return False # Means there's no more new prx to add
 
         
     def Getpxylist(self):
@@ -84,20 +71,21 @@ class prxMod:
         if (os.path.exists('./proxy_inuse.txt')):
             self.proxylist = [line.strip().split('@')[0] for line in file('proxy_inuse.txt')];  
             os.remove('./proxy_inuse.txt') # Delete tmpFile
-            self.StoreFile()
+            self.Storepxy()
         elif Status == False:
-            self.logger.info("[ERROR]: Getlist fail at " + str(self.LastDate))
+            l.Warning("Getlist fail at " + str(self.LastDate))
         return Status # If return true, list can be available as "proxylist"
 
 
-    def StoreFile(self):
+    def Storepxy(self): # Make a back-up
         cPickle.dump(self.proxylist, open("pxylist.txt", "w"))
         
-    def RefreshList(self):
+        
+    def DumpList(self): # For Refresh or Check
         if self.proxylist:
             fobj = open('proxy_inuse.txt','a');
             for each in self.proxylist:
                 fobj.write("%s" % str(each));
             fobj.close();
         else :
-            self.logger.info("[TIP]: Empty pxylist at " + str(self.LastDate))
+            l.Notice("Empty pxylist at " + str(self.LastDate))
