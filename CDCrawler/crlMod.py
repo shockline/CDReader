@@ -36,6 +36,8 @@ class crlMod:
     Storetmp = {} # tmp for this time
     dictStore = {} # dict from last time, updated by 'tmp'
     proxylist = []
+    crawllist = []
+    currentpxy = ""
     
     UrlHead = _URLHEAD
     MainUrl = _MAINURL
@@ -55,16 +57,23 @@ class crlMod:
     
     
     def GetDesc(self, pagesite) :
+        pxy = ""
         value = "NULL"
         try :
-            html_doc = urllib2.urlopen(pagesite) 
+            pxy = self.Getpxy()
+            html_doc = self.Getdoc(pagesite, pxy) # urllib2.urlopen(pagesite) 
+            # html_doc = urllib2.urlopen(pagesite) 
         except :
-            #l.Notice("Desc_Crawl fail " + str(pagesite))
+            l.Notice("%s Desc_Crawl fail " % (str(pxy), str(pagesite)))
             return value
         soup = BeautifulSoup(html_doc)
         for link in soup.find_all('div') :
             if link.get('class') and link.get('class')[0] == 'newsContent' :
                 value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','')
+                return value
+        if value == "NULL" or len(value) < 4:
+            self.proxylist.remove(pxy)
+            print pxy, " >OUT"
         return value
     
     
@@ -86,14 +95,20 @@ class crlMod:
                 pagesite, value = "", ""
                 pagesite = self.MergeUrl(link)
                 if pagesite == "NULL":
-                    return -3 # Retry
-                key = "%s$%s$%s" % (link['secuFullCode'],link['title'],link['author'])
-                value = self.GetDesc(pagesite)
-                if value == "NULL":
-                    l.Notice("Get NULL Desc from %s" % str(pagesite).replace(self.UrlHead, ""))
-                    return -3 # Retry
+                    return -3 # Retry For Url
+                key = "%s\x01%s\x01%s" % (link['secuFullCode'],link['title'],link['author'])
+                for retry in xrange(0,3) :
+                    value = self.GetDesc(pagesite)
+                    if value == "NULL" or len(value) < 4 :
+                        # l.Notice("Get %s Desc from %s" % (value, str(pagesite).replace(self.UrlHead, "")))
+                        if self.proxylist:
+                            continue
+                        else :
+                            break
+                    else :
+                        break
                 if (not self.dictStore.has_key(key)) or self.dictStore[key] != pagesite :
-                    self.infile.write( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
+                    self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
                     % (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'],\
                     link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value) ) 
                     self.Storetmp[key] = pagesite
@@ -101,7 +116,7 @@ class crlMod:
                     return 1 # This one has been crawled
             return 0
         else :
-            return -2
+            return -2 # soup is Empty
     
     
     def Getdoc(self, url, pxy) :
@@ -125,46 +140,55 @@ class crlMod:
             page = "".join(the_page.split("=")[1:])
             contents = json.loads(page)
         except Exception, e:
-            l.Warning("GetMainURL failed: %s %s" % (str(url), str(e)))
+            l.Warning("%s GetMainURL failed: %s %s" % (str(pxy), str(url), str(e)))
             self.proxylist.remove(pxy)
             if self.proxylist:
-                newpxy = self.proxylist[random.randrange(0, len(self.proxylist), 1)]
-                return self.GetMainUrl(url,newpxy)
+                return self.GetMainUrl(url,  self.Getpxy())
             else :
                 return -1 # Pxylist is Empty
         return self.GetContent(contents)
 
     
-    def ChangeFile(self):
+    def ChangeFile(self): # Achieve current infile [Ignore]
         self.LastDate = str(time.strftime('%m%d',time.localtime(time.time())))
         self.infile = open(self.Data.replace('.txt','%s.txt' % self.LastDate),"a")
     
-    
+    def WriteInFile(self, pList): # Write list in reverse_mode
+        NowX = str(time.strftime('%m%d',time.localtime(time.time())))
+        WriteX = open(self.Data.replace('.txt','%s.txt' % NowX),"a")
+        for each in pList: # In ascending order according to the time sequence
+            WriteX.write(each)
+        
     def DumpDict(self): # Dump dictStore
         if self.dictStore:
-            cPickle.dump(self.dictStore, open(Dict, "w"))
-    
+            cPickle.dump(self.dictStore, open(self.Dict, "w"))
     
     def Storepxy(self): # Make a back-up
         if self.proxylist :
             cPickle.dump(self.proxylist, open(path_pxylist, "w"))
     
-    
-    def CrawlPage(self, page) :
-        self.ChangeFile()
+    def Getpxy(self): # Randomly-get a new proxy
         pos = random.randrange(0, len(self.proxylist), 1)
+        return self.proxylist[pos]
+    
+    def CrawlPage(self, page) : # Crawl CurrentPage
+        self.ChangeFile()
+        self.crawllist = []
         url = self.MainUrl.replace("pagesites", str(page))
-        ret = self.GetMainUrl(url, self.proxylist[pos])
-        if ret == 1: # If Store Changed
+        ret = self.GetMainUrl(url, self.Getpxy())
+        if ret == 0: # Crawl till Page_end
+            l.Notice("Initial Finish")
+            if self.Storetmp : # If No news then return 'Empty'
+                self.dictStore = self.Storetmp # For Testing ProxyPool You can Remove this line
+            #self.WriteInFile()
+        elif ret == 1: # If Store Changed
             if self.Storetmp:
                 l.Notice("Something New Existed")
+                self.dictStore = self.Storetmp # For Testing ProxyPool You can Remove this line
+            #self.WriteInFile()
         elif ret == -1: # Gain Failed
-            l.Fatal("Proxylist has been empty")
+            l.Fatal("Proxylist has been empty, This time's Crawl_list will be cleared.")
         elif ret <= -2: # NoContentError (Soup.size is 0 or Desc is empty)
-            l.Warning("GetSoup Failed")
-        elif ret == 0: # Crawl until Page_end
-            l.Notice("Initial Finish")
-        if self.Storetmp : # If No news then return 'Empty'
-            self.dictStore = self.Storetmp
-            self.Storetmp = []
+            l.Warning("GetSoup Failed!")
+        self.Storetmp = {}
         return ret

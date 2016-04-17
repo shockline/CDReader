@@ -1,0 +1,5 @@
+LR_model	4076 KB
+LR_tfidvectorizer	17032KB
+stocklist_final_utf8.txt	60KB
+train_all_small.model	1032654KB
+vocab_all	1746KB

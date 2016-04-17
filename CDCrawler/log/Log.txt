@@ -1,8 +1,158 @@
-[Notice] Get NULL Desc from 20151015/APPGPckwwhMZASearchReport.html 10-15 18:42:52
-[Warning] GetSoup Failed 10-15 18:42:52
-[Warning] This Crawl Failed, return -3 10-15 18:42:52
-[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 18:48:30
-[Notice] Something New Existed 10-15 18:48:53
-[Notice] Something New Existed 10-15 18:54:30
-[Warning] GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-15 19:00:30
-[Notice] Something New Existed 10-15 19:00:36
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:02:52
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:02:55
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUXASearchReport.html 10-17 15:02:58
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUXASearchReport.html 10-17 15:03:01
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUXASearchReport.html 10-17 15:03:04
+[Notice] Get NULL Desc from 20151016/APPGPczwDDk1ASearchReport.html 10-17 15:03:21
+[Notice] Get NULL Desc from 20151016/APPGPczwDDrJASearchReport.html 10-17 15:03:49
+[Notice] Get NULL Desc from 20151016/APPGPczwDDrJASearchReport.html 10-17 15:03:52
+[Notice] Get NULL Desc from 20151016/APPGPczwDDrIASearchReport.html 10-17 15:04:00
+[Notice] Get NULL Desc from 20151016/APPGPczwDDqnASearchReport.html 10-17 15:04:14
+[Notice] Get NULL Desc from 20151016/APPGPczwDEkNASearchReport.html 10-17 15:04:20
+[Notice] Get NULL Desc from 20151016/APPGPczwDEz1ASearchReport.html 10-17 15:04:25
+[Notice] Get NULL Desc from 20151016/APPGPczwDEz1ASearchReport.html 10-17 15:04:28
+[Notice] Get NULL Desc from 20151016/APPGPczwDHRcASearchReport.html 10-17 15:04:37
+[Notice] Get NULL Desc from 20151016/APPGPczwDHRcASearchReport.html 10-17 15:04:40
+[Notice] Get NULL Desc from 20151016/APPGPczwDGA5ASearchReport.html 10-17 15:04:44
+[Notice] Get NULL Desc from 20151016/APPGPczwDHpRASearchReport.html 10-17 15:06:04
+[Notice] Get NULL Desc from 20151016/APPGPczwDHuCASearchReport.html 10-17 15:06:18
+[Notice] Get NULL Desc from 20151016/APPGPczwDHuCASearchReport.html 10-17 15:06:21
+[Notice] Get NULL Desc from 20151016/APPGPczwDHuCASearchReport.html 10-17 15:06:26
+[Notice] Get NULL Desc from 20151016/APPGPczwDHttASearchReport.html 10-17 15:06:31
+[Notice] Get NULL Desc from 20151016/APPGPczwDIAkASearchReport.html 10-17 15:06:35
+[Notice] Get NULL Desc from 20151016/APPGPczwDIEvASearchReport.html 10-17 15:06:50
+[Notice] Get NULL Desc from 20151016/APPGPczwDIEvASearchReport.html 10-17 15:06:53
+[Notice] Get NULL Desc from 20151016/APPGPczwDIEvASearchReport.html 10-17 15:07:09
+[Notice] Get NULL Desc from 20151016/APPGPczwDIGJASearchReport.html 10-17 15:07:09
+[Notice] Initial Finish 10-17 15:07:11
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:14:52
+[Warning] 219.142.192.196:1821 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 15:20:51
+[Warning] 117.158.98.214:80 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 15:20:54
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:20:58
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:56:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 15:56:54
+[Warning] 219.142.192.196:182 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 16:02:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 16:08:54
+[Warning] 119.253.252.23:3128 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 111] Connection refused> 10-17 16:14:48
+[Warning] 219.142.192.196:60503 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 16:20:51
+[Warning] 219.142.192.196:198 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 16:38:51
+[Warning] 219.142.192.196:48852 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 16:56:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 17:08:51
+[Warning] 60.191.157.155:3128 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 [Errno 104] Connection reset by peer 10-17 17:14:48
+[Warning] 219.142.192.196:4930 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 17:14:51
+[Warning] 219.142.192.196:595 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 17:14:54
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 17:27:05
+[Warning] 115.231.96.120:80 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 17:32:51
+[Warning] 219.142.192.196:1944 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 17:32:54
+[Warning] 58.210.14.154:3128 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 HTTP Error 500: Internal Server Error 10-17 17:32:55
+[Warning] 219.142.192.196:392 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 17:56:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 17:56:54
+[Warning] 14.17.110.2:8088 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:02:51
+[Warning] 219.142.192.196:582 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:02:54
+[Warning] 219.142.192.196:824 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:02:57
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 18:02:59
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 18:02:59
+[Warning] 219.142.192.196:2558 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:08:51
+[Warning] 219.142.192.196:803 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:20:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 18:32:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 18:38:51
+[Warning] 121.69.30.2:8118 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 18:50:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:02:51
+[Warning] 219.142.192.196:205 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 19:14:51
+[Warning] 219.142.192.196:4590 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 19:14:54
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:14:56
+[Warning] 219.142.192.196:2664 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 19:20:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:21:07
+[Warning] 59.58.162.141:888 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 [Errno 104] Connection reset by peer 10-17 19:32:48
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:38:54
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:38:56
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:50:56
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:56:52
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 19:56:55
+[Warning] 118.144.50.220:3128 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 end is out of bounds 10-17 20:26:42
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 20:33:03
+[Warning] 219.142.192.196:557 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 20:50:47
+[Warning] 122.96.59.106:83 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 '' 10-17 21:03:05
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:03:05
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:03:08
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:38:51
+[Warning] 113.247.252.18:3128 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 HTTP Error 500: Internal Server Error 10-17 21:56:44
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:56:48
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:56:51
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 21:56:54
+[Warning] 219.142.192.196:376 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 22:02:47
+[Warning] 219.142.192.196:875 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 22:02:50
+[Notice] Get NULL Desc from 20151016/APPGPczwDDUjASearchReport.html 10-17 22:08:47
+[Warning] 122.96.59.105:843 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 22:26:47
+[Warning] 219.142.192.196:2829 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 22:44:47
+[Warning] 219.142.192.196:4757 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-17 22:50:47
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 14:27:02
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlidASearchReport.html 10-19 14:27:07
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlidASearchReport.html 10-19 14:27:10
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlnZASearchReport.html 10-19 14:27:25
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlppASearchReport.html 10-19 14:27:43
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlsMASearchReport.html 10-19 14:27:47
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlxdASearchReport.html 10-19 14:27:52
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmCrASearchReport.html 10-19 14:27:58
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmW3ASearchReport.html 10-19 14:28:06
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmW3ASearchReport.html 10-19 14:28:09
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmXtASearchReport.html 10-19 14:28:14
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmWEASearchReport.html 10-19 14:28:18
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmWEASearchReport.html 10-19 14:28:21
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmcBASearchReport.html 10-19 14:28:26
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmbuASearchReport.html 10-19 14:28:33
+[Notice] Get NULL Desc from 20151018/APPGPdTujINHASearchReport.html 10-19 14:28:37
+[Notice] Get NULL Desc from 20151018/APPGPdTujINWASearchReport.html 10-19 14:28:42
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 14:28:42
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 14:29:18
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 14:29:54
+[Notice] Get NULL Desc from 20151018/APPGPdTujINUASearchReport.html 10-19 14:29:57
+[Notice] Get NULL Desc from 20151018/APPGPdTujINTASearchReport.html 10-19 14:29:58
+[Notice] Get NULL Desc from 20151018/APPGPdTujINJASearchReport.html 10-19 14:30:04
+[Notice] Get NULL Desc from 20151018/APPGPdTujINLASearchReport.html 10-19 14:30:05
+[Notice] Get NULL Desc from 20151018/APPGPdTujINLASearchReport.html 10-19 14:30:10
+[Notice] Get NULL Desc from 20151018/APPGPdTujINLASearchReport.html 10-19 14:30:13
+[Notice] Get NULL Desc from 20151018/APPGPdTujINbASearchReport.html 10-19 14:30:20
+[Notice] Initial Finish 10-19 14:30:21
+[Warning] 219.142.192.196:3747 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:32:53
+[Warning] 219.142.192.196:1550 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:32:56
+[Warning] 219.142.192.196:552 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:50:53
+[Warning] 219.142.192.196:922 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:50:56
+[Warning] 219.142.192.196:2898 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:50:59
+[Warning] 219.142.192.196:414 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:51:02
+[Warning] 219.142.192.196:3680 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:56:53
+[Warning] 219.142.192.196:5685 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:56:56
+[Warning] 219.142.192.196:5176 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 14:56:59
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 14:57:03
+[Warning] 219.142.192.196:412 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 15:02:53
+[Warning] 219.142.192.196:32002 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 15:08:53
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 15:14:53
+[Warning] 219.142.192.196:4650 GetMainURL failed: http://datainterface.eastmoney.com//EM_DataCenter/js.aspx?type=SR&sty=GGSR&js=var%20qjEEjLvR={%22data%22:[(x)],%22pages%22:%22(pc)%22,%22update%22:%22(ud)%22,%22count%22:%22(count)%22}&ps=50&p=1&mkt=0&stat=0&cmd=2&code=&rt=47941243 <urlopen error [Errno 110] Connection timed out> 10-19 15:34:46
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlidASearchReport.html 10-19 15:34:49
+[Notice] Get NULL Desc from 20151019/APPGPdhtzljsASearchReport.html 10-19 15:34:55
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlk7ASearchReport.html 10-19 15:34:56
+[Notice] Get NULL Desc from 20151019/APPGPdhtzllHASearchReport.html 10-19 15:35:04
+[Notice] Get NULL Desc from 20151019/APPGPdhtzllHASearchReport.html 10-19 15:35:07
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlpgASearchReport.html 10-19 15:35:08
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlpgASearchReport.html 10-19 15:35:31
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlpgASearchReport.html 10-19 15:35:34
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlsMASearchReport.html 10-19 15:35:38
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlwrASearchReport.html 10-19 15:35:43
+[Notice] Get NULL Desc from 20151019/APPGPdhtzm1kASearchReport.html 10-19 15:35:47
+[Notice] Get NULL Desc from 20151019/APPGPdhtzm1kASearchReport.html 10-19 15:35:48
+[Notice] Get NULL Desc from 20151019/APPGPdhtzm4rASearchReport.html 10-19 15:35:51
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmD7ASearchReport.html 10-19 15:35:55
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmXsASearchReport.html 10-19 15:36:30
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmWPASearchReport.html 10-19 15:36:42
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmWPASearchReport.html 10-19 15:36:45
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmcQASearchReport.html 10-19 15:37:09
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmcrASearchReport.html 10-19 15:37:14
+[Notice] Get NULL Desc from 20151019/APPGPdhtzmeAASearchReport.html 10-19 15:37:18
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 15:37:23
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 15:37:26
+[Notice] Get NULL Desc from 20151018/APPGPdTujINVASearchReport.html 10-19 15:37:29
+[Notice] Initial Finish 10-19 15:37:48
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 15:40:47
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 16:04:47
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 16:04:51
+[Notice] Get NULL Desc from 20151019/APPGPdhtzlhWASearchReport.html 10-19 16:04:54
