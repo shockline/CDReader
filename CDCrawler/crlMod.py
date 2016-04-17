@@ -1,4 +1,4 @@
-#-*- coding: gbk -*-
+#*- coding: gbk -*-
 
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
@@ -55,6 +55,19 @@ class crlMod:
                 tmplist.append(each)
         self.proxylist = tmplist # Unique
     
+    def Get_crawllist(self):
+        return self.crawllist
+    
+    def Get_dictStore(self):
+        return self.dictStore
+    
+    def Set_dictStore(self, exStore):
+        try :
+            self.dictStore = exStore
+            return True
+        except Exception, ex:
+            l.Warning("Setter Error on dictStore %s" % str(ex))
+            return False
     
     def GetDesc(self, pagesite) :
         pxy = ""
@@ -64,9 +77,10 @@ class crlMod:
             html_doc = self.Getdoc(pagesite, pxy) # urllib2.urlopen(pagesite) 
             # html_doc = urllib2.urlopen(pagesite) 
         except :
-            l.Notice("%s Desc_Crawl fail " % (str(pxy), str(pagesite)))
+            l.Notice("%s\t Desc_Crawl fail %s" % (str(pxy), str(pagesite).replace(self.UrlHead,"")))
             return value
-        soup = BeautifulSoup(html_doc)
+        soup = BeautifulSoup(html_doc, "lxml")
+        #soup = BeautifulSoup(html_doc)
         for link in soup.find_all('div') :
             if link.get('class') and link.get('class')[0] == 'newsContent' :
                 value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','')
@@ -82,7 +96,7 @@ class crlMod:
         try:
             mid = "".join((link['datetime'].split("T")[0]).split("-"))
             last = link['infoCode']
-            pagesite = "%s%s/%s.html" % (self.UrlHead, str(mid), str(last))
+            pagesite = "%s%s/%s.html" % (str(self.UrlHead), str(mid), str(last))
         except:
             l.Warning("Get pagesite failed: " + str(link))
             return "NULL"
@@ -96,7 +110,7 @@ class crlMod:
                 pagesite = self.MergeUrl(link)
                 if pagesite == "NULL":
                     return -3 # Retry For Url
-                key = "%s\x01%s\x01%s" % (link['secuFullCode'],link['title'],link['author'])
+                key = "%s\x01%s\x01%s" % ( str(link['secuFullCode']), str(link['title']), str(link['author']) )
                 for retry in xrange(0,3) :
                     value = self.GetDesc(pagesite)
                     if value == "NULL" or len(value) < 4 :
@@ -108,9 +122,11 @@ class crlMod:
                     else :
                         break
                 if (not self.dictStore.has_key(key)) or self.dictStore[key] != pagesite :
-                    self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
-                    % (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'],\
-                    link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value) ) 
+                    thistime = time.localtime(time.time())
+                    self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % \
+                    (link['secuFullCode'], link['secuName'], link['companyCode'], link['rate'], link['change'], \
+                     link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value, \
+                     str(time.strftime('%Y%m%d', thistime)), str(time.strftime('%H:%M:%S', thistime)) ) ) 
                     self.Storetmp[key] = pagesite
                 else :
                     return 1 # This one has been crawled
@@ -140,10 +156,10 @@ class crlMod:
             page = "".join(the_page.split("=")[1:])
             contents = json.loads(page)
         except Exception, e:
-            l.Warning("%s GetMainURL failed: %s %s" % (str(pxy), str(url), str(e)))
+            l.Warning("%s GetMainURL failed: %s" % (str(pxy), str(e)))
             self.proxylist.remove(pxy)
             if self.proxylist:
-                return self.GetMainUrl(url,  self.Getpxy())
+                return self.GetMainUrl(url, self.Getpxy())
             else :
                 return -1 # Pxylist is Empty
         return self.GetContent(contents)

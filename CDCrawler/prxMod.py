@@ -84,7 +84,9 @@ class prxMod:
         elif Status == False:
             l.Warning("Getlist fail at " + str(self.LastDate))
         return Status # If return true, list can be available as "proxylist"
-
+    
+    def Get_pxylist(self):
+        return self.proxylist
 
     def Storepxy(self): # Make a back-up
         cPickle.dump(self.proxylist, open(path_pxylist, "w"))
