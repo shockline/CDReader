@@ -139,9 +139,6 @@ class crlMod:
             if pagesite == "NULL":
                 return -3 # Retry For Url
             key = "%s\x01%s\x01%s" % ( str(link['secuFullCode']), str(link['title']), str(link['author']) )
-            if self.dictStore.has_key(key) and self.dictStore[key] == pagesite :
-                l.Notice("The top has been crawlled, SKIP.")
-                return 1
             # Regular Proxy Crawl
             for retry in xrange(0,3) :
                 value = self.GetDesc(pagesite)

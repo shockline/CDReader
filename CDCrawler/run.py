@@ -118,7 +118,7 @@ def GoCrawl():
             l.Notice("Page[%s] Finished" % str(page))
             page = page + 1
         else :
-            l.Warning("Current Crawl Failed, Return %s" % str(status))
+            l.Warning("Crawl Failed, Return %s" % str(status))
             break
 
             
@@ -138,8 +138,6 @@ if __name__ == '__main__' :
                 GoCrawl()
             except Exception,ex:
                 l.Notice("This_Crawl Failed %s" % str(ex))
-                if str(ex).startswith("empty range for randrange"):
-                    DailyMT()
             c.Storepxy() # Open For Testing proxylists
             c.StoreDict() # Open For Testing dictStores
         if ( CurrentDate != LastDate ): # Call function when Date Changes
