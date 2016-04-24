@@ -1,0 +1,1348 @@
+﻿[Notice] News Detect Started >>  11-04 13:33:05
+[Notice] Now Start CrawlPage 1 11-04 13:33:05
+[Notice] Current Soup-list's size: [2/40] 11-04 13:33:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 13:33:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml 11-04 13:33:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001927/index.phtml 11-04 13:33:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml 11-04 13:33:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001915/index.phtml 11-04 13:33:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001912/index.phtml 11-04 13:33:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001906/index.phtml 11-04 13:33:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml 11-04 13:33:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001890/index.phtml 11-04 13:33:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001885/index.phtml 11-04 13:33:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001872/index.phtml 11-04 13:33:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001868/index.phtml 11-04 13:33:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001863/index.phtml 11-04 13:33:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001846/index.phtml 11-04 13:33:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001832/index.phtml 11-04 13:33:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001830/index.phtml 11-04 13:33:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001829/index.phtml 11-04 13:33:18
+[Notice] Remove 121.14.138.56:81 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001826/index.phtml timed out 11-04 13:33:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001826/index.phtml 11-04 13:33:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001822/index.phtml 11-04 13:33:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001820/index.phtml 11-04 13:33:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001819/index.phtml 11-04 13:33:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001814/index.phtml 11-04 13:33:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001808/index.phtml 11-04 13:33:53
+[Notice] This_Crawl Failed timed out 11-04 13:34:09
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 13:34:09
+[Notice] Daily Maintenance Finished 11-04 13:34:09
+[Notice] News Detect Started >>  11-04 13:39:05
+[Notice] Now Start CrawlPage 1 11-04 13:39:05
+[Notice] Current Soup-list's size: [2/40] 11-04 13:39:05
+[Notice] Remove 27.221.10.194:8081 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 13:39:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 13:39:10
+[Notice] Remove 124.251.62.246:80 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 13:39:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml 11-04 13:39:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001927/index.phtml 11-04 13:39:13
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml [Errno 110] Connection timed out 11-04 13:39:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml 11-04 13:39:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001915/index.phtml 11-04 13:39:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001912/index.phtml 11-04 13:39:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001906/index.phtml 11-04 13:39:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml 11-04 13:39:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001890/index.phtml 11-04 13:39:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001885/index.phtml 11-04 13:39:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001872/index.phtml 11-04 13:39:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001868/index.phtml 11-04 13:39:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001863/index.phtml 11-04 13:39:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001846/index.phtml 11-04 13:39:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001832/index.phtml 11-04 13:39:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001830/index.phtml 11-04 13:39:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001829/index.phtml 11-04 13:39:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001826/index.phtml 11-04 13:39:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001822/index.phtml 11-04 13:39:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001820/index.phtml 11-04 13:39:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001819/index.phtml 11-04 13:39:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001814/index.phtml 11-04 13:39:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001808/index.phtml 11-04 13:39:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001795/index.phtml 11-04 13:39:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001787/index.phtml 11-04 13:39:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001780/index.phtml 11-04 13:39:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001778/index.phtml 11-04 13:39:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001776/index.phtml 11-04 13:39:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001768/index.phtml 11-04 13:39:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001754/index.phtml 11-04 13:39:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001752/index.phtml 11-04 13:39:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001750/index.phtml 11-04 13:39:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 13:39:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001744/index.phtml 11-04 13:39:50
+[Notice] Remove 27.221.10.194:8081 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 13:39:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 13:39:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001737/index.phtml 11-04 13:39:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001735/index.phtml 11-04 13:39:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001728/index.phtml 11-04 13:39:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001724/index.phtml 11-04 13:39:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001718/index.phtml 11-04 13:39:57
+[Notice] Status RET value is 0 11-04 13:39:57
+[Notice] AddLabels Started, 63 objects this time 11-04 13:39:57
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.526 seconds.
+Prefix dict has been built succesfully.
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 13:39:58
+[Fatal] Error: there's a Rollback (1136, "Column count doesn't match value count at row 1")
+SQL:INSERT INTO StockDataSina(Source,Title,CompanyName,Author,Url,Text,Date,Time,LabelMood,LabelRelate,Positive,Negative) VALUES ("SINA","Real Estate Developers:Trackin...","高盛高华证券有限责任公司","Yi Wang,Vicky Li,Jill Guan","http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml","Financial position repaired but not enough       Operating cash flow stayed positive in 3Q on theback of 72% yoy increase in cash inflow fromproperty sales. Cash balance as % of short-termdebt recovered to 1Q14 levels but gearingincreased 4ppt qoq to 105% due to more negativeinvestment cash flow. We think developers shouldcontinue focusing on de-stocking to improve theirbalance sheet further.       Mixed profitability trend       Pretax margins (excl. investment income) furtherdeclined 2ppt qoq to 9% though GPM recovered2ppt qoq. That said, larger developers’ GPM saw acertain degree of stabilization but smaller oneswere still struggling with weakening profitability.。       Market share continued to expand       Overall market share of 110 A-share developersexpanded by 9ppt/5ppt to 40%/22% of top 40cities/nationwide. This gain was largely beingconcentrated in the Top 15 developers, mainlyresulting from the inclusion of GreenlandHoldings’ financials since 2Q15.       Performance       Our offshore/onshore coverage is trading at48%/29% disc. to end-15E NAV and 1.0X/2.0X 15EP/B ex. revaluation. We expect mortgage easingand rate cuts to further improve housingtransactions in 4Q15. Top picks (CL-Buy): Agile,Shimao and Vanke A. Risks: Sales/margin miss (-)/beat (+), macro hard landing (-).","20151104","13:39"); 11-04 13:39:58
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 13:39:58
+[Fatal] Error: there's a Rollback (1136, "Column count doesn't match value count at row 1")
+SQL:INSERT INTO StockDataSina(Source,Title,CompanyName,Author,Url,Text,Date,Time,LabelMood,LabelRelate,Positive,Negative) VALUES ("SINA","Vipshop Holdings:Introducing the Rmb estimates,maintain Buy","高盛高华证券有限责任公司","Piyush Mubayi,George Meng,David Jin,Fan Liu","http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml","What's changed       Following the reporting currency change in 1Q15, we change our financialmodel currency from US$ to Rmb. However due to Rmb’s depreciationagainst US$, our EPADS estimates in US$ terms are lowered accordingly.We keep our 2017 Rmb estimates largely unchanged but cut 2015-16estimates as we expect VIPS to focus on top line growth over marginexpansion in the short term. We cut our 12-month target price to US$25.0(from US$27.0 previously), offering 23% upside potential. Maintain Buy.       Implications       The stock has weakened from its March peak mainly due to concerns on atop line slowdown in our view. The recent Rmb depreciation makes therevenue guidance of Rmb9.1-9.3bn for 3Q15 even slower in US$ terms. Weacknowledge the inevitable slowdown of revenue growth due to its highrevenue base but believe the concern is overdone. We estimate thecompany will still deliver c.45% yoy revenue growth in 2016 whilemaintaining stable margins.       In addition, we believe the potential inclusion of Vipshop into the MSCIindices would be positive for the stock price. According to MSCI, theinclusions will take place in two batches, with the first to be announced inNov 2015 and the second in May 2016.       Valuation       We roll forward our valuation to 2017E non-GAAP EPADS (2016E prior).We also cut our target P/E multiple to 24x (33x prior), at a 20% discount toits historical average one year forward non-GAAP P/E of 30x. This is due toa slower growth (2016-19E CAGR of 28% vs. 2015-18E CAGR of 35%) andstabilizing margins. 24x is also in-line with the median target P/E multiplein our global tech coverage universe for names with over US$10bn marketcap. As a result, we cut our 12-month target price 7% to US$25.0.       Key risks       (1) Faster-than-expected revenue growth slowdown due to lower usergrowth. (2) Intensive competition that puts more pressure on margins.","20151104","13:39"); 11-04 13:39:58
+[Notice] InsertSQL Finished 11-04 13:40:03
+[Notice] Page[1] Finished, need continue 11-04 13:40:03
+[Notice] Now Start CrawlPage 2 11-04 13:40:03
+[Notice] Current Soup-list's size: [2/40] 11-04 13:40:03
+[Notice] Remove 118.144.171.253:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001713/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 13:40:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001713/index.phtml 11-04 13:40:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001701/index.phtml 11-04 13:40:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001699/index.phtml 11-04 13:40:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001697/index.phtml 11-04 13:40:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001686/index.phtml 11-04 13:40:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001673/index.phtml 11-04 13:40:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001670/index.phtml 11-04 13:40:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001666/index.phtml 11-04 13:40:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001663/index.phtml 11-04 13:40:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001656/index.phtml 11-04 13:40:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001654/index.phtml 11-04 13:40:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001650/index.phtml 11-04 13:40:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001644/index.phtml 11-04 13:40:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001640/index.phtml 11-04 13:40:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001625/index.phtml 11-04 13:40:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001617/index.phtml 11-04 13:40:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001609/index.phtml 11-04 13:40:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001606/index.phtml 11-04 13:40:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001596/index.phtml 11-04 13:40:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001597/index.phtml 11-04 13:40:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001588/index.phtml 11-04 13:40:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001582/index.phtml 11-04 13:40:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001565/index.phtml 11-04 13:40:25
+[Notice] This_Crawl Failed timed out 11-04 13:40:41
+[Fatal] Initial Failed prxMod instance has no attribute 'proxylist' 11-04 13:49:35
+[Notice] News Detect Started >>  11-04 13:49:35
+[Notice] Now Start CrawlPage 1 11-04 13:49:35
+[Notice] This_Crawl Failed empty range for randrange() (0,0, 0) 11-04 13:49:35
+[Notice] Daily Maintenance Started >> From Needs Maintenance to 151104  11-04 13:49:35
+[Warning] 151104's DMT Failed prxMod instance has no attribute 'proxylist' 11-04 13:49:35
+[Notice] Daily Maintenance Finished 11-04 13:49:35
+[Notice] News Detect Started >>  11-04 13:55:04
+[Notice] Now Start CrawlPage 1 11-04 13:55:04
+[Notice] Current Soup-list's size: [2/40] 11-04 13:55:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 13:55:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml 11-04 13:55:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001927/index.phtml 11-04 13:55:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml 11-04 13:55:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001915/index.phtml 11-04 13:55:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001912/index.phtml 11-04 13:55:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001906/index.phtml 11-04 13:55:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml 11-04 13:55:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001890/index.phtml 11-04 13:55:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001885/index.phtml 11-04 13:55:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001872/index.phtml 11-04 13:55:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001868/index.phtml 11-04 13:55:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001863/index.phtml 11-04 13:55:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001846/index.phtml 11-04 13:55:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001832/index.phtml 11-04 13:55:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001830/index.phtml 11-04 13:55:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001829/index.phtml 11-04 13:55:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001826/index.phtml 11-04 13:55:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001822/index.phtml 11-04 13:55:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001820/index.phtml 11-04 13:55:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001819/index.phtml 11-04 13:55:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001814/index.phtml 11-04 13:55:26
+[Notice] Remove 183.111.169.201:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001808/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 13:55:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001808/index.phtml 11-04 13:55:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001795/index.phtml 11-04 13:55:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001787/index.phtml 11-04 13:55:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001780/index.phtml 11-04 13:55:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001778/index.phtml 11-04 13:55:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001776/index.phtml 11-04 13:55:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001768/index.phtml 11-04 13:55:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001754/index.phtml 11-04 13:55:37
+[Notice] Remove 27.221.10.194:8081 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001752/index.phtml timed out 11-04 13:55:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001752/index.phtml 11-04 13:55:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001750/index.phtml 11-04 13:55:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 13:55:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001744/index.phtml 11-04 13:55:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 13:55:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001737/index.phtml 11-04 13:55:56
+[Notice] Remove 121.15.230.126:9797 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001735/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 13:55:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001735/index.phtml 11-04 13:56:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001728/index.phtml 11-04 13:56:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001724/index.phtml 11-04 13:56:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001718/index.phtml 11-04 13:56:03
+[Notice] InsertSQL & Initial Finished 11-04 13:56:03
+[Notice] Status RET value is 2 11-04 13:56:03
+[Notice] AddLabels Started, 40 objects this time 11-04 13:56:03
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.525 seconds.
+Prefix dict has been built succesfully.
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 13:56:04
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 13:56:04
+[Notice] InsertSQL Finished 11-04 13:56:07
+[Notice] Page[1] Finished, Initial over 11-04 13:56:07
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 13:56:07
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 13:56:07
+[Notice] Daily Maintenance Finished 11-04 13:56:07
+[Notice] News Detect Started >>  11-04 14:01:04
+[Notice] Now Start CrawlPage 1 11-04 14:01:04
+[Notice] Current Soup-list's size: [2/40] 11-04 14:01:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 14:01:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 14:01:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 14:01:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 14:01:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 14:01:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 14:01:10
+[Notice] There's an Existed article. 如果联储不加息(四):货币都去哪儿了?	中泰证券股份有限公司	刘启元 11-04 14:01:10
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:01:10
+[Notice] Status RET value is 1 11-04 14:01:10
+[Notice] AddLabels Started, 5 objects this time 11-04 14:01:10
+[Notice] InsertSQL Finished 11-04 14:01:11
+[Notice] Page[1] Finished, stop here 11-04 14:01:11
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:01:11
+[Notice] News Detect Started >>  11-04 14:07:04
+[Notice] Now Start CrawlPage 1 11-04 14:07:04
+[Notice] Current Soup-list's size: [2/21] 11-04 14:07:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 14:07:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 14:07:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 14:07:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 14:07:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 14:07:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 14:07:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 14:07:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 14:07:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 14:07:13
+[Notice] There's an Existed article. 永泰能源:拟设三家售电公司,电力业务再发力	广发证券股份有限公司	安鹏,沈涛 11-04 14:07:13
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:07:13
+[Notice] Status RET value is 1 11-04 14:07:13
+[Notice] AddLabels Started, 8 objects this time 11-04 14:07:13
+[Notice] InsertSQL Finished 11-04 14:07:13
+[Notice] Page[1] Finished, stop here 11-04 14:07:13
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:07:13
+[Notice] News Detect Started >>  11-04 14:13:04
+[Notice] Now Start CrawlPage 1 11-04 14:13:04
+[Notice] Current Soup-list's size: [2/40] 11-04 14:13:05
+[Notice] The top has been crawlled, SKIP. 11-04 14:13:05
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:13:05
+[Notice] Status RET value is 1 11-04 14:13:05
+[Notice] Nothing New, skip SQL-Module 11-04 14:13:05
+[Notice] Page[1] Finished, stop here 11-04 14:13:05
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:13:05
+[Notice] News Detect Started >>  11-04 14:19:04
+[Notice] Now Start CrawlPage 1 11-04 14:19:04
+[Notice] Current Soup-list's size: [2/21] 11-04 14:19:05
+[Notice] The top has been crawlled, SKIP. 11-04 14:19:05
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:19:05
+[Notice] Status RET value is 1 11-04 14:19:05
+[Notice] Nothing New, skip SQL-Module 11-04 14:19:05
+[Notice] Page[1] Finished, stop here 11-04 14:19:05
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:19:05
+[Notice] News Detect Started >>  11-04 14:25:04
+[Notice] Now Start CrawlPage 1 11-04 14:25:04
+[Notice] Current Soup-list's size: [2/21] 11-04 14:25:05
+[Notice] The top has been crawlled, SKIP. 11-04 14:25:05
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:25:05
+[Notice] Status RET value is 1 11-04 14:25:05
+[Notice] Nothing New, skip SQL-Module 11-04 14:25:05
+[Notice] Page[1] Finished, stop here 11-04 14:25:05
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:25:05
+[Notice] 14.17.110.2 Failed, <urlopen error [Errno 110] Connection timed out> 11-04 14:36:23
+[Notice] 14.152.37.194 Failed, timed out 11-04 14:36:26
+[Notice] 58.19.222.139 Failed, timed out 11-04 14:36:44
+[Notice] 58.210.14.154 Failed, timed out 11-04 14:36:47
+[Notice] 222.246.232.55 Failed, timed out 11-04 14:37:08
+[Notice] 60.191.170.85 Failed, [Errno 104] Connection reset by peer 11-04 14:37:22
+[Notice] 60.191.170.122 Failed, timed out 11-04 14:37:25
+[Notice] 61.53.65.52 Failed, HTTP Error 500: Internal Server Error 11-04 14:37:28
+[Notice] 61.136.247.238 Failed, timed out 11-04 14:37:32
+[Notice] 61.162.184.14 Failed, '' 11-04 14:37:33
+[Notice] 85.143.24.70 Failed, timed out 11-04 14:37:47
+[Notice] 91.121.153.214 Failed, <urlopen error [Errno 111] Connection refused> 11-04 14:37:51
+[Notice] 103.56.157.157 Failed, <urlopen error [Errno 110] Connection timed out> 11-04 14:37:58
+[Notice] 106.186.22.65 Failed, timed out 11-04 14:38:04
+[Notice] 110.74.195.41 Failed, <urlopen error [Errno 110] Connection timed out> 11-04 14:38:17
+[Notice] 112.5.254.172 Failed, timed out 11-04 14:38:20
+[Notice] 112.74.86.238 Failed, <urlopen error [Errno 110] Connection timed out> 11-04 14:38:23
+[Notice] 112.84.130.31 Failed, <urlopen error [Errno 110] Connection timed out> 11-04 14:38:27
+[Notice] 117.36.198.55 Failed, timed out 11-04 14:38:43
+[Notice] 118.144.177.254 Failed, timed out 11-04 14:38:57
+[Notice] 119.188.94.145 Failed, timed out 11-04 14:39:00
+[Notice] 121.69.15.58 Failed, timed out 11-04 14:39:07
+[Notice] 122.226.142.52 Failed, timed out 11-04 14:39:20
+[Notice] 123.13.201.119 Failed, timed out 11-04 14:39:24
+[Notice] 124.165.252.62 Failed, timed out 11-04 14:39:27
+[Notice] 183.111.169.207 Failed, <urlopen error [Errno 111] Connection refused> 11-04 14:40:12
+[Notice] 202.29.97.2 Failed, timed out 11-04 14:40:29
+[Notice] News Detect Started >>  11-04 14:40:29
+[Notice] Now Start CrawlPage 1 11-04 14:40:29
+[Notice] Current Soup-list's size: [2/21] 11-04 14:40:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 14:40:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 14:40:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 14:40:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 14:40:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 14:40:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 14:40:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 14:40:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 14:40:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 14:40:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 14:40:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 14:40:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 14:40:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 14:40:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 14:40:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 14:40:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 14:40:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 14:40:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 14:40:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 14:40:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 14:40:58
+[Notice] Remove 27.221.10.194:8081 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 14:41:01
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml 11-04 14:41:01
+[Notice] InsertSQL & Initial Finished 11-04 14:41:01
+[Notice] Status RET value is 2 11-04 14:41:01
+[Notice] AddLabels Started, 20 objects this time 11-04 14:41:01
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.520 seconds.
+Prefix dict has been built succesfully.
+[Notice] InsertSQL Finished 11-04 14:41:04
+[Notice] Page[1] Finished, Initial over 11-04 14:41:04
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:41:04
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 14:41:04
+[Notice] Daily Maintenance Finished 11-04 14:41:04
+[Notice] News Detect Started >>  11-04 14:46:29
+[Notice] Now Start CrawlPage 1 11-04 14:46:29
+[Notice] Current Soup-list's size: [2/21] 11-04 14:46:30
+[Notice] The top has been crawlled, SKIP. 11-04 14:46:30
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:46:30
+[Notice] Status RET value is 1 11-04 14:46:30
+[Notice] Nothing New, skip SQL-Module 11-04 14:46:30
+[Notice] Page[1] Finished, stop here 11-04 14:46:30
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:46:30
+[Notice] News Detect Started >>  11-04 14:52:29
+[Notice] Now Start CrawlPage 1 11-04 14:52:29
+[Notice] Current Soup-list's size: [2/21] 11-04 14:52:30
+[Notice] The top has been crawlled, SKIP. 11-04 14:52:30
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:52:30
+[Notice] Status RET value is 1 11-04 14:52:30
+[Notice] Nothing New, skip SQL-Module 11-04 14:52:30
+[Notice] Page[1] Finished, stop here 11-04 14:52:30
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:52:30
+[Notice] News Detect Started >>  11-04 14:58:29
+[Notice] Now Start CrawlPage 1 11-04 14:58:29
+[Notice] Current Soup-list's size: [2/21] 11-04 14:58:30
+[Notice] The top has been crawlled, SKIP. 11-04 14:58:30
+[Notice] Temp_dictStore Cleared, size is 0 11-04 14:58:30
+[Notice] Status RET value is 1 11-04 14:58:30
+[Notice] Nothing New, skip SQL-Module 11-04 14:58:30
+[Notice] Page[1] Finished, stop here 11-04 14:58:30
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 14:58:30
+[Notice] News Detect Started >>  11-04 15:04:29
+[Notice] Now Start CrawlPage 1 11-04 15:04:29
+[Notice] Current Soup-list's size: [2/21] 11-04 15:04:31
+[Notice] The top has been crawlled, SKIP. 11-04 15:04:31
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:04:31
+[Notice] Status RET value is 1 11-04 15:04:31
+[Notice] Nothing New, skip SQL-Module 11-04 15:04:31
+[Notice] Page[1] Finished, stop here 11-04 15:04:31
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:04:31
+[Notice] News Detect Started >>  11-04 15:11:46
+[Notice] Now Start CrawlPage 1 11-04 15:11:46
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:11:46
+[Notice] Current Soup-list's size: [2/21] 11-04 15:11:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 15:11:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 15:11:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 15:11:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 15:11:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 15:11:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 15:12:00
+[Notice] Remove 218.92.227.165:33965 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml [Errno 104] Connection reset by peer 11-04 15:12:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 15:12:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 15:12:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 15:12:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 15:12:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 15:12:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 15:12:23
+[Notice] Remove 218.92.227.168:23239 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml [Errno 104] Connection reset by peer 11-04 15:12:25
+[Notice] Remove 218.92.227.171:33948 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 15:12:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 15:12:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 15:12:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 15:12:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 15:12:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 15:12:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 15:12:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 15:12:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 15:12:31
+[Notice] Remove 218.92.227.173:23684 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 15:12:31
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml 11-04 15:12:31
+[Notice] InsertSQL & Initial Finished 11-04 15:12:31
+[Notice] Status RET value is 2 11-04 15:12:31
+[Notice] AddLabels Started, 20 objects this time 11-04 15:12:31
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.554 seconds.
+Prefix dict has been built succesfully.
+[Notice] InsertSQL Finished 11-04 15:12:34
+[Notice] Page[1] Finished, Initial over 11-04 15:12:34
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:12:34
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 15:12:34
+[Notice] Daily Maintenance Finished 11-04 15:12:34
+[Notice] News Detect Started >>  11-04 15:16:40
+[Notice] Now Start CrawlPage 1 11-04 15:16:40
+[Notice] Crawl Table Finished. There are 23 <tr> 11-04 15:16:42
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:16:42
+[Notice] Current Soup-list's size: [2/21] 11-04 15:16:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 15:16:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 15:16:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 15:16:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 15:16:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 15:16:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 15:16:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 15:16:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 15:16:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 15:16:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 15:16:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 15:16:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 15:16:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 15:16:54
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 15:16:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 15:16:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 15:16:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 15:16:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 15:16:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 15:17:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 15:17:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 15:17:00
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml 11-04 15:17:05
+[Notice] InsertSQL & Initial Finished 11-04 15:17:05
+[Notice] Status RET value is 2 11-04 15:17:05
+[Notice] AddLabels Started, 20 objects this time 11-04 15:17:05
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.545 seconds.
+Prefix dict has been built succesfully.
+[Notice] InsertSQL Finished 11-04 15:17:08
+[Notice] Page[1] Finished, Initial over 11-04 15:17:08
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:17:08
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 15:17:08
+[Notice] Daily Maintenance Finished 11-04 15:17:08
+[Notice] News Detect Started >>  11-04 15:22:40
+[Notice] Now Start CrawlPage 1 11-04 15:22:40
+[Notice] Crawl Table Finished. There are 23 <tr> 11-04 15:22:41
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:22:41
+[Notice] Current Soup-list's size: [2/21] 11-04 15:22:41
+[Notice] The top has been crawlled, SKIP. 11-04 15:22:41
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:22:41
+[Notice] Status RET value is 1 11-04 15:22:41
+[Notice] Nothing New, skip SQL-Module 11-04 15:22:41
+[Notice] Page[1] Finished, stop here 11-04 15:22:41
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:22:41
+[Notice] News Detect Started >>  11-04 15:28:40
+[Notice] Now Start CrawlPage 1 11-04 15:28:40
+[Notice] Crawl Table Finished. There are 23 <tr> 11-04 15:28:41
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:28:41
+[Notice] Current Soup-list's size: [2/21] 11-04 15:28:41
+[Notice] The top has been crawlled, SKIP. 11-04 15:28:41
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:28:41
+[Notice] Status RET value is 1 11-04 15:28:41
+[Notice] Nothing New, skip SQL-Module 11-04 15:28:41
+[Notice] Page[1] Finished, stop here 11-04 15:28:41
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:28:41
+[Notice] News Detect Started >>  11-04 15:34:40
+[Notice] Now Start CrawlPage 1 11-04 15:34:40
+[Notice] Crawl Table Finished. There are 23 <tr> 11-04 15:34:47
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:34:47
+[Notice] Current Soup-list's size: [2/21] 11-04 15:34:47
+[Notice] The top has been crawlled, SKIP. 11-04 15:34:47
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:34:47
+[Notice] Status RET value is 1 11-04 15:34:47
+[Notice] Nothing New, skip SQL-Module 11-04 15:34:47
+[Notice] Page[1] Finished, stop here 11-04 15:34:47
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:34:47
+[Notice] News Detect Started >>  11-04 15:40:40
+[Notice] Now Start CrawlPage 1 11-04 15:40:40
+[Notice] Crawl Table Finished. There are 23 <tr> 11-04 15:40:41
+[Notice] GetNext Finished. There are 23 <tr> 11-04 15:40:41
+[Notice] Current Soup-list's size: [2/21] 11-04 15:40:41
+[Notice] The top has been crawlled, SKIP. 11-04 15:40:41
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:40:41
+[Notice] Status RET value is 1 11-04 15:40:41
+[Notice] Nothing New, skip SQL-Module 11-04 15:40:41
+[Notice] Page[1] Finished, stop here 11-04 15:40:41
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:40:41
+[Notice] News Detect Started >>  11-04 15:48:09
+[Notice] Now Start CrawlPage 1 11-04 15:48:09
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 15:48:10
+[Notice] GetNext Finished. There are 42 <tr> 11-04 15:48:10
+[Notice] Current Soup-list's size: [3/40] 11-04 15:48:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml 11-04 15:48:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002769/index.phtml 11-04 15:48:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml 11-04 15:48:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002751/index.phtml 11-04 15:48:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002735/index.phtml 11-04 15:48:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml 11-04 15:48:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml 11-04 15:48:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml 11-04 15:48:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002711/index.phtml 11-04 15:48:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002707/index.phtml 11-04 15:48:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002703/index.phtml 11-04 15:48:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml 11-04 15:48:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002669/index.phtml 11-04 15:48:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml 11-04 15:48:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml 11-04 15:48:25
+[Notice] Remove 58.220.2.134:80 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 15:48:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml 11-04 15:48:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 15:48:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 15:48:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 15:48:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 15:48:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 15:48:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 15:48:40
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 15:48:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 15:48:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 15:48:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 15:48:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 15:49:10
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 15:49:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 15:49:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 15:49:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 15:49:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 15:49:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 15:49:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 15:49:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 15:49:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 15:49:17
+[Notice] Remove 123.157.99.139:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml HTTP Error 500: Internal Server Error 11-04 15:49:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 15:49:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 15:49:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 15:49:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 15:49:21
+[Notice] InsertSQL & Initial Finished 11-04 15:49:21
+[Notice] Status RET value is 2 11-04 15:49:21
+[Notice] AddLabels Started, 38 objects this time 11-04 15:49:21
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.545 seconds.
+Prefix dict has been built succesfully.
+[Notice] InsertSQL Finished 11-04 15:49:25
+[Notice] Page[1] Finished, Initial over 11-04 15:49:25
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:49:25
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 15:49:25
+[Notice] Daily Maintenance Finished 11-04 15:49:25
+[Notice] News Detect Started >>  11-04 15:54:09
+[Notice] Now Start CrawlPage 1 11-04 15:54:09
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 15:54:09
+[Notice] GetNext Finished. There are 42 <tr> 11-04 15:54:09
+[Notice] Current Soup-list's size: [3/40] 11-04 15:54:09
+[Notice] The top has been crawlled, SKIP. 11-04 15:54:09
+[Notice] Temp_dictStore Cleared, size is 0 11-04 15:54:09
+[Notice] Status RET value is 1 11-04 15:54:09
+[Notice] Nothing New, skip SQL-Module 11-04 15:54:09
+[Notice] Page[1] Finished, stop here 11-04 15:54:09
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 15:54:09
+[Notice] News Detect Started >>  11-04 16:00:09
+[Notice] Now Start CrawlPage 1 11-04 16:00:09
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:00:09
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:00:09
+[Notice] Current Soup-list's size: [3/40] 11-04 16:00:09
+[Notice] The top has been crawlled, SKIP. 11-04 16:00:09
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:00:09
+[Notice] Status RET value is 1 11-04 16:00:09
+[Notice] Nothing New, skip SQL-Module 11-04 16:00:09
+[Notice] Page[1] Finished, stop here 11-04 16:00:09
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:00:09
+[Notice] News Detect Started >>  11-04 16:05:56
+[Notice] Now Start CrawlPage 1 11-04 16:05:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:05:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:05:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:05:56
+[Notice] This_Crawl Failed timed out 11-04 16:07:00
+[Notice] Daily Maintenance Started >> From Last Recorded Date to 151104  11-04 16:07:00
+[Notice] Daily Maintenance Finished 11-04 16:07:01
+[Notice] News Detect Started >>  11-04 16:11:56
+[Notice] Now Start CrawlPage 1 11-04 16:11:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:11:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:11:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:11:56
+[Notice] Remove 218.92.227.171:16107 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 16:11:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml 11-04 16:12:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002769/index.phtml 11-04 16:12:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml 11-04 16:12:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002751/index.phtml 11-04 16:12:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002735/index.phtml 11-04 16:12:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml 11-04 16:12:08
+[Notice] Remove 121.43.187.19:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml HTTP Error 502: Bad Gateway 11-04 16:12:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml 11-04 16:12:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml 11-04 16:12:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002711/index.phtml 11-04 16:12:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002707/index.phtml 11-04 16:12:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002703/index.phtml 11-04 16:12:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml 11-04 16:12:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002669/index.phtml 11-04 16:12:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml 11-04 16:12:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml 11-04 16:12:39
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml 11-04 16:12:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 16:12:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 16:12:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 16:12:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 16:12:43
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 16:12:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 16:12:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 16:12:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 16:12:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 16:12:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 16:12:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 16:12:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 16:12:48
+[Notice] Remove 27.221.10.194:8081 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 16:12:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 16:12:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 16:12:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 16:12:55
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 16:12:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 16:13:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 16:13:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 16:13:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 16:13:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 16:13:10
+[Notice] Remove 121.43.187.19:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml HTTP Error 502: Bad Gateway 11-04 16:13:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 16:13:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 16:13:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 16:13:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 16:13:20
+[Notice] InsertSQL & Initial Finished 11-04 16:13:20
+[Notice] Status RET value is 2 11-04 16:13:20
+[Notice] AddLabels Started, 40 objects this time 11-04 16:13:20
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.513 seconds.
+Prefix dict has been built succesfully.
+[Notice] InsertSQL Finished 11-04 16:13:26
+[Notice] Page[1] Finished, Initial over 11-04 16:13:26
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:13:26
+[Notice] News Detect Started >>  11-04 16:17:56
+[Notice] Now Start CrawlPage 1 11-04 16:17:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:17:59
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:17:59
+[Notice] Current Soup-list's size: [3/40] 11-04 16:17:59
+[Notice] The top has been crawlled, SKIP. 11-04 16:17:59
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:17:59
+[Notice] Status RET value is 1 11-04 16:17:59
+[Notice] Nothing New, skip SQL-Module 11-04 16:17:59
+[Notice] Page[1] Finished, stop here 11-04 16:17:59
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:17:59
+[Notice] News Detect Started >>  11-04 16:23:56
+[Notice] Now Start CrawlPage 1 11-04 16:23:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:23:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:23:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:23:56
+[Notice] The top has been crawlled, SKIP. 11-04 16:23:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:23:56
+[Notice] Status RET value is 1 11-04 16:23:56
+[Notice] Nothing New, skip SQL-Module 11-04 16:23:56
+[Notice] Page[1] Finished, stop here 11-04 16:23:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:23:56
+[Notice] News Detect Started >>  11-04 16:29:56
+[Notice] Now Start CrawlPage 1 11-04 16:29:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:29:59
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:29:59
+[Notice] Current Soup-list's size: [3/40] 11-04 16:29:59
+[Notice] The top has been crawlled, SKIP. 11-04 16:29:59
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:29:59
+[Notice] Status RET value is 1 11-04 16:29:59
+[Notice] Nothing New, skip SQL-Module 11-04 16:29:59
+[Notice] Page[1] Finished, stop here 11-04 16:29:59
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:29:59
+[Notice] News Detect Started >>  11-04 16:35:56
+[Notice] Now Start CrawlPage 1 11-04 16:35:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:35:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:35:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:35:56
+[Notice] The top has been crawlled, SKIP. 11-04 16:35:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:35:56
+[Notice] Status RET value is 1 11-04 16:35:56
+[Notice] Nothing New, skip SQL-Module 11-04 16:35:56
+[Notice] Page[1] Finished, stop here 11-04 16:35:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:35:56
+[Notice] News Detect Started >>  11-04 16:41:56
+[Notice] Now Start CrawlPage 1 11-04 16:41:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:41:58
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:41:58
+[Notice] Current Soup-list's size: [3/40] 11-04 16:41:58
+[Notice] The top has been crawlled, SKIP. 11-04 16:41:58
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:41:58
+[Notice] Status RET value is 1 11-04 16:41:58
+[Notice] Nothing New, skip SQL-Module 11-04 16:41:58
+[Notice] Page[1] Finished, stop here 11-04 16:41:58
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:41:58
+[Notice] News Detect Started >>  11-04 16:47:56
+[Notice] Now Start CrawlPage 1 11-04 16:47:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:47:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:47:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:47:56
+[Notice] The top has been crawlled, SKIP. 11-04 16:47:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:47:56
+[Notice] Status RET value is 1 11-04 16:47:56
+[Notice] Nothing New, skip SQL-Module 11-04 16:47:56
+[Notice] Page[1] Finished, stop here 11-04 16:47:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:47:56
+[Notice] News Detect Started >>  11-04 16:53:56
+[Notice] Now Start CrawlPage 1 11-04 16:53:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 16:53:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 16:53:56
+[Notice] Current Soup-list's size: [3/40] 11-04 16:53:56
+[Notice] The top has been crawlled, SKIP. 11-04 16:53:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 16:53:56
+[Notice] Status RET value is 1 11-04 16:53:56
+[Notice] Nothing New, skip SQL-Module 11-04 16:53:56
+[Notice] Page[1] Finished, stop here 11-04 16:53:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 16:53:56
+[Notice] News Detect Started >>  11-04 16:59:56
+[Notice] Now Start CrawlPage 1 11-04 16:59:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:01:02
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:01:02
+[Notice] Current Soup-list's size: [3/40] 11-04 17:01:02
+[Notice] The top has been crawlled, SKIP. 11-04 17:01:02
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:01:02
+[Notice] Status RET value is 1 11-04 17:01:02
+[Notice] Nothing New, skip SQL-Module 11-04 17:01:02
+[Notice] Page[1] Finished, stop here 11-04 17:01:02
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:01:02
+[Notice] News Detect Started >>  11-04 17:05:56
+[Notice] Now Start CrawlPage 1 11-04 17:05:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:05:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:05:56
+[Notice] Current Soup-list's size: [3/40] 11-04 17:05:56
+[Notice] The top has been crawlled, SKIP. 11-04 17:05:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:05:56
+[Notice] Status RET value is 1 11-04 17:05:56
+[Notice] Nothing New, skip SQL-Module 11-04 17:05:56
+[Notice] Page[1] Finished, stop here 11-04 17:05:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:05:56
+[Notice] News Detect Started >>  11-04 17:11:56
+[Notice] Now Start CrawlPage 1 11-04 17:11:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:11:57
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:11:57
+[Notice] Current Soup-list's size: [3/40] 11-04 17:11:57
+[Notice] The top has been crawlled, SKIP. 11-04 17:11:57
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:11:57
+[Notice] Status RET value is 1 11-04 17:11:57
+[Notice] Nothing New, skip SQL-Module 11-04 17:11:57
+[Notice] Page[1] Finished, stop here 11-04 17:11:57
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:11:57
+[Notice] News Detect Started >>  11-04 17:17:56
+[Notice] Now Start CrawlPage 1 11-04 17:17:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:17:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:17:56
+[Notice] Current Soup-list's size: [3/40] 11-04 17:17:56
+[Notice] The top has been crawlled, SKIP. 11-04 17:17:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:17:56
+[Notice] Status RET value is 1 11-04 17:17:56
+[Notice] Nothing New, skip SQL-Module 11-04 17:17:56
+[Notice] Page[1] Finished, stop here 11-04 17:17:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:17:56
+[Notice] News Detect Started >>  11-04 17:23:56
+[Notice] Now Start CrawlPage 1 11-04 17:23:56
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:23:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:23:56
+[Notice] Current Soup-list's size: [8/40] 11-04 17:23:56
+[Notice] The top has been crawlled, SKIP. 11-04 17:23:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:23:56
+[Notice] Status RET value is 1 11-04 17:23:56
+[Notice] Nothing New, skip SQL-Module 11-04 17:23:56
+[Notice] Page[1] Finished, stop here 11-04 17:23:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:23:56
+[Notice] News Detect Started >>  11-04 17:29:56
+[Notice] Now Start CrawlPage 1 11-04 17:29:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:29:57
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:29:57
+[Notice] Current Soup-list's size: [3/40] 11-04 17:29:57
+[Notice] The top has been crawlled, SKIP. 11-04 17:29:57
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:29:57
+[Notice] Status RET value is 1 11-04 17:29:57
+[Notice] Nothing New, skip SQL-Module 11-04 17:29:57
+[Notice] Page[1] Finished, stop here 11-04 17:29:57
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:29:57
+[Notice] News Detect Started >>  11-04 17:35:56
+[Notice] Now Start CrawlPage 1 11-04 17:35:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:35:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:35:56
+[Notice] Current Soup-list's size: [3/40] 11-04 17:35:56
+[Notice] The top has been crawlled, SKIP. 11-04 17:35:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:35:56
+[Notice] Status RET value is 1 11-04 17:35:56
+[Notice] Nothing New, skip SQL-Module 11-04 17:35:56
+[Notice] Page[1] Finished, stop here 11-04 17:35:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:35:56
+[Notice] News Detect Started >>  11-04 17:41:56
+[Notice] Now Start CrawlPage 1 11-04 17:41:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:41:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:41:56
+[Notice] Current Soup-list's size: [3/40] 11-04 17:41:56
+[Notice] The top has been crawlled, SKIP. 11-04 17:41:56
+[Notice] Temp_dictStore Cleared, size is 0 11-04 17:41:56
+[Notice] Status RET value is 1 11-04 17:41:56
+[Notice] Nothing New, skip SQL-Module 11-04 17:41:56
+[Notice] Page[1] Finished, stop here 11-04 17:41:56
+[Notice] GoCrawl Over, Current Crawllist's size is 0 11-04 17:41:56
+[Notice] News Detect Started >>  11-04 17:47:56
+[Notice] Now Start CrawlPage 1 11-04 17:47:56
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:47:56
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:47:56
+[Notice] Current Soup-list's size: [3/40] 11-04 17:47:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003115/index.phtml 11-04 17:47:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003113/index.phtml 11-04 17:47:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003110/index.phtml 11-04 17:47:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003093/index.phtml 11-04 17:47:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003085/index.phtml 11-04 17:47:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003072/index.phtml 11-04 17:47:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003052/index.phtml 11-04 17:47:59
+[Notice] Remove 183.207.232.119:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003047/index.phtml HTTP Error 403: Forbidden 11-04 17:48:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003047/index.phtml 11-04 17:48:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 17:48:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003023/index.phtml 11-04 17:48:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003017/index.phtml 11-04 17:48:01
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003010/index.phtml 11-04 17:48:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002983/index.phtml 11-04 17:48:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002975/index.phtml 11-04 17:48:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002968/index.phtml 11-04 17:48:03
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002944/index.phtml 11-04 17:48:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002926/index.phtml 11-04 17:48:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002890/index.phtml 11-04 17:48:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002888/index.phtml 11-04 17:48:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002865/index.phtml 11-04 17:48:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002861/index.phtml 11-04 17:48:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002859/index.phtml 11-04 17:48:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002855/index.phtml 11-04 17:48:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002842/index.phtml 11-04 17:48:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002830/index.phtml 11-04 17:48:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002827/index.phtml 11-04 17:48:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002825/index.phtml 11-04 17:48:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002811/index.phtml 11-04 17:48:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002805/index.phtml 11-04 17:48:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002799/index.phtml 11-04 17:48:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002783/index.phtml 11-04 17:48:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml 11-04 17:48:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002769/index.phtml 11-04 17:48:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml 11-04 17:48:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002751/index.phtml 11-04 17:48:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002735/index.phtml 11-04 17:48:28
+[Notice] Remove 183.63.239.213:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml HTTP Error 500: Internal Server Error 11-04 17:48:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml 11-04 17:48:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml 11-04 17:48:29
+[Notice] Remove 121.15.230.126:9797 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:48:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml 11-04 17:48:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002711/index.phtml 11-04 17:48:33
+[Notice] Status RET value is 0 11-04 17:48:33
+[Notice] AddLabels Started, 40 objects this time 11-04 17:48:33
+[Warning] Corpus_Making Failed at 1 ['600591']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 17:48:36
+[Notice] InsertSQL Finished 11-04 17:48:37
+[Notice] Page[1] Finished, need continue 11-04 17:48:37
+[Notice] Now Start CrawlPage 2 11-04 17:48:37
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:48:38
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:48:38
+[Notice] Current Soup-list's size: [3/40] 11-04 17:48:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002707/index.phtml 11-04 17:48:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002703/index.phtml 11-04 17:48:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml 11-04 17:48:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002669/index.phtml 11-04 17:48:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml 11-04 17:48:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml 11-04 17:48:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml 11-04 17:48:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 17:48:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 17:48:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 17:48:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 17:48:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 17:48:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 17:48:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 17:48:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 17:48:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 17:48:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 17:48:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 17:49:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 17:49:03
+[Notice] Remove 118.144.171.253:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:49:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 17:49:06
+[Notice] Remove 183.207.232.119:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml HTTP Error 403: Forbidden 11-04 17:49:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 17:49:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 17:49:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 17:49:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 17:49:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 17:49:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 17:49:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 17:49:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 17:49:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 17:49:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 17:49:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 17:49:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 17:49:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 17:49:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 17:49:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 17:49:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 17:49:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 17:49:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 17:49:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 17:49:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 17:49:59
+[Notice] Status RET value is 0 11-04 17:49:59
+[Notice] AddLabels Started, 40 objects this time 11-04 17:49:59
+[Notice] InsertSQL Finished 11-04 17:50:04
+[Notice] Page[2] Finished, need continue 11-04 17:50:04
+[Notice] Now Start CrawlPage 3 11-04 17:50:04
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:50:06
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:50:06
+[Notice] Current Soup-list's size: [3/40] 11-04 17:50:06
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:50:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 17:50:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 17:50:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 17:50:16
+[Notice] Remove 123.157.99.139:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml HTTP Error 500: Internal Server Error 11-04 17:50:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 17:50:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 17:50:20
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 17:50:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 17:50:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 17:50:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 17:50:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 17:50:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 17:50:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 17:50:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 17:50:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 17:50:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 17:50:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 17:50:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 17:51:09
+[Notice] Remove 218.92.227.170:33948 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 17:51:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 17:51:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 17:51:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 17:51:11
+[Notice] Remove 183.207.232.119:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml HTTP Error 403: Forbidden 11-04 17:51:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 17:51:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 17:51:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 17:51:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 17:51:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 17:51:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 17:51:18
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 17:51:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 17:51:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 17:51:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 17:51:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 17:51:27
+[Notice] Remove 60.191.146.52:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:51:30
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml [Errno 110] Connection timed out 11-04 17:51:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 17:51:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 17:51:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 17:51:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 17:51:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 17:51:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml 11-04 17:51:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 17:51:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml 11-04 17:51:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001927/index.phtml 11-04 17:51:58
+[Notice] Status RET value is 0 11-04 17:51:58
+[Notice] AddLabels Started, 40 objects this time 11-04 17:51:58
+[Notice] InsertSQL Finished 11-04 17:52:03
+[Notice] Page[3] Finished, need continue 11-04 17:52:03
+[Notice] Now Start CrawlPage 4 11-04 17:52:03
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:52:07
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:52:07
+[Notice] Current Soup-list's size: [3/40] 11-04 17:52:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml 11-04 17:52:07
+[Notice] This_Crawl Failed timed out 11-04 17:55:04
+[Notice] News Detect Started >>  11-04 17:55:04
+[Notice] Now Start CrawlPage 1 11-04 17:55:04
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:55:04
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:55:04
+[Notice] Current Soup-list's size: [3/40] 11-04 17:55:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003174/index.phtml 11-04 17:55:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003122/index.phtml 11-04 17:55:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003120/index.phtml 11-04 17:55:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003115/index.phtml 11-04 17:55:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003113/index.phtml 11-04 17:55:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003110/index.phtml 11-04 17:55:09
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003107/index.phtml 11-04 17:55:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003093/index.phtml 11-04 17:55:11
+[Notice] Remove 183.207.232.194:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003085/index.phtml HTTP Error 403: Forbidden 11-04 17:55:11
+[Notice] Remove 60.191.146.52:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003085/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:55:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003085/index.phtml 11-04 17:55:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003083/index.phtml 11-04 17:55:15
+[Notice] Remove 218.92.227.168:23239 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003081/index.phtml [Errno 104] Connection reset by peer 11-04 17:56:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003081/index.phtml 11-04 17:56:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003072/index.phtml 11-04 17:56:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003054/index.phtml 11-04 17:56:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003052/index.phtml 11-04 17:56:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003050/index.phtml 11-04 17:56:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003047/index.phtml 11-04 17:56:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003045/index.phtml 11-04 17:56:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 17:56:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003040/index.phtml 11-04 17:56:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003036/index.phtml 11-04 17:56:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003031/index.phtml 11-04 17:56:29
+[Notice] Remove 163.177.155.2:8088 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003023/index.phtml HTTP Error 502: Bad Gateway 11-04 17:56:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003023/index.phtml 11-04 17:56:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003022/index.phtml 11-04 17:56:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003017/index.phtml 11-04 17:56:39
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003010/index.phtml 11-04 17:56:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003006/index.phtml 11-04 17:56:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002992/index.phtml 11-04 17:56:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002983/index.phtml 11-04 17:56:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002978/index.phtml 11-04 17:56:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002976/index.phtml 11-04 17:56:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002975/index.phtml 11-04 17:56:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002972/index.phtml 11-04 17:56:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002970/index.phtml 11-04 17:56:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002968/index.phtml 11-04 17:56:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002965/index.phtml 11-04 17:56:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002944/index.phtml 11-04 17:56:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002930/index.phtml 11-04 17:56:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002926/index.phtml 11-04 17:56:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002918/index.phtml 11-04 17:56:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002898/index.phtml 11-04 17:56:58
+[Notice] Status RET value is 0 11-04 17:56:58
+[Notice] AddLabels Started, 41 objects this time 11-04 17:56:58
+[Warning] Corpus_Making Failed at 1 ['600591']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 17:57:00
+[Notice] InsertSQL Finished 11-04 17:57:03
+[Notice] Page[1] Finished, need continue 11-04 17:57:03
+[Notice] Now Start CrawlPage 2 11-04 17:57:03
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:57:04
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:57:04
+[Notice] Current Soup-list's size: [3/40] 11-04 17:57:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002894/index.phtml 11-04 17:57:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002890/index.phtml 11-04 17:57:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002888/index.phtml 11-04 17:57:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002882/index.phtml 11-04 17:57:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002879/index.phtml 11-04 17:57:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002871/index.phtml 11-04 17:57:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002865/index.phtml 11-04 17:57:09
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002861/index.phtml 11-04 17:57:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002859/index.phtml 11-04 17:57:10
+[Notice] Remove 183.207.232.194:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002857/index.phtml HTTP Error 403: Forbidden 11-04 17:57:10
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002857/index.phtml 11-04 17:57:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002855/index.phtml 11-04 17:57:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002842/index.phtml 11-04 17:57:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002836/index.phtml 11-04 17:57:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002830/index.phtml 11-04 17:57:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002828/index.phtml 11-04 17:57:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002827/index.phtml 11-04 17:57:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002825/index.phtml 11-04 17:57:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002811/index.phtml 11-04 17:57:21
+[Notice] Remove 188.226.172.109:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002805/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:57:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002805/index.phtml 11-04 17:57:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002799/index.phtml 11-04 17:57:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002789/index.phtml 11-04 17:57:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002787/index.phtml 11-04 17:57:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002785/index.phtml 11-04 17:57:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002783/index.phtml 11-04 17:57:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml 11-04 17:57:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002769/index.phtml 11-04 17:57:32
+[Notice] Remove 183.207.232.193:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml HTTP Error 403: Forbidden 11-04 17:57:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml 11-04 17:57:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002751/index.phtml 11-04 17:57:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002735/index.phtml 11-04 17:57:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml 11-04 17:57:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml 11-04 17:57:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml 11-04 17:57:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002711/index.phtml 11-04 17:57:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002707/index.phtml 11-04 17:57:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002703/index.phtml 11-04 17:57:38
+[Notice] Remove 192.241.181.108:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 17:57:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml 11-04 17:57:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002669/index.phtml 11-04 17:57:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml 11-04 17:57:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml 11-04 17:57:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml 11-04 17:57:56
+[Notice] Status RET value is 0 11-04 17:57:56
+[Notice] AddLabels Started, 40 objects this time 11-04 17:57:56
+[Notice] InsertSQL Finished 11-04 17:58:00
+[Notice] Page[2] Finished, need continue 11-04 17:58:00
+[Notice] Now Start CrawlPage 3 11-04 17:58:00
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 17:58:04
+[Notice] GetNext Finished. There are 42 <tr> 11-04 17:58:04
+[Notice] Current Soup-list's size: [3/40] 11-04 17:58:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 17:58:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 17:58:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 17:58:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 17:58:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 17:58:08
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 17:58:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 17:58:13
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 17:58:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 17:58:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 17:58:40
+[Notice] Remove 60.29.248.142:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml HTTP Error 503: Service Unavailable 11-04 17:58:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 17:58:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 17:58:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 17:58:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 17:58:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 17:58:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 17:58:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 17:58:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 17:58:58
+[Notice] Remove 183.111.169.201:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 17:58:58
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 17:58:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 17:59:03
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 17:59:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 17:59:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 17:59:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 17:59:07
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 17:59:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 17:59:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 17:59:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 17:59:24
+[Notice] Remove 183.207.232.193:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml HTTP Error 403: Forbidden 11-04 17:59:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 17:59:25
+[Notice] Remove 183.207.232.194:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml HTTP Error 403: Forbidden 11-04 17:59:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 17:59:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 17:59:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 17:59:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 17:59:27
+[Notice] Remove 183.207.232.119:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml HTTP Error 403: Forbidden 11-04 17:59:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 17:59:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002033/index.phtml 11-04 17:59:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002030/index.phtml 11-04 17:59:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002023/index.phtml 11-04 17:59:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001959/index.phtml 11-04 17:59:57
+[Notice] Remove 60.191.146.52:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:00:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001935/index.phtml 11-04 18:00:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001927/index.phtml 11-04 18:00:02
+[Notice] Status RET value is 0 11-04 18:00:02
+[Notice] AddLabels Started, 40 objects this time 11-04 18:00:02
+[Notice] InsertSQL Finished 11-04 18:00:07
+[Notice] Page[3] Finished, need continue 11-04 18:00:07
+[Notice] Now Start CrawlPage 4 11-04 18:00:07
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:00:11
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:00:11
+[Notice] Current Soup-list's size: [3/40] 11-04 18:00:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001923/index.phtml 11-04 18:00:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001915/index.phtml 11-04 18:00:14
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001912/index.phtml 11-04 18:00:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001906/index.phtml 11-04 18:00:29
+[Notice] Remove 218.92.227.168:23239 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml timed out 11-04 18:01:33
+[Notice] Remove 218.92.227.171:33948 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:01:36
+[Notice] Remove 116.112.102.38:3128 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml <urlopen error [Errno 111] Connection refused> 11-04 18:01:36
+[Notice] Insert into Blacklist: http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001898/index.phtml 11-04 18:01:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001890/index.phtml 11-04 18:01:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001885/index.phtml 11-04 18:01:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001872/index.phtml 11-04 18:01:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001868/index.phtml 11-04 18:01:38
+[Notice] Remove 183.207.232.119:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001863/index.phtml HTTP Error 403: Forbidden 11-04 18:01:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001863/index.phtml 11-04 18:01:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001846/index.phtml 11-04 18:01:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001832/index.phtml 11-04 18:01:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001830/index.phtml 11-04 18:01:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001829/index.phtml 11-04 18:01:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001826/index.phtml 11-04 18:01:42
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001822/index.phtml 11-04 18:01:42
+[Notice] Remove 218.92.227.171:15238 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001820/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:01:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001820/index.phtml 11-04 18:01:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001819/index.phtml 11-04 18:01:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001814/index.phtml 11-04 18:01:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001808/index.phtml 11-04 18:01:54
+[Notice] Remove 183.207.232.194:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001795/index.phtml HTTP Error 403: Forbidden 11-04 18:01:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001795/index.phtml 11-04 18:01:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001787/index.phtml 11-04 18:01:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001780/index.phtml 11-04 18:02:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001778/index.phtml 11-04 18:02:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001776/index.phtml 11-04 18:02:23
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001768/index.phtml 11-04 18:02:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001754/index.phtml 11-04 18:02:28
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001752/index.phtml 11-04 18:02:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001750/index.phtml 11-04 18:02:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 18:02:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001744/index.phtml 11-04 18:02:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 18:02:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001737/index.phtml 11-04 18:02:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001735/index.phtml 11-04 18:02:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001728/index.phtml 11-04 18:02:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001724/index.phtml 11-04 18:02:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001718/index.phtml 11-04 18:02:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001713/index.phtml 11-04 18:02:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001701/index.phtml 11-04 18:02:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001699/index.phtml 11-04 18:02:52
+[Notice] Status RET value is 0 11-04 18:02:52
+[Notice] AddLabels Started, 39 objects this time 11-04 18:02:52
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001740/index.phtml 11-04 18:02:54
+[Warning] Corpus_Making Failed at 1 ['601299']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001748/index.phtml 11-04 18:02:54
+[Notice] InsertSQL Finished 11-04 18:02:57
+[Notice] Page[4] Finished, need continue 11-04 18:02:57
+[Notice] Now Start CrawlPage 5 11-04 18:02:57
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:03:01
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:03:01
+[Notice] Current Soup-list's size: [3/40] 11-04 18:03:01
+[Notice] Remove 183.207.232.193:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001697/index.phtml HTTP Error 403: Forbidden 11-04 18:03:01
+[Notice] Remove 183.207.232.193:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001697/index.phtml HTTP Error 403: Forbidden 11-04 18:03:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001697/index.phtml 11-04 18:03:02
+[Notice] Remove 183.207.232.119:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001686/index.phtml HTTP Error 403: Forbidden 11-04 18:03:02
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001686/index.phtml 11-04 18:03:03
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001673/index.phtml 11-04 18:03:03
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001670/index.phtml 11-04 18:03:04
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001666/index.phtml 11-04 18:03:05
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001663/index.phtml 11-04 18:03:06
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3001656/index.phtml 11-04 18:03:06
+[Notice] This_Crawl Failed timed out 11-04 18:04:10
+[Notice] News Detect Started >>  11-04 18:04:10
+[Notice] Now Start CrawlPage 1 11-04 18:04:10
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:04:11
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:04:11
+[Notice] Current Soup-list's size: [3/40] 11-04 18:04:11
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003174/index.phtml 11-04 18:04:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003122/index.phtml 11-04 18:04:12
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003120/index.phtml 11-04 18:04:13
+[Notice] Remove 121.14.138.56:81 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003115/index.phtml HTTP Error 502: Bad Gateway 11-04 18:04:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003115/index.phtml 11-04 18:04:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003113/index.phtml 11-04 18:04:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003110/index.phtml 11-04 18:04:45
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003107/index.phtml 11-04 18:04:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003093/index.phtml 11-04 18:04:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003085/index.phtml 11-04 18:04:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003083/index.phtml 11-04 18:04:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003081/index.phtml 11-04 18:04:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003072/index.phtml 11-04 18:04:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003054/index.phtml 11-04 18:04:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003052/index.phtml 11-04 18:04:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003050/index.phtml 11-04 18:04:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003047/index.phtml 11-04 18:04:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003045/index.phtml 11-04 18:04:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 18:04:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003040/index.phtml 11-04 18:04:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003036/index.phtml 11-04 18:04:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003031/index.phtml 11-04 18:04:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003023/index.phtml 11-04 18:04:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003022/index.phtml 11-04 18:04:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003017/index.phtml 11-04 18:04:54
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003010/index.phtml 11-04 18:04:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003006/index.phtml 11-04 18:05:19
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002992/index.phtml 11-04 18:05:20
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002983/index.phtml 11-04 18:05:21
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002978/index.phtml 11-04 18:05:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002976/index.phtml 11-04 18:05:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002975/index.phtml 11-04 18:05:26
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002972/index.phtml 11-04 18:05:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002970/index.phtml 11-04 18:05:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002968/index.phtml 11-04 18:05:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002965/index.phtml 11-04 18:05:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002944/index.phtml 11-04 18:05:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002930/index.phtml 11-04 18:05:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002926/index.phtml 11-04 18:05:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002918/index.phtml 11-04 18:05:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002898/index.phtml 11-04 18:05:38
+[Notice] Status RET value is 0 11-04 18:05:38
+[Notice] AddLabels Started, 47 objects this time 11-04 18:05:38
+[Warning] Corpus_Making Failed at 1 ['600591']http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003043/index.phtml 11-04 18:05:40
+[Notice] InsertSQL Finished 11-04 18:05:44
+[Notice] Page[1] Finished, need continue 11-04 18:05:44
+[Notice] Now Start CrawlPage 2 11-04 18:05:44
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:05:45
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:05:45
+[Notice] Current Soup-list's size: [3/40] 11-04 18:05:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002894/index.phtml 11-04 18:05:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002890/index.phtml 11-04 18:05:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002888/index.phtml 11-04 18:05:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002882/index.phtml 11-04 18:05:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002879/index.phtml 11-04 18:05:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002871/index.phtml 11-04 18:05:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002865/index.phtml 11-04 18:05:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002861/index.phtml 11-04 18:05:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002859/index.phtml 11-04 18:05:50
+[Notice] Remove 183.207.232.193:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002857/index.phtml HTTP Error 403: Forbidden 11-04 18:05:50
+[Notice] Remove 183.207.232.193:9080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002857/index.phtml HTTP Error 403: Forbidden 11-04 18:05:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002857/index.phtml 11-04 18:05:50
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002855/index.phtml 11-04 18:05:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002842/index.phtml 11-04 18:05:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002836/index.phtml 11-04 18:05:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002830/index.phtml 11-04 18:05:59
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002828/index.phtml 11-04 18:06:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002827/index.phtml 11-04 18:06:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002825/index.phtml 11-04 18:06:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002811/index.phtml 11-04 18:06:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002805/index.phtml 11-04 18:06:38
+[Notice] Remove 218.92.227.169:18186 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002799/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:06:41
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002799/index.phtml 11-04 18:06:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002789/index.phtml 11-04 18:06:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002787/index.phtml 11-04 18:06:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002785/index.phtml 11-04 18:06:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002783/index.phtml 11-04 18:06:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002771/index.phtml 11-04 18:06:46
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002769/index.phtml 11-04 18:06:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002768/index.phtml 11-04 18:06:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002751/index.phtml 11-04 18:06:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002735/index.phtml 11-04 18:07:00
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002733/index.phtml 11-04 18:07:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002726/index.phtml 11-04 18:07:01
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002719/index.phtml 11-04 18:07:22
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002711/index.phtml 11-04 18:07:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002707/index.phtml 11-04 18:07:24
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002703/index.phtml 11-04 18:07:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002699/index.phtml 11-04 18:07:25
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002669/index.phtml 11-04 18:07:26
+[Notice] Remove 218.92.227.165:33965 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:07:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002659/index.phtml 11-04 18:07:30
+[Notice] Remove 218.92.227.171:33948 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml [Errno 110] Connection timed out 11-04 18:07:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002657/index.phtml 11-04 18:07:45
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002655/index.phtml 11-04 18:07:46
+[Notice] Status RET value is 0 11-04 18:07:46
+[Notice] AddLabels Started, 40 objects this time 11-04 18:07:46
+[Notice] InsertSQL Finished 11-04 18:07:50
+[Notice] Page[2] Finished, need continue 11-04 18:07:50
+[Notice] Now Start CrawlPage 3 11-04 18:07:50
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:07:51
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:07:51
+[Notice] Current Soup-list's size: [3/40] 11-04 18:07:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002651/index.phtml 11-04 18:07:51
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002648/index.phtml 11-04 18:07:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002639/index.phtml 11-04 18:07:54
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002635/index.phtml 11-04 18:07:55
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002621/index.phtml 11-04 18:07:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002604/index.phtml 11-04 18:07:56
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002582/index.phtml 11-04 18:07:57
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002536/index.phtml 11-04 18:08:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002464/index.phtml 11-04 18:08:27
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002459/index.phtml 11-04 18:08:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002408/index.phtml 11-04 18:08:29
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002391/index.phtml 11-04 18:08:30
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002387/index.phtml 11-04 18:08:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002358/index.phtml 11-04 18:08:31
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002347/index.phtml 11-04 18:08:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002345/index.phtml 11-04 18:08:32
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002214/index.phtml 11-04 18:08:33
+[Notice] Remove 183.207.232.194:8080 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml HTTP Error 403: Forbidden 11-04 18:08:33
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002180/index.phtml 11-04 18:08:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002160/index.phtml 11-04 18:08:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002151/index.phtml 11-04 18:08:36
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002152/index.phtml 11-04 18:08:37
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002148/index.phtml 11-04 18:08:43
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002137/index.phtml 11-04 18:08:47
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002128/index.phtml 11-04 18:08:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002126/index.phtml 11-04 18:08:48
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002123/index.phtml 11-04 18:08:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002115/index.phtml 11-04 18:08:49
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002109/index.phtml 11-04 18:08:52
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002086/index.phtml 11-04 18:08:53
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002082/index.phtml 11-04 18:09:15
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002079/index.phtml 11-04 18:09:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002063/index.phtml 11-04 18:09:16
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002060/index.phtml 11-04 18:09:17
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3002039/index.phtml 11-04 18:09:18
+[Notice] This_Crawl Failed timed out 11-04 18:11:29
+[Notice] News Detect Started >>  11-04 18:11:29
+[Notice] Now Start CrawlPage 1 11-04 18:11:29
+[Notice] Crawl Table Finished. There are 42 <tr> 11-04 18:11:34
+[Notice] GetNext Finished. There are 42 <tr> 11-04 18:11:34
+[Notice] Current Soup-list's size: [3/40] 11-04 18:11:34
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003174/index.phtml 11-04 18:11:35
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003122/index.phtml 11-04 18:11:35
+[Notice] Remove 58.220.2.153:80 for Desc_Crawl failed http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003120/index.phtml <urlopen error [Errno 110] Connection timed out> 11-04 18:11:38
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003120/index.phtml 11-04 18:11:39
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003115/index.phtml 11-04 18:11:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003113/index.phtml 11-04 18:11:40
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003110/index.phtml 11-04 18:11:44
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003107/index.phtml 11-04 18:11:44
+[Notice] # Regular Crawl Finished. http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3003093/index.phtml 11-04 18:11:46

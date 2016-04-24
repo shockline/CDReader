@@ -571,7 +571,7 @@ Accuracy = 0% (0/1)/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externa
   warnings.warn('%s.  joblib will operate in serial mode' % (e,))
 Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
 Loading model from cache /tmp/jieba.cache
-Loading model cost 0.551 seconds.
+Loading model cost 0.560 seconds.
 Prefix dict has been built succesfully.
 /home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
   warnings.warn('%s.  joblib will operate in serial mode' % (e,))
@@ -579,5 +579,40 @@ Prefix dict has been built succesfully.
   warnings.warn('%s.  joblib will operate in serial mode' % (e,))
 /home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
   warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.508 seconds.
+Prefix dict has been built succesfully.
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.526 seconds.
+Prefix dict has been built succesfully.
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+Traceback (most recent call last):
+  File "run.py", line 11, in <module>
+    import crlMod # Crawl Module as crlMod.py
+  File "/home/work/share/chendian@BDL/MatchedGroup_151102/EastMod/crlMod.py", line 142
+    else :
+       ^
+SyntaxError: invalid syntax
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.412 seconds.
+Prefix dict has been built succesfully.
+/home/work/.jumbo/lib/python2.7/site-packages/scipy/sparse/base.py:407: RuntimeWarning: invalid value encountered in true_divide
+  return np.true_divide(self.todense(), other)
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+Building prefix dict from /home/work/.jumbo/lib/python2.7/site-packages/jieba/dict.txt ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.562 seconds.
+Prefix dict has been built succesfully.
 /home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
   warnings.warn('%s.  joblib will operate in serial mode' % (e,))

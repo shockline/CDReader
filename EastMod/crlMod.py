@@ -30,63 +30,20 @@ _MAINURL = config.get("netpage","MAINURL")
 
 class crlMod:
 
-    LastDate = "Last Recorded Date"
-    LastTime = 0
-    infile = ""
-    CurrentDate = "Current Date"
-    CurrentTime = -1
-    Storetmp = {} # tmp for this time
-    dictStore = {} # dict from last time, updated by 'tmp'
-    proxylist = []
-    crawllist = []
-    currentpxy = ""
+    def __init__(self):
+        self.LastDate = "Last Recorded Date"
+        self.LastTime = 0
+        self.infile = ""
+        self.CurrentDate = "Current Date"
+        self.CurrentTime = -1
+        self.Storetmp = {} # tmp for this time
+        self.dictStore = {} # dict from last time, updated by 'tmp'
+        self.proxylist = []
+        self.crawllist = []
+        self.currentpxy = ""
+        self.UrlHead = _URLHEAD
+        self.MainUrl = _MAINURL
     
-    UrlHead = _URLHEAD
-    MainUrl = _MAINURL
-    
-    # Varieties Getter and Setter
-    def Get_crawllist(self):
-        return self.crawllist
-    
-    def Set_crawllist(self, exlist):
-        try :
-            self.crawllist = exlist
-            return True
-        except Exception, ex:
-            l.Warning("Setter Error on Crawllist %s" % str(ex))
-            return False
-            
-    def Clear_crawllist(self):
-        try :
-            __refresh = []
-            self.crawllist = __refresh
-            self.Set_crawllist(__refresh)
-            return True
-        except Exception, ex:
-            l.Warning("Clear Error on Crawllist %s" % str(ex))
-            return False
-        
-    def Get_dictStore(self):
-        return self.dictStore
-    
-    def Set_dictStore(self, exStore):
-        try :
-            self.dictStore = exStore
-            return True
-        except Exception, ex:
-            l.Warning("Setter Error on dictStore %s" % str(ex))
-            return False
-    
-    def Get_Storetmp(self):
-        return self.Storetmp
-    
-    def Set_Storetmp(self, exStore):
-        try :
-            self.Storetmp = exStore
-            return True
-        except Exception, ex:
-            l.Warning("Setter Error on Storetmp %s" % str(ex))
-            return False
     
     def SetProxy(self, exlist):
         self.proxylist.extend(exlist)
@@ -107,7 +64,7 @@ class crlMod:
         except Exception,ex:
             l.Notice("Remove %s for Desc_Crawl failed %s %s" % (str(pxy), str(pagesite).replace(self.UrlHead,""), str(ex)))
             return value
-        soup = BeautifulSoup(html_doc, "lxml")
+        soup = BeautifulSoup(html_doc, "html.parser")
         for link in soup.find_all('div') :
             if link.get('class') and link.get('class')[0] == 'newsContent' :
                 value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','').replace('\"','\'')
@@ -134,15 +91,15 @@ class crlMod:
             last = link['infoCode']
             pagesite = "%s%s/%s.html" % (str(self.UrlHead), str(mid), str(last))
         except:
-            l.Warning("Get pagesite failed: " + str(link))
+            l.Warning("Get pagesite failed, link is: " + str(link))
             return "NULL"
         return pagesite
     
     
     def GetContent(self, soup) :
-        l.Notice("Current Bs4-Soup's size: [%s]" % str(len(soup)))
         if soup:
             __topCheck = 0
+            l.Notice("Current Soup-list's size: [%s/%s]" % (str(len(soup)), str(len(soup['data']))))
             for link in soup['data'] : # 'link': json-info-group
                 pagesite, value = "", ""
                 pagesite = self.MergeUrl(link)
@@ -182,7 +139,11 @@ class crlMod:
                          link['change'], link['sratingName'], link['insName'], link['author'], pagesite, link['title'], \
                          value, str(time.strftime('%Y%m%d', thistime)), str(time.strftime('%H:%M', thistime)) ) ) 
                         self.Storetmp[key] = pagesite
+                    else :
+                        l.Notice("Insert into Blacklist: %s" % str(pagesite))
+                        self.Storetmp[key] = pagesite
                 else :
+                    l.Notice("There's an Existed article. %s" % str(key).replace("\t","|"))
                     return 1 # This one has been crawled
             return 0 # Page_end
         else :
@@ -197,7 +158,7 @@ class crlMod:
         urllib2.install_opener(opener);
         request = urllib2.Request(url);  
         request.add_header('User-Agent', 'fake-client');  
-        html_doc = urllib2.urlopen(request,timeout = wait_runtime)
+        html_doc = urllib2.urlopen(request,timeout = 2 * wait_runtime)
         return html_doc
             
             
@@ -230,7 +191,7 @@ class crlMod:
             WriteX.write(_each + '\n')
         
     def StoreDict(self): # Dump dictStore
-        __store = self.Get_dictStore()
+        __store = self.dictStore
         if __store:
             cPickle.dump(__store, open(str(path_dict), "w"))
     
@@ -245,24 +206,28 @@ class crlMod:
     
     def CrawlPage(self, page) : # Crawl CurrentPage
         self.ChangeFile()
-        url = self.MainUrl.replace("pagesites", str(page))
+        __Refreshdict = {}
+        url = self.MainUrl.replace("pagesite", str(page))
         ret = self.GetMainUrl(url, self.Getpxy())
         if ret == 0: # Crawl till Page_end
             if self.dictStore : # Not Initial Mode
+                self.dictStore = self.Storetmp
+                self.Storetmp = __Refreshdict
                 return 0
             elif page == 1 :
-                self.Set_dictStore(self.Get_Storetmp())
+                self.dictStore = self.Storetmp
+                self.Storetmp = __Refreshdict
                 l.Notice("InsertSQL & Initial Finished")
                 return 2
-        elif ret == 1: # If Store Changed
-            if self.Storetmp: # If No news, return 'Empty'
+        elif ret == 1: 
+            if self.Storetmp: # If Store Changed
                 # l.Notice("Something New Existed")
                 # If want to test ProxyPool you can Remove this branch
-                self.Set_dictStore(self.Get_Storetmp())
+                self.dictStore = self.Storetmp
         elif ret == -1: # Gain Failed, This time's Crawl_list will be cleared.
             l.Fatal("Proxylist has been empty.") 
         elif ret <= -2: # NoContentError (Soup.size is 0 or Desc is empty)
             l.Notice("GetSoup Failed.")
-        __Refreshdict = {}
-        self.Set_Storetmp(__Refreshdict)
+        self.Storetmp = __Refreshdict
+        l.Notice("Temp_dictStore Cleared, size is %s" % str(len(self.Storetmp)))
         return ret

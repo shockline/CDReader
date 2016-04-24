@@ -23,13 +23,10 @@ wait_runtime = config.getint("para","RUNTIME_WAITTIME")
 
 class prxMod:
 
-    LastDate = "Last Recorded Date"
-    CurrentDate = "Current Date"
-    proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
-    
-    # Varieties Setter and Getter
-    def Get_proxylist(self): # This means get the list of 'self'
-        return self.proxylist
+    def __init__(self):
+        self.LastDate = "Last Recorded Date"
+        self.CurrentDate = "Current Date"
+        self.proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
     
     
     def test_proxy(self, ip, port):
@@ -38,7 +35,7 @@ class prxMod:
             proxy_handler = urllib2.ProxyHandler({"http" : '%s:%s'%(ip,port)});
             opener = urllib2.build_opener(proxy_handler);
             urllib2.install_opener(opener);
-            request = urllib2.Request('http://data.eastmoney.com/');  
+            request = urllib2.Request('http://vip.stock.finance.sina.com.cn/q/go.php/vReport_List/kind/search/index.phtml?p=1');  
             request.add_header('User-Agent', 'fake-client');  
             response = urllib2.urlopen(request,timeout = wait_runtime);  
             text = response.read(); 

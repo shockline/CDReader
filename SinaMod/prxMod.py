@@ -23,15 +23,12 @@ wait_runtime = config.getint("para","RUNTIME_WAITTIME")
 
 class prxMod:
 
-    LastDate = "Last Recorded Date"
-    CurrentDate = "Current Date"
-    proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
-    
-    # Varieties Setter and Getter
-    def Get_proxylist(self): # This means get the list of 'self'
-        return self.proxylist
-    
-    
+    def __init__(self):
+        self.LastDate = "Last Recorded Date"
+        self.CurrentDate = "Current Date"
+        self.proxylist = [] # Serviceability-unknown prxlist to Service-Avaliable List
+        
+        
     def test_proxy(self, ip, port):
         try:
             time1= time.time();
@@ -53,6 +50,7 @@ class prxMod:
                 raise 'error';
         except Exception,ex:
             l.Notice("%s Failed, %s" % (str(ip), str(ex)))
+            
             
     def check_proxy(self):
         lines = []
