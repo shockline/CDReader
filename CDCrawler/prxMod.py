@@ -19,7 +19,7 @@ path_new = config.get("path", "path_new")
 path_dict = config.get("path", "path_dict")
 path_pxylist = config.get("path", "path_pxylist")
 path_tmplist = config.get("path", "path_tmplist")
-exec_runtime = config.getint("para","RUNTIME_WAITTIME")
+wait_runtime = config.getint("para","RUNTIME_WAITTIME")
 
 class prxMod:
 
@@ -32,8 +32,7 @@ class prxMod:
         return self.proxylist
     
     
-    def test_proxy(self,ip,port):
-        #print ip,port,'miao'
+    def test_proxy(self, ip, port):
         try:
             time1= time.time();
             proxy_handler = urllib2.ProxyHandler({"http" : '%s:%s'%(ip,port)});
@@ -41,12 +40,12 @@ class prxMod:
             urllib2.install_opener(opener);
             request = urllib2.Request('http://data.eastmoney.com/');  
             request.add_header('User-Agent', 'fake-client');  
-            response = urllib2.urlopen(request,timeout = exec_runtime);  
+            response = urllib2.urlopen(request,timeout = wait_runtime);  
             text = response.read(); 
             #print "%s" % text
             if len(text) > 10:
                 time2 = time.time();
-                if time2 - time1 < exec_runtime:
+                if time2 - time1 < wait_runtime:
                     fobj = open(path_tmplist, "a");
                     fobj.write('%s:%s\n'%(ip,port));
                     fobj.close();
@@ -55,15 +54,13 @@ class prxMod:
         except Exception,ex:
             l.Notice("%s Failed, %s" % (str(ip), str(ex)))
             
-            
     def check_proxy(self):
         lines = []
         if (os.path.exists(path_new)): # Format : <IPAddress>:<Port>@<Anything> per line
             lines = [line.strip().split('@')[0] for line in file(path_new)];
             for l in lines:
                 tmp = l.split(':');
-                ip = tmp[0]; 
-                port = tmp[1];
+                ip,port = tmp[0],tmp[1]; 
                 self.test_proxy(ip,port);
             os.remove(path_new)
             return True
@@ -90,12 +87,12 @@ class prxMod:
             l.Warning("Getlist fail at " + str(self.LastDate))
         return Status # If return true, list can be available as "proxylist"
 
-
+        
     def Storepxy(self): # Make a back-up
         cPickle.dump(self.proxylist, open(path_pxylist, "w"))
+
         
-        
-    def DumpList(self): # For Refresh or Check
+    def StoreList(self): # For Refresh or Check (Make a temp File)
         if self.proxylist:
             fobj = open(path_tmplist, "a");
             for each in self.proxylist:

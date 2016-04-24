@@ -25,6 +25,6 @@ class LR_model:
         # return str(predict_noeng).replace("[","").replace("]","")
             # print 'i = ', i
             # print 'predict ', predict_noeng
-        return str(probs_noeng[0][0])
+        return str(probs_noeng[0][1])
 
 

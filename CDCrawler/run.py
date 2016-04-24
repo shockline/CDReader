@@ -41,7 +41,8 @@ l = logMod.logMod()
 lr = LR_model.LR_model()
 liblinear = Liblinear_model.Liblinear_model()
 
-def init(): # Run Once at First_time
+
+def init(): # Run Once at First time
     if os.path.exists(path_dict):
         d = open(path_dict)
         c.Set_dictStore(cPickle.load(d))
@@ -52,11 +53,12 @@ def init(): # Run Once at First_time
         pxylist.extend(p.Get_proxylist())
         c.SetProxy(pxylist)
     
+    
 def DailyMT(): # Daily Maintenance
     try :
         cdict = c.Get_dictStore()
         if cdict: # Dump dictStore
-            c.DumpDict()
+            c.StoreDict()
         plist = p.Get_proxylist()
         if plist: # Dump proxylist
             c.SetProxy(plist)
@@ -68,10 +70,14 @@ def DailyMT(): # Daily Maintenance
 def AddLabels():
     result = []
     try :
-        s.Create()
-        result = c.Get_crawllist()
-        l.Notice("AddLabels Started, %s objects this time" % len(result))
+        result = c.crawllist
+        if result :
+            l.Notice("AddLabels Started, %s objects this time" % len(result))
+        else :
+            l.Notice("Nothing New, skip SQL-Module")
+            return False
         _len = len(result) - 1
+        s.Create()
         for _idx in xrange(0, _len + 1) :
             idx = _len - _idx # Reverse idx
             if len(result[idx]) <= 4:
@@ -84,17 +90,41 @@ def AddLabels():
             _content = corpuX.split(' ')
             label3 = Wordseg.dealWithContent(_content, posWlist, negWlist)
             result[idx] =  "%s\t%s\t%s\t%s" % ( str(result[idx]), str(label1), str(label2), str(label3) )
-            s.Insert("StockAddData", result[idx])
+            s.Insert("StockDataRD", result[idx])
         s.Destroy()
+        l.Notice("InsertSQL Finished")
         c.WriteInFile(result) # Use this can get a txt recording infolist
+        return True
     except Exception, ex:
         l.Fatal("Add Labels Failed %s" % str(ex))
-    return result
-        
 
+
+def GoCrawl():
+    c.ChangeFile()
+    page = 1
+    Refreshlist = []
+    while True :
+        status = c.CrawlPage(page)
+        l.Notice("Now Start CrawlPage %s" % str(page))
+        if status == 2:
+            break
+        elif status == 1:
+            AddLabels()
+            c.Set_crawllist(Refreshlist)
+            break
+        elif status == 0:
+            AddLabels()
+            c.Set_crawllist(Refreshlist)
+            l.Notice("Page[%s] Finished" % str(page))
+            page = page + 1
+        else :
+            l.Warning("Current Crawl Failed, Return %s" % str(status))
+            break
+
+            
 if __name__ == '__main__' :
     try :
-        LastTime = time.time()
+        # LastTime = time.time()
         init() # Noted "./new.txt" should be existed
     except Exception,ex:
         l.Fatal( "Initial Failed %s" % str(ex) )
@@ -102,21 +132,21 @@ if __name__ == '__main__' :
         CurrentTime = time.time()
         CurrentDate = str(time.strftime('%y%m%d',time.localtime(time.time())))
         if (CurrentTime - LastTime > exec_cyctime): # Crawl when 'exec_cyctime' later
+            l.Notice("News Detect Started >> "  )
+            LastTime = CurrentTime
             try :
-                LastTime = CurrentTime
-                c.ChangeFile()
-                status = c.CrawlPage(1)
-                if status >= 0:
-                    AddLabels()
-                    l.Notice("InsertSQL Finished")
+                GoCrawl()
             except Exception,ex:
-                l.Fatal("This_Crawl Failed %s" % str(ex))
+                l.Notice("This_Crawl Failed %s" % str(ex))
+                if str(ex).startswith("empty range for randrange"):
+                    DailyMT()
             c.Storepxy() # Open For Testing proxylists
-            c.DumpDict() # Open For Testing dictStores
-        if ( CurrentDate != LastDate ): # Daily Maintenance
-            l.Notice("Daily Maintenance Started From %s to %s" % (str(LastDate),str(CurrentDate)) )
+            c.StoreDict() # Open For Testing dictStores
+        if ( CurrentDate != LastDate ): # Call function when Date Changes
+            l.Notice("Daily Maintenance Started >> From %s to %s " % (str(LastDate),str(CurrentDate)) )
             LastDate = CurrentDate
             try :
-                DailyMT()
+                DailyMT() # Daily Maintenance
+                l.Notice("Daily Maintenance Finished")
             except Exception,ex:
                 l.Warning("Daily Maintenance Failed %s at %s" % (str(ex),str(CurrentDate)))
