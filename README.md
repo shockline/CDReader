@@ -1,7 +1,5 @@
 # CDReader
 + **C**onvolutional **D**iscrete Reader.
-
-+ Of course it is not able to play CDs.
 + It's just someone's Graduation design.
 + Unfortunately in Coding. Not finished yet.
 
@@ -17,6 +15,11 @@
 - [ ] Really need a cool word which starts with 'D' for 'CDReader', seriously.
 
 ### UpdateLog    
+[2016/04/25] ver 1.0.1
++ Merge and Classify Modules
++ Theano System checking and debuging
++ Trying to update develop timeline.
+
 [2016/04/15] ver 1.0.0
 + Upload Prototype.
 + Named it `CDReader` (Laugh)
