@@ -1,0 +1,92 @@
+#container {
+    padding-bottom: 29px;
+    margin:10px auto;
+    width:1000px;
+    border-bottom: 1px solid #DCDCDC;
+    overflow:hidden;
+}
+.vline {
+    width:2px;
+    height:500px;
+    background:red;
+    float:left;
+    margin-top:60px;
+    margin-left:20px;
+}
+.left {
+    width:700px;
+    float:left;
+}
+.right {
+    width:250px;
+    float:right;
+    padding-left:20px;
+}
+.right .stockname p {
+        width: 100%;
+    text-align:left; 
+    font-size:20px;
+    color:red;
+    }
+.right .trade_ralate {
+    border:2px solid green;
+    border-radius:10px;
+    width:150px;
+    color:green;
+    margin-left:10px;
+    margin-top:30px;    
+    }
+.right .stock_ralate {
+    border:2px solid green;
+    border-radius:10px;
+    width:150px;
+    color:green;
+    margin-left:10px;
+    margin-top:30px;    
+    }
+.right .positive p{
+    width:150px;
+    background:red;
+    border-radius:5px;
+    margin-left:10px;
+    font:16px;
+    color:white;
+    text-align:center;
+    }
+.right .negative p{
+    width:150px;
+    margin-left:10px;
+    background:green;
+    border-radius:5px;
+    font:16px;
+    color:white;
+    text-align:center;
+    }
+.right .keys p{
+    width:150px;
+    background:blue;
+    border-radius:5px;
+    margin-left:10px;
+    font:16px;
+    color:white;
+    text-align:center;
+    }
+.Title {
+    width: 100%;
+    margin-bottom: 16px;
+    text-align:center;
+    font-size:20px;
+    color:#5188A6;
+    line-height:30px;
+}
+.Text {
+    width: 100%;
+    height: auto;
+    font-size:16px;
+    float: left;
+    margin-right: 20px;
+    margin-left:2px;
+    line-height:25px;
+    text-align: justify ;
+    display: block;
+}
