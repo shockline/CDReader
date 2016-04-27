@@ -6,6 +6,7 @@ from multiprocessing import Pool
 from goose.text import StopWordsChinese
 
 import os
+import re
 import sys
 import time
 import json
@@ -25,6 +26,7 @@ path_dict = config.get("path", "path_dict")
 path_data = config.get("path", "path_data")
 path_pxylist = config.get("path", "path_pxylist")
 wait_runtime = config.getint("para","RUNTIME_WAITTIME")
+
 _URLHEAD = config.get("netpage","URLHEAD")
 
 class crlMod:
@@ -87,7 +89,7 @@ class crlMod:
             l.Warning("Goose_Crawl Failed %s" % str(ex))
             return "NULL"
     
-
+    
     def GetNext(self, soup) : # find all Maintext_Entrance
         trpos = 0
         value = []
@@ -102,10 +104,10 @@ class crlMod:
                         if pos == 2 :
                             for ahref in td.find_all('a') :
                                 if ahref.get('href') and ahref.get('href')[0] != "" :
-                                    info.append(td.a['href']) # get info[0]: url
                                     textV = td.get_text().replace('\t','').replace('\r','').replace('\b','').replace('"',"'").encode('utf-8')
+                                    info.append(td.a['href']) # get info[0]: url
                                     ret.append(textV.strip()) # get info[1]: attrs (Title)
-                        elif pos > 4 :
+                        elif pos > 4:
                             if td.get_text() == "" :
                                 ret.append("NULL")
                             else :
@@ -191,7 +193,8 @@ class crlMod:
                 html_doc = self.Getdoc(url, pxy)
                 if html_doc == "NULL":
                     continue
-                soup = BeautifulSoup(html_doc.read().decode('gbk'), "html.parser") # html.parser
+                else :
+                    soup = BeautifulSoup(html_doc.read().decode('gbk'), "html.parser") # html.parser
             except Exception, ex:
                 l.Warning("Remove %s for GetMainUrl failed: %s" % (str(pxy), str(ex)))
                 if pxy in self.proxylist:

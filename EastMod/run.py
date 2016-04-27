@@ -1,6 +1,7 @@
 # -*- coding: gbk -*-
 
 import os
+import re
 import sys
 import json
 import time
@@ -27,6 +28,7 @@ path_Positive = config.get("path", "path_Positive")
 path_Negative = config.get("path", "path_Negative")
 exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
 dict_capacity = config.getint("para", "DICT_CAPACITY")
+EN_switch = config.getint("switch","EN_filter")
 
 # Global_Vars
 pxylist = []
@@ -78,6 +80,15 @@ def DailyMT(): # Daily Maintenance
                 c.dictStore = cdict
     except Exception,ex:
         l.Warning("%s's DMT Failed %s" % (str(LastDate), str(ex)))
+
+        
+def EN_Test(contents):
+    zhPattern = re.compile(u'[\u4e00-\u9fa5]+')
+    match = zhPattern.search(contents)
+    if match:
+        return False # Has at least one Chinese character
+    else :
+        return True # Totally English    
         
         
 def AddLabels():
@@ -93,6 +104,10 @@ def AddLabels():
         for _idx in xrange(0, _len + 1) :
             idx = _len - _idx # Reverse idx
             _slices = result[idx].split('\t')
+            if EN_Test(_slices[10]):
+                result[idx] = "<Ignored> %s" % str(result[idx])
+                l.Notice("%s is an English-Only Article, Removed" % str(_slices[10]))
+                continue
             corpuX = Wordseg.String_make_corpus(_slices[11].encode('utf-8'))
             _content = corpuX.split(' ')
             thistime = time.localtime(time.time())

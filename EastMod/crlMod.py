@@ -6,6 +6,7 @@ from multiprocessing import Pool
 from goose.text import StopWordsChinese
 
 import os
+import re
 import sys
 import time
 import json
@@ -25,6 +26,8 @@ path_dict = config.get("path", "path_dict")
 path_data = config.get("path", "path_data")
 path_pxylist = config.get("path", "path_pxylist")
 wait_runtime = config.getint("para","RUNTIME_WAITTIME")
+EN_switch = config.getint("switch","EN_filter")
+
 _URLHEAD = config.get("netpage","URLHEAD")
 _MAINURL = config.get("netpage","MAINURL")
 
@@ -95,7 +98,7 @@ class crlMod:
             return "NULL"
         return pagesite
     
-    
+        
     def GetContent(self, soup) :
         if soup:
             __topCheck = 0
