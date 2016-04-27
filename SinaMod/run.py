@@ -1,4 +1,4 @@
-#-*- coding: gbk -*-
+# -*- coding: gbk -*-
 
 import os
 import sys
@@ -14,6 +14,7 @@ import logMod # Logger Module as LogMod.py
 
 import common.Wordseg as Wordseg
 import lr.LR_model as LR_model
+import cnntext.cnn as ctext_model
 import liblinear.Liblinear_model as Liblinear_model
 import MysqlMod # MySQL Module as Mysql.py
 
@@ -25,6 +26,7 @@ path_pxylist = config.get("path", "path_pxylist")
 path_Positive = config.get("path", "path_Positive")
 path_Negative = config.get("path", "path_Negative")
 exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
+dict_capacity = config.getint("para", "DICT_CAPACITY")
 
 # Global_Vars
 pxylist = []
@@ -39,6 +41,7 @@ p = prxMod.prxMod()
 c = crlMod.crlMod()
 l = logMod.logMod()
 lr = LR_model.LR_model()
+ct = ctext_model.cnn()
 liblinear = Liblinear_model.Liblinear_model()
 
 
@@ -56,13 +59,23 @@ def init(): # Run Once at First time
     
 def DailyMT(): # Daily Maintenance
     try :
-        cdict = c.dictStore
-        if cdict: # Dump dictStore
-            c.StoreDict()
-        plist = p.proxylist
-        if plist: # Dump proxylist
-            c.SetProxy(plist)
+        if p.Getpxylist():
+            pxylist.extend(p.proxylist)
+            c.SetProxy(pxylist)
             c.Storepxy()
+        cdict = c.dictStore
+        if cdict: 
+            c.StoreDict() # Dump dictStore
+            tlist = cdict.keys() # Dequeue
+            if tlist:
+                tlist.sort()
+                for each in tlist:
+                    if len(tlist) < dict_capacity :
+                        break
+                    else: 
+                        cdict.pop(each)
+                        tlist.remove(each)
+                c.dictStore = cdict
     except Exception,ex:
         l.Warning("%s's DMT Failed %s" % (str(LastDate), str(ex)))
         
@@ -71,7 +84,7 @@ def AddLabels():
     try :
         result = c.crawllist
         _len = len(result) - 1
-        if result and _len > 0:
+        if result and _len >= 0:
             l.Notice("AddLabels Started, %s objects this time" % len(result))
         else :
             l.Notice("Nothing New, skip SQL-Module")
@@ -82,16 +95,16 @@ def AddLabels():
             _slices = result[idx].split('\t')
             corpuX = Wordseg.String_make_corpus(_slices[5].encode('utf-8'))
             _content = corpuX.split(' ')
+            thistime = time.localtime(time.time())
             try :
-                mark = 0
-                label1 = lr.Predict(corpuX)
-                mark = 1
-                label2 = liblinear.Predict(corpuX)
-                mark = 2
-                label3 = Wordseg.dealWithContent(_content, posWlist, negWlist)
-                mark = 3
-                result[idx] =  "%s\t%s\t%s\t%s" % ( str(result[idx]), str(label1), str(label2), str(label3) )
-                s.Insert("StockDataSina", result[idx])
+                mark,label1 = 0, lr.Predict(corpuX)
+                mark,label2 = 1, liblinear.Predict(corpuX)
+                mark,label3 = 2, Wordseg.dealWithContent(_content, posWlist, negWlist)
+                mark,label4 = 3, ct.Predict(corpuX)
+                mark,label5 = 4, str(time.strftime('%Y%m%d', thistime)) + "\t" + str(time.strftime('%H:%M', thistime)) # Means ALL Labels Get
+                
+                result[idx] =  "%s\t%s\t%s\t%s\t%s\t%s" % ( str(result[idx]), str(label1), str(label2), str(label3), str(label4), str(label5) )
+                s.Insert("StockDataAL", result[idx])
             except Exception, ex:
                 l.Warning("Corpus_Making Failed at %s [%s]%s" % (str(mark), str(ex), str(_slices[4])))
                 result[idx] = "<Ignored> %s" % str(result[idx])
@@ -108,9 +121,20 @@ def AddLabels():
 def GoCrawl():
     c.ChangeFile()
     page = 1
+    c.crawllist = []
     while True :
         l.Notice("Now Start CrawlPage %s" % str(page))
-        status = c.CrawlPage(page)
+        try :
+            status = c.CrawlPage(page)
+        except Exception,ex:
+            c.crawllist = []
+            c.Storetmp = {}
+            if c.proxylist:
+                l.Warning("Page[%s] Crawlpage Failed for %s, Retry" % (str(page), str(ex)))
+                continue
+            else :
+                l.Warning("Page[%s] Crawlpage Failed for %s, ProxyPool is Empty, stop" % (str(page), str(ex)))
+                break
         l.Notice("Status RET value is %s" % str(status))
         if status == 2: # Initial (Also Insert)
             AddLabels()
@@ -126,10 +150,12 @@ def GoCrawl():
             ALsta = AddLabels()
             c.crawllist = []
             if ALsta == False:
+                l.Notice("Page[%s] Finished, Empty Query" % str(page))
                 break
             else :
                 l.Notice("Page[%s] Finished, need continue" % str(page))
                 page = page + 1
+                continue
         else :
             l.Warning("Crawl Failed, Return %s" % str(status))
             break
@@ -151,7 +177,8 @@ if __name__ == '__main__' :
             try :
                 GoCrawl()
             except Exception,ex:
-                l.Notice("This_Crawl Failed %s" % str(ex))
+                c.crawllist = []
+                l.Notice("Current_Crawl Failed %s" % str(ex))
                 if str(ex).startswith("empty range for randrange()"):
                     LastDate = "Needs Maintenance"
             c.Storepxy() # Open For Testing proxylists

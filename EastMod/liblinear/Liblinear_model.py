@@ -7,6 +7,15 @@ import math
 import numpy
 from scipy import sparse
 from liblinearutil import *
+import ConfigParser
+
+config = ConfigParser.ConfigParser()
+config.read("./conf/liblinear.conf")
+
+model_path = config.get('path','model_path')
+vocab_path = config.get('path','vocab_path')
+stocklist_path = config.get('path','stocklist_path')
+top = config.get('para','top')
 
 class Liblinear_model:
 
@@ -16,7 +25,8 @@ class Liblinear_model:
     __top = 5
 
     def __init__(self):
-        self.Loadmodel('./model/train_all_small.model','./model/vocab_all','./model/stocklist_final_utf8.txt')
+        self.Loadmodel(model_path,vocab_path,stocklist_path)
+        self.__top = int(top)
 
 
     def Loadmodel(self,modelfile,vocabfile,stockfile):

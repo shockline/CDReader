@@ -1,0 +1,6 @@
+pch_sz: 10
+stride: 2
+padding: 9
+do_bow: 1
+do_skip_stopunk: 1
+do_allow_zero: 1

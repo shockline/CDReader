@@ -1,4 +1,4 @@
-#*- coding: gbk -*-
+# -*- coding: gbk -*-
 
 from goose import Goose
 from bs4 import BeautifulSoup
@@ -64,10 +64,10 @@ class crlMod:
         except Exception,ex:
             l.Notice("Remove %s for Desc_Crawl failed %s %s" % (str(pxy), str(pagesite).replace(self.UrlHead,""), str(ex)))
             return value
-        soup = BeautifulSoup(html_doc, "html.parser")
+        soup = BeautifulSoup(html_doc.read().decode('gbk'), "html.parser") # html.parser 
         for link in soup.find_all('div') :
             if link.get('class') and link.get('class')[0] == 'newsContent' :
-                value = link.get_text().replace('\t','').replace('\r','').replace('\n','').replace('\b','').replace('\"','\'')
+                value = link.get_text().replace('\t','').replace('\r','').replace('\b','').replace('\"','\'').encode('utf-8')
                 return value
         if value == "NULL" or len(value) < 20:
             self.proxylist.remove(pxy)
@@ -75,13 +75,13 @@ class crlMod:
     
     
     def GetDesc_goose(self, curl) :
-        article = "NULL"
         try :
             g = Goose( {'stopwords_class': StopWordsChinese} )
             article = g.extract(url = curl)
+            return article.cleaned_text.encode('utf-8').replace('\t','').replace('\r','').replace('\b','').replace('"',"'")
         except Exception, ex:
             l.Warning("Goose_Crawl Failed %s" % str(ex))
-        return str(article.cleaned_text).replace('\t','').replace('\r','').replace('\n','').replace('\b','').replace('"',"'")
+            return "NULL"
     
     
     def MergeUrl(self, link) :    
@@ -105,9 +105,10 @@ class crlMod:
                 pagesite = self.MergeUrl(link)
                 if pagesite == "NULL":
                     return -3 # Retry For Url
-                key = "%s\x01%s\x01%s" % ( str(link['secuFullCode']), str(link['title']), str(link['author']) )
+                DateTime = str("".join((link['datetime'].split("T")[0]).split("-")))
+                key = "%s\x01%s\x01%s" % ( DateTime, str(link['secuFullCode']), str(link['title']) )
                 if __topCheck == 0 and self.dictStore.has_key(key) and self.dictStore[key] == pagesite :
-                    l.Notice("The top has been crawlled, SKIP.")
+                    l.Notice("The top %s has been crawlled, SKIP." % str(key))
                     return 1
                 else :
                     __topCheck = 1
@@ -133,17 +134,17 @@ class crlMod:
                 # Detect whether exists
                 if (not self.dictStore.has_key(key)) or self.dictStore[key] != pagesite :
                     if len(value) > 4:
-                        thistime = time.localtime(time.time())
-                        self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % \
-                        (sourceName, link['secuFullCode'][:6], link['secuName'], link['companyCode'], link['rate'], \
-                         link['change'], link['sratingName'], link['insName'], link['author'], pagesite, link['title'], \
-                         value, str(time.strftime('%Y%m%d', thistime)), str(time.strftime('%H:%M', thistime)) ) ) 
-                        self.Storetmp[key] = pagesite
+                        if DateTime == str(time.strftime('%Y%m%d', time.localtime(time.time()-3600))) or \
+                           DateTime == str(time.strftime('%Y%m%d', time.localtime(time.time()+3600))):
+                            self.crawllist.append( "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s" % \
+                           (sourceName, link['secuFullCode'][:6], link['secuName'], link['companyCode'], link['rate'], \
+                           link['change'], link['sratingName'], link['insName'], link['author'], pagesite, link['title'], value ) ) 
+                            self.Storetmp[key] = pagesite
                     else :
                         l.Notice("Insert into Blacklist: %s" % str(pagesite))
                         self.Storetmp[key] = pagesite
                 else :
-                    l.Notice("There's an Existed article. %s" % str(key).replace("\t","|"))
+                    l.Notice("There's an Existed article. %s" % str(key))
                     return 1 # This one has been crawled
             return 0 # Page_end
         else :
@@ -173,11 +174,7 @@ class crlMod:
         except Exception, ex:
             l.Warning("%s GetMainUrl failed: %s" % (str(pxy), str(ex)))
             self.proxylist.remove(pxy)
-            if self.proxylist:
-                self.crawllist = []
-                return self.GetMainUrl(url, self.Getpxy())
-            else :
-                return -1 # Pxylist is Empty
+            return -2
 
     
     def ChangeFile(self): # Achieve current infile [Ignore]
@@ -207,15 +204,19 @@ class crlMod:
     def CrawlPage(self, page) : # Crawl CurrentPage
         self.ChangeFile()
         __Refreshdict = {}
+        __Refreshlist = []
         url = self.MainUrl.replace("pagesite", str(page))
-        ret = self.GetMainUrl(url, self.Getpxy())
+        if len(self.proxylist) < 1 :
+            ret = -1
+        else :
+            ret = self.GetMainUrl(url, self.Getpxy())
         if ret == 0: # Crawl till Page_end
             if self.dictStore : # Not Initial Mode
-                self.dictStore = self.Storetmp
+                self.dictStore.update(self.Storetmp) 
                 self.Storetmp = __Refreshdict
                 return 0
             elif page == 1 :
-                self.dictStore = self.Storetmp
+                self.dictStore.update(self.Storetmp)
                 self.Storetmp = __Refreshdict
                 l.Notice("InsertSQL & Initial Finished")
                 return 2
@@ -223,11 +224,14 @@ class crlMod:
             if self.Storetmp: # If Store Changed
                 # l.Notice("Something New Existed")
                 # If want to test ProxyPool you can Remove this branch
-                self.dictStore = self.Storetmp
+                self.dictStore.update(self.Storetmp)
+                self.Storetmp = __Refreshdict
+                return 1
         elif ret == -1: # Gain Failed, This time's Crawl_list will be cleared.
             l.Fatal("Proxylist has been empty.") 
         elif ret <= -2: # NoContentError (Soup.size is 0 or Desc is empty)
             l.Notice("GetSoup Failed.")
         self.Storetmp = __Refreshdict
+        self.crawllist = __Refreshlist
         l.Notice("Temp_dictStore Cleared, size is %s" % str(len(self.Storetmp)))
         return ret

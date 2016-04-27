@@ -17,7 +17,7 @@ class MysqlMod:
     def Insert(self, table, line):
         Filed = ['"' + x + '"' for x in line.split("\t")]
         # print len(Filed),Filed
-        sql = "INSERT INTO %s(Source,Title,CompanyName,Author,Url,Text,Date,Time,LabelMood,LabelRelate,Positive,Negative) VALUES (%s);" % (table, ','.join(Filed)) 
+        sql = "INSERT INTO %s(Source,Title,CompanyName,Author,Url,Text,LabelMood,LabelRelate,Positive,Negative,Trade,Date,Time) VALUES (%s);" % (table, ','.join(Filed)) 
         try:
             # l.Notice("This SQL is [%s]" % str(sql))
             self.__cursor.execute(sql)
