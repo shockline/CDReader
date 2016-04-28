@@ -43,16 +43,19 @@ class logMod:
         return str(time.strftime('%m-%d %H:%M:%S',time.localtime(time.time())))
     
     def Warning(self, tstring):
-        self.logger.info("[Warning] %s " % str(tstring) + self.getTime())
+        self.logger.info("%s\t[Warning]\t%s" % (self.getTime(), str(tstring)))
         
     def Fatal(self, tstring):
-        self.logger.info("[Fatal] %s " % str(tstring) + self.getTime())
+        self.logger.info("%s\t[Fatal]\t%s" % (self.getTime(), str(tstring)))
         
     def Notice(self, tstring):
-        self.logger.info("[Notice] %s " % str(tstring) + self.getTime())
+        self.logger.info("%s\t[Notice]\t%s" % (self.getTime(), str(tstring)))
     
     def echo(self, tstring):
         self.logger.info("%s" % str(tstring))
+    
+    def custom(self, mark, tstring):
+        self.logger.info("%s\t[%s]\t%s" % (self.getTime(), str(mark), str(tstring)))
     
     def CheckLog(self):
         if os.path.exists(Log):
