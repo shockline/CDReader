@@ -6,7 +6,7 @@
 #   author   : Ganbin Zhou @ ICS_ICT
 #   feat     : okcd00 / chendian@baidu.com
 #   date     : 2016-02-12
-#   desc     : 
+#   desc     : CorpusReader Demo Modules
 # ======================================================== 
 
 import codecs
@@ -58,8 +58,7 @@ class CorpusReader:
     w2vDict   = None
     stopwords = None
 
-    # print "(570, 301)"
-    minDocSentenceNum = 0
+    minDocSentenceNum  = 0
     minSentenceWordNum = 0
     __wordDim = 200
     __zeroWordVector = [0] * __wordDim
@@ -75,10 +74,8 @@ class CorpusReader:
     }
     
     def getDocNum(self):
-        if self.labels is None:
-            return len(self.docs)
-        else:
-            return len(self.labels)
+        if self.labels is None: return len(self.docs)
+        else:                   return len(self.labels)
     
     def getDim(self):
         return self.__wordDim
@@ -89,8 +86,7 @@ class CorpusReader:
         sentenceMatrix = filter(lambda item: not item is None, sentenceMatrix)
         
         sentenceWordNum = len(sentenceMatrix)
-        if(sentenceWordNum < self.minSentenceWordNum):
-            return None
+        if(sentenceWordNum < self.minSentenceWordNum): return None
         
         sentenceMatrix, wordList, posList = zip(*sentenceMatrix)
         
@@ -108,8 +104,7 @@ class CorpusReader:
         m = map(lambda i:  self.__sentence2Matrix(wordList[i[0] + 1:i[1]]) if(i[1] - i[0] > self.minSentenceWordNum + 1) else None , zip(t[:-1], t[1:]))
         m = filter(lambda item: not item is None, m)
         
-        if(len(m) == 0):
-            return None
+        if(len(m) == 0): return None
         docMatrix, sentenceWordNum, wordListList, posListList = zip(*m)
         docMatrix = list(docMatrix)
         sentenceWordNum = list(sentenceWordNum)
@@ -117,8 +112,7 @@ class CorpusReader:
         posListList = list(posListList)
         
         docSentenceNum = len(docMatrix)
-        if(docSentenceNum < self.minDocSentenceNum):
-            return None
+        if(docSentenceNum < self.minDocSentenceNum): return None
         
         # Merge the sentence embedding into a holistic list.
         docMatrix = reduce(add, docMatrix, [])
@@ -128,8 +122,7 @@ class CorpusReader:
     
     def __getDataMatrix(self, scope):
         scope[1] = np.min([scope[1], len(self.labels)])
-        if(scope[0] < 0 or scope[0] >= scope[1]):
-            return None
+        if(scope[0] < 0 or scope[0] >= scope[1]): return None
 #         batch = self.labelsList[scope[0]:scope[1]]
         batch   = self.labels.items()[scope[0]:scope[1]]
         docInfo = map(self.__doc2Matrix, batch)
@@ -139,21 +132,20 @@ class CorpusReader:
             return None
         
         docInfo = filter(None, docInfo)
-        if(len(docInfo) == 0):
-            return None
+        if(len(docInfo) == 0): return None
         
         docMatrixes, docSentenceNums, sentenceWordNums, ids, labels, wordListList, posListList = zip(*docInfo)
         
         # Merge the sentence embedding into a holistic list.
-        docMatrixes = reduce(add, docMatrixes, [])
+        docMatrixes      = reduce(add, docMatrixes,      [])
+        posListList      = reduce(add, posListList,      [])
+        wordListList     = reduce(add, wordListList,     [])
         sentenceWordNums = reduce(add, sentenceWordNums, [])
-        wordListList = reduce(add, wordListList, [])
-        posListList = reduce(add, posListList, [])
         
-        docSentenceNums = [0] + list(docSentenceNums)
+        docSentenceNums  = [0] + list(docSentenceNums)
         sentenceWordNums = [0] + sentenceWordNums
         
-        docSentenceNums = np.cumsum(docSentenceNums)
+        docSentenceNums  = np.cumsum(docSentenceNums)
         sentenceWordNums = np.cumsum(sentenceWordNums)
         
         #   print docSentenceNums
@@ -162,11 +154,10 @@ class CorpusReader:
     
     def __getDataMatrixNoLabel(self, scope):
         scope[1] = np.min([scope[1], len(self.docs)])
-        if(scope[0] < 0 or scope[0] >= scope[1]):
-            return None
+        if(scope[0] < 0 or scope[0] >= scope[1]): return None
         
         ids = self.docIdList[scope[0]:scope[1]]
-        batch = zip(ids, ids)
+        batch = zip(ids, ids) # zip(A,B) = {(Ai,Bi)}
         docInfo = map(self.__doc2Matrix, batch)
         
         if(len(docInfo) == 0):
@@ -174,11 +165,10 @@ class CorpusReader:
             return None
         
         docInfo = filter(None, docInfo)
-        if(len(docInfo) == 0):
-            return None
+        if(len(docInfo) == 0): return None
         
         docMatrixes, docSentenceNums, sentenceWordNums, ids, _, wordListList, posListList = zip(*docInfo)
-#         docMatrixes, docSentenceNums, sentenceWordNums, ids, _, wordListList = zip(*docInfo)
+        # docMatrixes, docSentenceNums, sentenceWordNums, ids, _, wordListList = zip(*docInfo)
         
         # Merge the sentence embedding into a holistic list.
         docMatrixes = reduce(add, docMatrixes, [])
@@ -188,16 +178,16 @@ class CorpusReader:
         
         print
         
-        docSentenceNums = [0] + list(docSentenceNums)
+        docSentenceNums  = [0] + list(docSentenceNums)
         sentenceWordNums = [0] + sentenceWordNums
         
-        docSentenceNums = np.cumsum(docSentenceNums)
+        docSentenceNums  = np.cumsum(docSentenceNums)
         sentenceWordNums = np.cumsum(sentenceWordNums)
         
         return (docMatrixes, docSentenceNums, sentenceWordNums, ids, wordListList, posListList)
     
     def __findBoarder(self, docSentenceCount, sentenceWordCount):
-        maxDocSentenceNum = np.max(docSentenceCount)
+        maxDocSentenceNum  = np.max(docSentenceCount)
         maxSentenceWordNum = np.max(np.max(sentenceWordCount))
         return maxDocSentenceNum, maxSentenceWordNum
     
@@ -217,22 +207,20 @@ def add(a, b):
 
 def loadDocuments(filename, charset="utf-8"):
     f = open(filename, "r")
-    docList = dict()
+    docList  = dict()
     docIdList = list()
     for line0 in f:
         try:
             line = decode(line0, charset, 'ignore')
-        except:
-            continue
-        tokens = line.split("\t")
-        idStr = tokens[0]
-        title = tokens[1]
+        except: continue
+        tokens  = line.split("\t")
+        idStr   = tokens[0]
+        title   = tokens[1]
         content = tokens[2]
         
         wordData = getWords(title) + getWords(content)
         
         docList[idStr] = wordData
-#         docList[idStr] = zip(*wordData)
         docIdList.append(idStr)
     f.close()
     return (docList, docIdList)
@@ -243,7 +231,7 @@ def getWords(wordsStr):
         if(":" in word):
             return (word[:word.rfind(":")], word[word.rfind(":") + 1:])
         else:
-            print "Word %s has no POS." % word
+            # print "Word %s has no POS." % word
             return (word,)
     t = filter(lambda word: len(word) > 1 and ":" in word and word.strip()[0] != ':', wordsStr.split(" "))
     return map(dealword, t)
@@ -253,8 +241,7 @@ def loadLabels(filename, charset="utf-8"):
     labels = dict()
     labelsList = list()
     for line in f:
-        if(not "\t" in line):
-            continue
+        if(not "\t" in line): continue
         (k, v) = line.split("\t")
         labels[k] = string.atof(v)
         labelsList.append((k, v))
@@ -276,6 +263,6 @@ def loadW2vModel(filename, charset="utf-8"):
         data = line.split(" ")
         word = data[0]
         vec = [string.atof(s) for s in data[1:]]
-        d[word] = np.array(vec, dtype=theano.config.floatX)
+        d[word] = np.array(vec, dtype = theano.config.floatX)
     f.close()
     return d
