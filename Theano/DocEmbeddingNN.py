@@ -52,7 +52,15 @@ class DocEmbeddingNN:
         if sentenceW is None:
             sentenceW = theano.shared(
                 numpy.asarray(
-                    rng.uniform(low=-self.__WBound, high=self.__WBound, size = (self.__sentenceLayerNodesNum, self.__sentenceLayerNodesSize[0], self.__sentenceLayerNodesSize[1])),
+                    rng.uniform(
+                        low  = -self.__WBound, 
+                        high =  self.__WBound, 
+                        size = (
+                            self.__sentenceLayerNodesNum, 
+                            self.__sentenceLayerNodesSize[0], 
+                            self.__sentenceLayerNodesSize[1]
+                        )
+                    ),
                     dtype = datatype
                 ),
                 borrow=True
@@ -66,7 +74,15 @@ class DocEmbeddingNN:
         if docW is None:
             docW = theano.shared(
                 numpy.asarray(
-                    rng.uniform(low=-self.__WBound, high=self.__WBound, size=(self.__docLayerNodesNum, self.__docLayerNodesSize[0], self.__docLayerNodesSize[1])),
+                    rng.uniform(
+                        low  = -self.__WBound, 
+                        high =  self.__WBound, 
+                        size = (
+                            self.__docLayerNodesNum, 
+                            self.__docLayerNodesSize[0], 
+                            self.__docLayerNodesSize[1]
+                        )
+                    ),
                     dtype=datatype
                 ),
                 borrow=True
@@ -87,26 +103,39 @@ class DocEmbeddingNN:
         self.docW = docW
         self.docB = docB
         self.params = [self.sentenceW, self.sentenceB, self.docW, self.docB]
-        self.outputDimension = self.__docLayerNodesNum * \
-                                                  (self.__sentenceLayerNodesNum * (self.__wordEmbeddingDim - self.__sentenceLayerNodesSize[1] + 1) - self.__docLayerNodesSize[1] + 1)
+        self.outputDimension = self.__docLayerNodesNum * ( \
+                               self.__sentenceLayerNodesNum * ( \
+                               self.__wordEmbeddingDim - \
+                               self.__sentenceLayerNodesSize[1] + 1 ) - \
+                               self.__docLayerNodesSize[1] + 1 )
    
-    def __dealWithOneDoc(self, DocSentenceCount0, oneDocSentenceCount1, docs, oneDocSentenceWordCount, docW, docB, sentenceW, sentenceB):
-#         t = T.and_((shareRandge < oneDocSentenceCount1 + 1),  (shareRandge >= DocSentenceCount0)).nonzero()
+    def __dealWithOneDoc(
+        self, 
+        DocSentenceCount0, 
+        oneDocSentenceCount1, 
+        docs, oneDocSentenceWordCount, 
+        docW, docB, 
+        sentenceW, 
+        sentenceB
+    ):
         oneDocSentenceWordCount = oneDocSentenceWordCount[DocSentenceCount0:oneDocSentenceCount1 + 1]
         
-        sentenceResults, _ = theano.scan(fn=self.__dealWithSentence,
-                            non_sequences=[docs, sentenceW, sentenceB],
-                             sequences=[dict(input=oneDocSentenceWordCount, taps=[-1, -0])],
-                             strict=True)
-        
-#         p = printing.Print('docPool')
-#         docPool = p(docPool)
-#         p = printing.Print('sentenceResults')
-#         sentenceResults = p(sentenceResults)
-#         p = printing.Print('doc_out')
-#         doc_out = p(doc_out)
-        doc_out = conv.conv2d(input=sentenceResults, filters=docW)
-        docPool = downsample.max_pool_2d(doc_out, (self.__MAXDIM, 1), mode= self.__pooling_mode, ignore_border=False)
+        sentenceResults, _ = theano.scan(
+            fn=self.__dealWithSentence,
+            non_sequences = [docs, sentenceW, sentenceB],
+            sequences = [dict(input=oneDocSentenceWordCount, taps=[-1, -0])],
+            strict = True
+        )
+        """
+        p = printing.Print('docPool')
+        docPool = p(docPool)
+        p = printing.Print('sentenceResults')
+        sentenceResults = p(sentenceResults)
+        p = printing.Print('doc_out')
+        doc_out = p(doc_out)
+        """
+        doc_out   = conv.conv2d(input=sentenceResults, filters=docW)
+        docPool   = downsample.max_pool_2d(doc_out, (self.__MAXDIM, 1), mode= self.__pooling_mode, ignore_border=False)
         docOutput = T.tanh(docPool + docB.dimshuffle([0, 'x', 'x']))
         doc_embedding = docOutput.flatten(1)
         
@@ -115,19 +144,24 @@ class DocEmbeddingNN:
         
         return doc_embedding
     
-    def __dealWithSentence(self, sentenceWordCount0, sentenceWordCount1, docs, sentenceW, sentenceB):
+    def __dealWithSentence(
+        self, 
+        sentenceWordCount0, 
+        sentenceWordCount1, 
+        docs, sentenceW, sentenceB
+    ):
 #         t = T.and_((shareRandge < sentenceWordCount1), (shareRandge >= sentenceWordCount0)).nonzero()
         sentence = docs[sentenceWordCount0:sentenceWordCount1]
         
-        sentence_out = conv.conv2d(input=sentence, filters=sentenceW)
+        sentence_out  = conv.conv2d(input=sentence, filters=sentenceW)
         sentence_pool = downsample.max_pool_2d(
             sentence_out, 
             (self.__MAXDIM, 1), 
             mode = self.__pooling_mode, 
             ignore_border = False
         )
-        
-        sentence_output = T.tanh(sentence_pool + sentenceB.dimshuffle([0, 'x', 'x']))
+            
+        sentence_output    = T.tanh(sentence_pool + sentenceB.dimshuffle([0, 'x', 'x']))
         sentence_embedding = sentence_output.flatten(1)
         
         return sentence_embedding

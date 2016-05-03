@@ -4,7 +4,6 @@
 #   
 #   filename : mlp.py
 #   author   : Christopher M. Bishop
-#   feat     : 
 #   date     : 2016-01-25
 #   desc     : multilayer perceptron using Theano
 # ======================================================== 
@@ -37,7 +36,6 @@ import sys
 import timeit
 
 import numpy
-
 import theano
 import theano.tensor as T
 
@@ -159,10 +157,10 @@ class MLP(object):
         # LogisticRegression layer; the activation function can be replaced by
         # sigmoid or any other nonlinear function
         self.hiddenLayer = HiddenLayer(
-            rng=rng,
-            input=input,
-            n_in=n_in,
-            n_out=n_hidden,
+            rng   = rng,
+            input = input,
+            n_in  = n_in,
+            n_out = n_hidden,
             activation=T.tanh
         )
 

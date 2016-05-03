@@ -8,6 +8,7 @@ l = logMod.logMod()
 def analyseLogFolder(path, label="1"):
     l.Notice("Analysis LogFolder Started.")
     base_dir = path + "/" + label
+    l.Notice("LogFolder Target is: " + str(base_dir) )
     dir_list = os.listdir(base_dir)
     
     cell_scores = dict()
@@ -43,7 +44,7 @@ def analyseLogFolder(path, label="1"):
             else: break
             nn_num += 1
             print "R",
-            if nn_num%20==0: print
+            if nn_num%20==0: print # 20 chars per line, for directly friendly seek
         dir_count += 1
         
     print
@@ -60,7 +61,7 @@ def analyseLogFolder(path, label="1"):
     
     for (cell, cell_state) in cell_word_statistic.items():
         print "W",
-        if (cell+1)%20==0: print
+        if (cell+1)%20==0: print # 20 chars per line, for directly friendly seek
         with codecs.open(analyse_base_dir + str(cell), "w", "utf-8", "ignore") as f:
             word_list = map(lambda (k, v): (k, v[0] / v[1]) , list(cell_state.items()))
             word_list.sort(key=lambda x:x[1], reverse=True)

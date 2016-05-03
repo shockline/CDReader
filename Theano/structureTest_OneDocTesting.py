@@ -63,7 +63,11 @@ def work(model_name, dataset_name, pooling_mode):
         activation = T.tanh
     )
     
-    layer2 = LogisticRegression(input = layer1.output, n_in = 100, n_out = 2)
+    layer2 = LogisticRegression(
+        input = layer1.output, 
+        n_in  = 100, 
+        n_out = 2
+    )
 
     cost = layer2.negative_log_likelihood(1 - layer2.y_pred)
         
@@ -80,7 +84,6 @@ def work(model_name, dataset_name, pooling_mode):
     
     # calculate word score against cells
     word_score_against_cell = [T.diag(T.dot(T.grad(layer1.output[i], corpus), T.transpose(corpus))) for i in xrange(layer1_output_num)]
-
     
     # construct the parameter array.
     params = layer2.params + layer1.params + layer0.params
@@ -144,14 +147,14 @@ def work(model_name, dataset_name, pooling_mode):
         
         # sentence sentence_score
         with codecs.open(current_doc_dir + "/sentence_score", "w", 'utf-8', "ignore") as f:
-            f .write("pred_y: %i\n" % pred_y[0])
+            f.write("pred_y: %i\n" % pred_y[0])
             for g0, s in score_sentence_list:
                 f.write("%f\t%s\n" % (g0, string.join(s, " ")))
     
         wordList = list()
         for s in sentences: wordList.extend(s)
-        print "length of word_scores", len(word_scores)
-        print "length of wordList"   , len(wordList)
+        print "length of word_scores:", len(word_scores)
+        print "length of wordList   :", len(wordList)
         score_word_list = zip(wordList , word_scores)
         with codecs.open(current_doc_dir + "/nn_word", "w", 'utf-8', "ignore") as f:
             for word, word_score in score_word_list:
@@ -164,8 +167,8 @@ def work(model_name, dataset_name, pooling_mode):
         
         if not os.path.exists(current_doc_dir + "/nc_word"):
             os.makedirs(current_doc_dir + "/nc_word")
-        neu_num = 0
         
+        neu_num = 0
         for w, c_output, c_score in zip(word_scores_against_cell, cell_outputs, cell_scores):
             with codecs.open(current_doc_dir + "/nc_word/" + str(neu_num), "w", 'utf-8', "ignore") as f:
                 f.write("cell sentence_score: %lf\n" % c_output)

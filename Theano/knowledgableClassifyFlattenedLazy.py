@@ -262,7 +262,7 @@ def loadW2vModel(filename, charset="utf-8"):
     for line in f :
         data = line.split(" ")
         word = data[0]
-        vec = [string.atof(s) for s in data[1:]]
+        vec  = [string.atof(s) for s in data[1:]]
         d[word] = np.array(vec, dtype = theano.config.floatX)
     f.close()
     return d

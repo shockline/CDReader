@@ -131,7 +131,7 @@ def work(mode, data_name, test_dataname, pooling_mode="average_exc_pad"):
         print "Error: ", errorNum
         if mode == "test" :
             print "Valid Pred: \n", pred_label
-            print "pred_prob:  \n", pred_prob
+            print "pred_prob : \n", pred_prob
         
         fpr, tpr, _ = roc_curve(real_label, pred_prob)
         if mode == "test" :
@@ -175,10 +175,10 @@ def work(mode, data_name, test_dataname, pooling_mode="average_exc_pad"):
         index, batchSize = T.lscalar("index"), 10
         n_batches = (len(docSentenceNums.get_value())  - 1 - 1) / batchSize + 1
         print
-        print "# Batch size         : ", batchSize
-        print "# Train set size     : ", len(docMatrixes.get_value())
-        print "# Valid set size     : ", len(validDocMatrixes.get_value())
-        print "# training batches   : ", n_batches
+        print "Batch size         : ", batchSize
+        print "Train set size     : ", len(docMatrixes.get_value())
+        print "Valid set size     : ", len(validDocMatrixes.get_value())
+        print "training batches   : ", n_batches
         
         l.Notice("Compiling computing graph.")
         # for list-type data
@@ -188,7 +188,7 @@ def work(mode, data_name, test_dataname, pooling_mode="average_exc_pad"):
             updates = updates,
             givens  = {
                 corpus: docMatrixes,
-                docSentenceCount: docSentenceNums[index * batchSize: (index + 1) * batchSize + 1],
+                docSentenceCount : docSentenceNums[index * batchSize: (index + 1) * batchSize + 1],
                 sentenceWordCount: sentenceWordNums,
                 docLabel: labels[index * batchSize: (index + 1) * batchSize]
             }

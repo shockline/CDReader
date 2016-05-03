@@ -22,13 +22,13 @@ import MysqlMod # MySQL Module as Mysql.py
 # CONFIG SET
 config = ConfigParser.ConfigParser()  
 config.read("./conf/Basic.conf") 
-path_dict = config.get("path", "path_dict")
-path_pxylist = config.get("path", "path_pxylist")
+path_dict     = config.get("path", "path_dict")
+path_pxylist  = config.get("path", "path_pxylist")
 path_Positive = config.get("path", "path_Positive")
 path_Negative = config.get("path", "path_Negative")
-exec_cyctime = config.getint("para", "EXEC_CYCLETIME")
+exec_cyctime  = config.getint("para", "EXEC_CYCLETIME")
 dict_capacity = config.getint("para", "DICT_CAPACITY")
-EN_switch = config.getint("switch","EN_filter")
+EN_switch     = config.getint("switch","EN_filter")
 
 # Global_Vars
 pxylist = []
