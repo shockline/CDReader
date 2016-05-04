@@ -1,4 +1,13 @@
 # -*- coding: gbk -*-
+# ========================================================
+#   Copyright (C) 2016 All rights reserved.
+#   
+#   filename : structureTest_OneDocTesting.py
+#   author   : okcd00 / chendian@baidu.com
+#   feat     : Wangkai01 @ Baidu
+#   date     : 2015-08-04
+#   desc     : Run by Switch 'Start.sh'
+# ======================================================== 
 
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
