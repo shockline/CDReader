@@ -2,6 +2,8 @@
 <html>  
 <?php 
 require_once('connect.php'); 
+$Dir_Path = getcwd();
+$Web_Name = substr($Dir_Path,strrpos($Dir_Path,'/')+1);
 ?>  
     <head>  
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
@@ -101,7 +103,7 @@ require_once('connect.php');
         }
         </style>  
         <script type="text/javascript" src = 
-        <?php echo "/stock-test/static/js/jquery-2.0.3.min.js" ?>
+        <?php echo "/$Web_Name/static/js/jquery-2.0.3.min.js" ?>
         ></script>  
     </head>  
     <?php   
