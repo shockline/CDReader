@@ -1,0 +1,10 @@
+     12856 itjuzi_crawler
+     12389 itjuzi_person_crawler
+    338580 ReportList_sh10jqka
+    322929 ReportList_sz10jqka
+        18 solve2.py
+        18 solve.py
+     74512 Stock_Research_Report_Hibor
+    203757 Stock_Research_Report_shSinaF
+    229365 Stock_Research_Report_szSinaF
+   1194424 total
