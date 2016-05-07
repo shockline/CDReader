@@ -1,3 +1,13 @@
+# ========================================================
+#   Copyright (C) 2016 All rights reserved.
+#   
+#   filename : structureTest_OneDocTesting.py
+#   author   : Google Inc.
+#   feat     : okcd00 / chendian@baidu.com
+#   date     : 2016-05-07
+#   desc     : Select Input & Output by Shell
+# ======================================================== 
+
 DATA_DIR=../data
 BIN_DIR=../bin
 SRC_DIR=../src
