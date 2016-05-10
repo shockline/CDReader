@@ -7,8 +7,8 @@
 + [Python](http://www.python.org/)
 + `Theano` + `Numpy` For `GPU_Calculating`
 + `urllib2` Replaced with `urllib.request` in `python3.x`
-+ `Word2Vec` A opensource word embedding package from Google Inc.
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
++ `Word2Vec` Opensource Word Embedding Package from Google Inc.
 
 ### New Idea
 - [ ] Maybe there should be a starter.
