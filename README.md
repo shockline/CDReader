@@ -16,6 +16,11 @@
 - [ ] Really need a cool word which starts with 'D' for 'CDReader', seriously.
 
 ### UpdateLog    
+[2016/05/11] ver 1.1.0
++ Completly Successfully Restruct Theano Module.
++ Generated Trainset and Validset.
++ Now Model is running.
+
 [2016/05/07] ver 1.0.4
 + Add Word2Vec Module.
 + Make Automatically Training Word-vector by script.
