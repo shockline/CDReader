@@ -1,56 +1,685 @@
-04-27 15:21:20	[Notice]	Using Mode[train], Data[cfh_all], PoolingModel[average_exc_pad]
-04-27 15:21:20	[Notice]	Function Work Starts.
-04-27 15:21:20	[Notice]	Start Constructing Layers.
-04-27 15:21:25	[Notice]	Start Loading Data
-04-27 15:21:25	[Notice]	745 Labels Loaded 
-04-27 15:21:27	[Notice]	745 Documents Loaded 
-04-27 15:21:27	[Notice]	1736 Stop-Words Loaded 
-04-27 15:23:13	[Notice]	w2v model Loaded, contains: 272582 elements
-04-27 15:23:30	[Notice]	Data has been already loaded
-04-27 15:24:19	[Notice]	Start Loading Training Data
-04-27 15:24:19	[Notice]	2221 Labels Loaded 
-04-27 15:24:25	[Notice]	2221 Documents Loaded 
-04-27 15:26:00	[Notice]	Compiling computing graph.
-04-27 15:27:03	[Notice]	Computing Graph Compiled
-04-27 15:27:03	[Notice]	Start Training
-04-27 15:27:03	[Notice]	Now batches at 1-th epoch.
-04-27 15:36:32	[Notice]	Now Saving parameters.
-04-27 15:36:32	[Notice]	Parameters Saved.
-04-27 15:36:32	[Notice]	Now batches at 2-th epoch.
-04-27 15:46:03	[Notice]	Now Saving parameters.
-04-27 15:46:03	[Notice]	Parameters Saved.
-04-27 15:46:03	[Notice]	Now batches at 3-th epoch.
-04-27 15:55:35	[Notice]	Now Saving parameters.
-04-27 15:55:35	[Notice]	Parameters Saved.
-04-27 15:55:35	[Notice]	Now batches at 4-th epoch.
-04-27 16:05:07	[Notice]	Now Saving parameters.
-04-27 16:05:07	[Notice]	Parameters Saved.
-04-27 16:05:07	[Notice]	Now batches at 5-th epoch.
-04-27 16:14:38	[Notice]	Now Saving parameters.
-04-27 16:14:38	[Notice]	Parameters Saved.
-04-27 16:14:38	[Notice]	Now batches at 6-th epoch.
-04-27 16:24:19	[Notice]	Now Saving parameters.
-04-27 16:24:19	[Notice]	Parameters Saved.
-04-27 16:24:19	[Notice]	Now batches at 7-th epoch.
-04-27 16:33:57	[Notice]	Now Saving parameters.
-04-27 16:33:57	[Notice]	Parameters Saved.
-04-27 16:33:57	[Notice]	Now batches at 8-th epoch.
-04-27 16:43:42	[Notice]	Now Saving parameters.
-04-27 16:43:42	[Notice]	Parameters Saved.
-04-27 16:43:42	[Notice]	Now batches at 9-th epoch.
-04-27 16:53:24	[Notice]	Now Saving parameters.
-04-27 16:53:24	[Notice]	Parameters Saved.
-04-27 16:53:24	[Notice]	Now batches at 10-th epoch.
-04-27 17:03:04	[Notice]	Now Saving parameters.
-04-27 17:03:04	[Notice]	Parameters Saved.
-04-27 17:03:04	[Notice]	End Training.
-04-27 17:16:10	[Notice]	Compiling computing graph.
-04-27 17:35:25	[Notice]	Computing Graph Compiled
-04-27 17:35:25	[Notice]	1 Documents Loaded 
-04-27 17:35:25	[Notice]	1736 Stop-Words Loaded 
-04-27 17:37:19	[Notice]	w2v model Loaded, contains: 272582 elements
-04-27 17:37:19	[Notice]	start to predict: 2398612390_213072694_2.
-04-27 17:37:48	[Notice]	End predicting.
-04-27 17:37:48	[Notice]	Writing resfile.
-04-27 17:37:49	[Notice]	1 Written.
-04-27 19:31:03	[Notice]	Analysis LogFolder Started.
+05-11 19:20:30	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
+05-11 19:20:30	[Notice]	Function Work Starts.
+05-11 19:20:30	[Notice]	Start Constructing Layers.
+05-11 19:20:34	[Notice]	Layers Constructed.
+05-11 19:20:34	[Notice]	Now Starts Training with data/cdr/train/text_sh000 and data/cdr/train/label_sh000
+05-11 19:20:34	[Notice]	Start Loading Data[h000]
+05-11 19:20:34	[Notice]	6338 Labels Loaded 
+05-11 19:20:38	[Notice]	6338 Documents Loaded 
+05-11 19:20:38	[Notice]	6 Stop-Words Loaded 
+05-11 19:20:52	[Notice]	w2v model Loaded, contains: 544206 elements
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:52	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:53	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:54	[Notice]	docSentenceNum < self.minDocSentenceNum
+05-11 19:20:55	[Notice]	getCorpus at getDataMatrix()
+05-11 19:24:05	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
+05-11 19:24:05	[Notice]	Function Work Starts.
+05-11 19:24:05	[Notice]	Start Constructing Layers.
+05-11 19:24:09	[Notice]	Layers Constructed.
+05-11 19:24:09	[Notice]	Now Starts Training with data/cdr/train/text_sh000 and data/cdr/train/label_sh000
+05-11 19:24:09	[Notice]	Start Loading Data[h000]
+05-11 19:24:10	[Notice]	6338 Labels Loaded 
+05-11 19:24:14	[Notice]	6338 Documents Loaded 
+05-11 19:24:14	[Notice]	6 Stop-Words Loaded 
+05-11 19:24:28	[Notice]	w2v model Loaded, contains: 544206 elements
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:28	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:29	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 3
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 1
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 2
+05-11 19:24:30	[Notice]	docSentenceNum < self.minDocSentenceNum value at 4
+05-11 19:24:32	[Notice]	getCorpus at getDataMatrix()
+05-11 19:24:37	[Notice]	Data has been loaded already

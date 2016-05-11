@@ -32,10 +32,8 @@ import cPickle
 l = logMod.logMod()
 
 def work(model_name, dataset_name, pooling_mode):
-    print "model_name:   ", model_name
-    print "dataset_name: ", dataset_name
-    print "pooling_mode: ", pooling_mode
-    print "Started!"
+    l.Notice("Using Mode[%s], Data[%s], PoolingModel[%s]" % (model_name, dataset_name, pooling_mode) )
+    l.Notice("Function Work Starts.")
     rng = numpy.random.RandomState(23455)
     sentenceWordCount = T.ivector("sentenceWordCount")
     corpus = T.matrix("corpus")
@@ -63,11 +61,7 @@ def work(model_name, dataset_name, pooling_mode):
         activation = T.tanh
     )
     
-    layer2 = LogisticRegression(
-        input = layer1.output, 
-        n_in  = 100, 
-        n_out = 2
-    )
+    layer2 = LogisticRegression(input = layer1.output, n_in = 100, n_out = 2)
 
     cost = layer2.negative_log_likelihood(1 - layer2.y_pred)
         
@@ -84,13 +78,14 @@ def work(model_name, dataset_name, pooling_mode):
     
     # calculate word score against cells
     word_score_against_cell = [T.diag(T.dot(T.grad(layer1.output[i], corpus), T.transpose(corpus))) for i in xrange(layer1_output_num)]
+
     
     # construct the parameter array.
     params = layer2.params + layer1.params + layer0.params
     
     # Load the parameters last time, optionally.
-    model_path = "data/" + dataset_name + "/model_100,100,100,100,parameters/" + pooling_mode + ".model"
-    loadParamsVal(model_path, params)
+    # model_path = "data/" + dataset_name + "/model_100,100,100,100,parameters/" + pooling_mode + ".model"
+    # loadParamsVal(model_path, params)
     
     l.Notice("Compiling computing graph. (This might be a long time, needs about 25 Mins) ")
     output_model = theano.function(
@@ -153,8 +148,8 @@ def work(model_name, dataset_name, pooling_mode):
     
         wordList = list()
         for s in sentences: wordList.extend(s)
-        print "length of word_scores:", len(word_scores)
-        print "length of wordList   :", len(wordList)
+        print "length of word_scores", len(word_scores)
+        print "length of wordList", len(wordList)
         score_word_list = zip(wordList , word_scores)
         with codecs.open(current_doc_dir + "/nn_word", "w", 'utf-8', "ignore") as f:
             for word, word_score in score_word_list:
@@ -167,8 +162,8 @@ def work(model_name, dataset_name, pooling_mode):
         
         if not os.path.exists(current_doc_dir + "/nc_word"):
             os.makedirs(current_doc_dir + "/nc_word")
-        
         neu_num = 0
+        
         for w, c_output, c_score in zip(word_scores_against_cell, cell_outputs, cell_scores):
             with codecs.open(current_doc_dir + "/nc_word/" + str(neu_num), "w", 'utf-8', "ignore") as f:
                 f.write("cell sentence_score: %lf\n" % c_output)

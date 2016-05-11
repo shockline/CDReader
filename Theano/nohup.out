@@ -1,0 +1,30 @@
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+/home/work/share/Temp/Theano/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+Traceback (most recent call last):
+  File "MultiTraining.py", line 262, in <module>
+    pooling_mode  = "average_exc_pad"
+  File "MultiTraining.py", line 108, in work
+    validDocMatrixes, validDocSentenceNums, validSentenceWordNums, validIds, validLabels, _, _ = cr_test.getCorpus([0, 1000])
+ValueError: need more than 6 values to unpack
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+/home/work/share/Temp/Theano/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+Traceback (most recent call last):
+  File "MultiTraining.py", line 266, in <module>
+    pooling_mode  = "average_exc_pad"
+  File "MultiTraining.py", line 108, in work
+    validDocMatrixes, validDocSentenceNums, validSentenceWordNums, validIds, validLabels, _ = cr_test.getCorpus([0, 1000])
+  File "/home/work/share/Theano/knowledgableClassifyFlattenedLazy.py", line 226, in getCorpus
+    corpusInfo = self.__getDataMatrix(scope)
+  File "/home/work/share/Theano/knowledgableClassifyFlattenedLazy.py", line 151, in __getDataMatrix
+    docInfo = map(self.__doc2Matrix, batch)
+  File "/home/work/share/Theano/knowledgableClassifyFlattenedLazy.py", line 138, in __doc2Matrix
+    l.Notice("docSentenceNum < self.minDocSentenceNum value at %s/%s" % (str(docSentenceNum)), str(self.minDocSentenceNum) )
+TypeError: not enough arguments for format string
+/home/work/.jumbo/lib/python2.7/site-packages/sklearn/externals/joblib/_multiprocessing_helpers.py:29: UserWarning: This platform lacks a functioning sem_open implementation, therefore, the required synchronization primitives needed will not function, see issue 3770..  joblib will operate in serial mode
+  warnings.warn('%s.  joblib will operate in serial mode' % (e,))
+/home/work/share/Temp/Theano/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
