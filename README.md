@@ -1,6 +1,6 @@
 # CDReader
-+ **C**onvolutional **D**iscrete Reader.
 + It's just someone's Graduation design.
++ **C**onvolutional **D**istribution Reader.
 + Unfortunately in Coding. Not finished yet.
 
 ### Dependency
@@ -8,6 +8,7 @@
 + `Theano` + `Numpy` For `GPU_Calculating`
 + `urllib2` Replaced with `urllib.request` in `python3.x`
 + `ConfigParser`  Replaced with `configparser` in `python3.x`
++ `Word2Vec` Opensource Word Embedding Package from Google Inc.
 
 ### New Idea
 - [ ] Maybe there should be a starter.
