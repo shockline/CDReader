@@ -16,6 +16,11 @@
 - [ ] Really need a cool word which starts with 'D' for 'CDReader', seriously.
 
 ### UpdateLog    
+[2016/05/12] ver 1.1.1
++ Multi-Case Training Module.
++ Load and Save Checkpoint Module.
++ Need time to train...
+
 [2016/05/11] ver 1.1.0
 + Completly Successfully Restruct Theano Module.
 + Generated Trainset and Validset.
