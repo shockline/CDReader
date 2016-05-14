@@ -15,11 +15,19 @@
 - [ ] Make a `Configure` out of Source Code.
 - [ ] Really need a cool word which starts with 'D' for 'CDReader', seriously.
 
+### Data and Statics
+http://pan.baidu.com/s/1qYCGGYo
+
 ### UpdateLog    
+[2016/05/14] ver 1.1.1 v2
++ Create Static Share Link.
++ Models and Trainsets can be download.
++ Corpus and W2V-file is too huge so that be stored in BaiduYun.
+
 [2016/05/12] ver 1.1.1
 + Multi-Case Training Module.
 + Load and Save Checkpoint Module.
-+ Need time to train...
++ Of course, a easy shell starter.
 
 [2016/05/11] ver 1.1.0
 + Completly Successfully Restruct Theano Module.
