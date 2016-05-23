@@ -99,7 +99,7 @@ def work(mode, data_name, test_dataname, pooling_mode="average_exc_pad"):
                 
                 l.Notice("Start Loading Data[%s]" % signNum)
                 cr_test = CorpusReader(
-                    minDocSentenceNum  = 5,        
+                    minDocSentenceNum  = 3,        
                     minSentenceWordNum = 5,        
                     dataset            = testtext, 
                     labelset           = testlabel

@@ -45,14 +45,14 @@ def work(model_name, dataset_name, pooling_mode):
         sentenceWordCount, 
         rng, 
         wordEmbeddingDim       = 200, 
-        sentenceLayerNodesNum  = 100, 
+        sentenceLayerNodesNum  = 50, 
         sentenceLayerNodesSize = [5, 200], 
-        docLayerNodesNum       = 100, 
-        docLayerNodesSize      = [3, 100],
+        docLayerNodesNum       = 10, 
+        docLayerNodesSize      = [3, 50],
         pooling_mode           = pooling_mode
     )
 
-    layer1_output_num = 100
+    layer1_output_num = 10
     layer1 = HiddenLayer(
         rng,
         input      = layer0.output,
@@ -84,20 +84,22 @@ def work(model_name, dataset_name, pooling_mode):
     params = layer2.params + layer1.params + layer0.params
     
     # Load the parameters last time, optionally.
-    # model_path = "data/" + dataset_name + "/model_100,100,100,100,parameters/" + pooling_mode + ".model"
-    # loadParamsVal(model_path, params)
-    
+    model_path = "data/cdr/model/"+ pooling_mode +".model"
+    loadParamsVal(model_path, params)
+    l.Notice("Already Loaded Model " + str(pooling_mode) )    
+
     l.Notice("Compiling computing graph. (This might be a long time, needs about 25 Mins) ")
     output_model = theano.function(
         [corpus, sentenceWordCount],
         [layer2.y_pred, sentence_score, word_score, layer1.output, cell_scores] + word_score_against_cell
     )
+    # print output_model
     l.Notice("Computing Graph Compiled")
     
     input_path = "data/" + dataset_name + "/input/"
     input_filename = input_path + "small_text"
     cr = CorpusReader(
-        minDocSentenceNum  = 5, 
+        minDocSentenceNum  = 3, 
         minSentenceWordNum = 5, 
         dataset = input_filename
     )
@@ -108,7 +110,9 @@ def work(model_name, dataset_name, pooling_mode):
         if info is None:
             l.Warning("Info is None, Pass")
             continue
-        docMatrixes, _, sentenceWordNums, ids, sentences, _ = info
+        docMatrixes, _, sentenceWordNums, ids, sentences = info # ,_,
+        # print docMatrixes
+        # print sentenceWordNums
         docMatrixes = numpy.matrix(
             docMatrixes,
             dtype=theano.config.floatX
@@ -119,6 +123,7 @@ def work(model_name, dataset_name, pooling_mode):
         )
         l.Notice("start to predict: %s." % ids[0])
         info = output_model(docMatrixes, sentenceWordNums)
+        # print "Info:", info
         pred_y, g    = info[0], info[1]
         word_scores  = info[2]
         cell_outputs = info[3]
@@ -212,6 +217,6 @@ if __name__ == '__main__':
         work(model_name=sys.argv[2], dataset_name=sys.argv[3], pooling_mode=sys.argv[4])
     elif sys.argv[1].lower() == "analyze" :
         from analyseLogFolder import analyseLogFolder
-        analyseLogFolder("data/output/cfh_all")
+        analyseLogFolder("data/output/" + sys.argv[2])
     else :
-        print "Need Arguments. For Example: \"statistic [Data] [testData] [poolingMode]\""
+        print "Need Arguments. For Example: \"statistic [Data] [testData] [model]\""
