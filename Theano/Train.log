@@ -1,13 +1,3 @@
-05-11 19:33:29	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
-05-11 19:33:29	[Notice]	Function Work Starts.
-05-11 19:33:29	[Notice]	Start Constructing Layers.
-05-11 19:33:33	[Notice]	Layers Constructed.
-05-11 19:33:33	[Notice]	Now Starts Training with data/cdr/train/text_sh000 and data/cdr/train/label_sh000
-05-11 19:33:34	[Notice]	Start Loading Data[h000]
-05-11 19:33:34	[Notice]	6338 Labels Loaded 
-05-11 19:33:39	[Notice]	6338 Documents Loaded 
-05-11 19:33:39	[Notice]	6 Stop-Words Loaded 
-05-11 19:33:53	[Notice]	w2v model Loaded, contains: 544206 elements
 05-11 19:35:22	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
 05-11 19:35:22	[Notice]	Function Work Starts.
 05-11 19:35:22	[Notice]	Start Constructing Layers.
