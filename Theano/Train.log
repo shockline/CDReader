@@ -1,0 +1,3568 @@
+05-11 19:33:29	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
+05-11 19:33:29	[Notice]	Function Work Starts.
+05-11 19:33:29	[Notice]	Start Constructing Layers.
+05-11 19:33:33	[Notice]	Layers Constructed.
+05-11 19:33:33	[Notice]	Now Starts Training with data/cdr/train/text_sh000 and data/cdr/train/label_sh000
+05-11 19:33:34	[Notice]	Start Loading Data[h000]
+05-11 19:33:34	[Notice]	6338 Labels Loaded 
+05-11 19:33:39	[Notice]	6338 Documents Loaded 
+05-11 19:33:39	[Notice]	6 Stop-Words Loaded 
+05-11 19:33:53	[Notice]	w2v model Loaded, contains: 544206 elements
+05-11 19:35:22	[Notice]	Using Mode[train], Data[cdr], PoolingModel[average_exc_pad]
+05-11 19:35:22	[Notice]	Function Work Starts.
+05-11 19:35:22	[Notice]	Start Constructing Layers.
+05-11 19:35:27	[Notice]	Layers Constructed.
+05-11 19:35:27	[Notice]	Now Starts Training with data/cdr/train/text_sh000 and data/cdr/train/label_sh000
+05-11 19:35:27	[Notice]	Start Loading Data[h000]
+05-11 19:35:28	[Notice]	6338 Labels Loaded 
+05-11 19:35:32	[Notice]	6338 Documents Loaded 
+05-11 19:35:32	[Notice]	6 Stop-Words Loaded 
+05-11 19:35:45	[Notice]	w2v model Loaded, contains: 544206 elements
+05-11 19:35:48	[Notice]	getCorpus at getDataMatrix()
+05-11 19:35:52	[Notice]	Data has been loaded already
+05-11 19:36:31	[Notice]	Valid current model:	Cost/0.69314718056	Error/0.95067264574
+ROC: 0.5
+TPR:	0.0
+FPR:	0.0
+AR:	0.5
+threshold: 1
+05-11 19:36:31	[Notice]	Start Loading Training Data
+05-11 19:36:31	[Notice]	7370 Labels Loaded 
+05-11 19:36:35	[Notice]	7370 Documents Loaded 
+05-11 19:39:55	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1771610
+# Valid set size     : 185225
+# training batches   : 663
+05-11 19:40:46	[Notice]	Compiling computing graph.
+05-11 19:42:09	[Notice]	Computing Graph Compiled
+05-11 19:42:09	[Notice]	Start Training
+05-11 19:42:09	[Notice]	Now batches at 1-th epoch.
+05-11 20:04:43	[Notice]	Current validate Model[1]
+ROC: 0.629931389365
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 20:04:43	[Notice]	Now Saving parameters.
+05-11 20:04:43	[Notice]	Parameters Saved.
+05-11 20:04:43	[Notice]	Now batches at 2-th epoch.
+05-11 20:27:21	[Notice]	Current validate Model[2]
+ROC: 0.696159710311
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 20:27:21	[Notice]	Now Saving parameters.
+05-11 20:27:21	[Notice]	Parameters Saved.
+05-11 20:27:21	[Notice]	Now batches at 3-th epoch.
+05-11 20:49:37	[Notice]	Current validate Model[3]
+ROC: 0.720506956356
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 20:49:37	[Notice]	Now Saving parameters.
+05-11 20:49:37	[Notice]	Parameters Saved.
+05-11 20:49:37	[Notice]	Now batches at 4-th epoch.
+05-11 21:12:15	[Notice]	Current validate Model[4]
+ROC: 0.735849056604
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 21:12:15	[Notice]	Now Saving parameters.
+05-11 21:12:15	[Notice]	Parameters Saved.
+05-11 21:12:15	[Notice]	Now batches at 5-th epoch.
+05-11 21:35:13	[Notice]	Current validate Model[5]
+ROC: 0.750524109015
+TPR:	1.0
+FPR:	0.969696969697
+AR:	0.515151515152
+threshold: 1
+05-11 21:35:13	[Notice]	Now Saving parameters.
+05-11 21:35:13	[Notice]	Parameters Saved.
+05-11 21:35:13	[Notice]	Now batches at 6-th epoch.
+05-11 21:57:28	[Notice]	Current validate Model[6]
+ROC: 0.761816275967
+TPR:	0.998427672956
+FPR:	0.969696969697
+AR:	0.51436535163
+threshold: 1
+05-11 21:57:28	[Notice]	Now Saving parameters.
+05-11 21:57:28	[Notice]	Parameters Saved.
+05-11 21:57:28	[Notice]	Now batches at 7-th epoch.
+05-11 22:20:09	[Notice]	Current validate Model[7]
+ROC: 0.773203735468
+TPR:	0.995283018868
+FPR:	0.969696969697
+AR:	0.512793024585
+threshold: 1
+05-11 22:20:09	[Notice]	Now Saving parameters.
+05-11 22:20:09	[Notice]	Parameters Saved.
+05-11 22:20:09	[Notice]	Now batches at 8-th epoch.
+05-11 22:43:14	[Notice]	Current validate Model[8]
+ROC: 0.78273299028
+TPR:	0.993710691824
+FPR:	0.969696969697
+AR:	0.512006861063
+threshold: 1
+05-11 22:43:14	[Notice]	Now Saving parameters.
+05-11 22:43:14	[Notice]	Parameters Saved.
+05-11 22:43:14	[Notice]	End Training Data[h000]
+05-11 22:43:14	[Notice]	Now Starts Training with data/cdr/train/text_sh001 and data/cdr/train/label_sh001
+05-11 22:43:15	[Notice]	Start Loading Data[h001]
+05-11 22:43:15	[Notice]	6338 Labels Loaded 
+05-11 22:43:19	[Notice]	6338 Documents Loaded 
+05-11 22:43:23	[Notice]	getCorpus at getDataMatrix()
+05-11 22:43:29	[Notice]	Data has been loaded already
+05-11 22:44:07	[Notice]	Valid current model:	Cost/0.181041812394	Error/0.0538116591928
+ROC: 0.78273299028
+TPR:	0.993710691824
+FPR:	0.969696969697
+AR:	0.512006861063
+threshold: 1
+05-11 22:44:07	[Notice]	Start Loading Training Data
+05-11 22:44:08	[Notice]	7379 Labels Loaded 
+05-11 22:44:14	[Notice]	7379 Documents Loaded 
+05-11 22:47:43	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1760451
+# Valid set size     : 185225
+# training batches   : 663
+05-11 22:48:35	[Notice]	Compiling computing graph.
+05-11 22:49:58	[Notice]	Computing Graph Compiled
+05-11 22:49:58	[Notice]	Start Training
+05-11 22:49:58	[Notice]	Now batches at 1-th epoch.
+05-11 23:12:25	[Notice]	Current validate Model[1]
+ROC: 0.81498951782
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 23:12:25	[Notice]	Now Saving parameters.
+05-11 23:12:25	[Notice]	Parameters Saved.
+05-11 23:12:25	[Notice]	Now batches at 2-th epoch.
+05-11 23:35:44	[Notice]	Current validate Model[2]
+ROC: 0.829759862779
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 23:35:44	[Notice]	Now Saving parameters.
+05-11 23:35:44	[Notice]	Parameters Saved.
+05-11 23:35:44	[Notice]	Now batches at 3-th epoch.
+05-11 23:58:53	[Notice]	Current validate Model[3]
+ROC: 0.841290261102
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-11 23:58:53	[Notice]	Now Saving parameters.
+05-11 23:58:53	[Notice]	Parameters Saved.
+05-11 23:58:53	[Notice]	Now batches at 4-th epoch.
+05-12 00:21:19	[Notice]	Current validate Model[4]
+ROC: 0.850009529255
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-12 00:21:19	[Notice]	Now Saving parameters.
+05-12 00:21:19	[Notice]	Parameters Saved.
+05-12 00:21:19	[Notice]	Now batches at 5-th epoch.
+05-12 00:44:46	[Notice]	Current validate Model[5]
+ROC: 0.855488850772
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-12 00:44:46	[Notice]	Now Saving parameters.
+05-12 00:44:46	[Notice]	Parameters Saved.
+05-12 00:44:46	[Notice]	Now batches at 6-th epoch.
+05-12 01:07:53	[Notice]	Current validate Model[6]
+ROC: 0.860539355822
+TPR:	0.996855345912
+FPR:	1.0
+AR:	0.498427672956
+threshold: 1
+05-12 01:07:53	[Notice]	Now Saving parameters.
+05-12 01:07:53	[Notice]	Parameters Saved.
+05-12 01:07:53	[Notice]	Now batches at 7-th epoch.
+05-12 01:29:57	[Notice]	Current validate Model[7]
+ROC: 0.86368400991
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 01:29:57	[Notice]	Now Saving parameters.
+05-12 01:29:57	[Notice]	Parameters Saved.
+05-12 01:29:57	[Notice]	Now batches at 8-th epoch.
+05-12 01:53:02	[Notice]	Current validate Model[8]
+ROC: 0.866590432628
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 01:53:02	[Notice]	Now Saving parameters.
+05-12 01:53:02	[Notice]	Parameters Saved.
+05-12 01:53:02	[Notice]	End Training Data[h001]
+05-12 01:53:02	[Notice]	Now Starts Training with data/cdr/train/text_sh002 and data/cdr/train/label_sh002
+05-12 01:53:02	[Notice]	Start Loading Data[h002]
+05-12 01:53:03	[Notice]	6338 Labels Loaded 
+05-12 01:53:07	[Notice]	6338 Documents Loaded 
+05-12 01:53:12	[Notice]	getCorpus at getDataMatrix()
+05-12 01:53:18	[Notice]	Data has been loaded already
+05-12 01:54:00	[Notice]	Valid current model:	Cost/0.148835282873	Error/0.050822122571
+ROC: 0.866590432628
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 01:54:00	[Notice]	Start Loading Training Data
+05-12 01:54:00	[Notice]	7332 Labels Loaded 
+05-12 01:54:07	[Notice]	7332 Documents Loaded 
+05-12 01:58:40	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1757620
+# Valid set size     : 185225
+# training batches   : 661
+05-12 01:59:55	[Notice]	Compiling computing graph.
+05-12 02:01:33	[Notice]	Computing Graph Compiled
+05-12 02:01:33	[Notice]	Start Training
+05-12 02:01:33	[Notice]	Now batches at 1-th epoch.
+05-12 02:24:29	[Notice]	Current validate Model[1]
+ROC: 0.85429769392
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-12 02:24:29	[Notice]	Now Saving parameters.
+05-12 02:24:29	[Notice]	Parameters Saved.
+05-12 02:24:29	[Notice]	Now batches at 2-th epoch.
+05-12 02:47:22	[Notice]	Current validate Model[2]
+ROC: 0.856727653897
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-12 02:47:22	[Notice]	Now Saving parameters.
+05-12 02:47:22	[Notice]	Parameters Saved.
+05-12 02:47:22	[Notice]	Now batches at 3-th epoch.
+05-12 03:10:07	[Notice]	Current validate Model[3]
+ROC: 0.858728797408
+TPR:	1.0
+FPR:	1.0
+AR:	0.5
+threshold: 1
+05-12 03:10:07	[Notice]	Now Saving parameters.
+05-12 03:10:07	[Notice]	Parameters Saved.
+05-12 03:10:07	[Notice]	Now batches at 4-th epoch.
+05-12 03:33:14	[Notice]	Current validate Model[4]
+ROC: 0.858585858586
+TPR:	1.0
+FPR:	0.969696969697
+AR:	0.515151515152
+threshold: 1
+05-12 03:33:14	[Notice]	Now Saving parameters.
+05-12 03:33:14	[Notice]	Parameters Saved.
+05-12 03:33:14	[Notice]	Now batches at 5-th epoch.
+05-12 03:56:02	[Notice]	Current validate Model[5]
+ROC: 0.858681151134
+TPR:	1.0
+FPR:	0.939393939394
+AR:	0.530303030303
+threshold: 1
+05-12 03:56:02	[Notice]	Now Saving parameters.
+05-12 03:56:02	[Notice]	Parameters Saved.
+05-12 03:56:02	[Notice]	Now batches at 6-th epoch.
+05-12 04:19:09	[Notice]	Current validate Model[6]
+ROC: 0.857489994282
+TPR:	1.0
+FPR:	0.909090909091
+AR:	0.545454545455
+threshold: 1
+05-12 04:19:09	[Notice]	Now Saving parameters.
+05-12 04:19:09	[Notice]	Parameters Saved.
+05-12 04:19:09	[Notice]	Now batches at 7-th epoch.
+05-12 04:42:03	[Notice]	Current validate Model[7]
+ROC: 0.858347627216
+TPR:	1.0
+FPR:	0.909090909091
+AR:	0.545454545455
+threshold: 1
+05-12 04:42:03	[Notice]	Now Saving parameters.
+05-12 04:42:03	[Notice]	Parameters Saved.
+05-12 04:42:03	[Notice]	Now batches at 8-th epoch.
+05-12 05:04:49	[Notice]	Current validate Model[8]
+ROC: 0.858204688393
+TPR:	1.0
+FPR:	0.878787878788
+AR:	0.560606060606
+threshold: 1
+05-12 05:04:49	[Notice]	Now Saving parameters.
+05-12 05:04:49	[Notice]	Parameters Saved.
+05-12 05:04:49	[Notice]	End Training Data[h002]
+05-12 05:04:49	[Notice]	Now Starts Training with data/cdr/train/text_sh003 and data/cdr/train/label_sh003
+05-12 05:04:50	[Notice]	Start Loading Data[h003]
+05-12 05:04:50	[Notice]	6338 Labels Loaded 
+05-12 05:04:55	[Notice]	6338 Documents Loaded 
+05-12 05:05:00	[Notice]	getCorpus at getDataMatrix()
+05-12 05:05:05	[Notice]	Data has been loaded already
+05-12 05:05:47	[Notice]	Valid current model:	Cost/0.175733914236	Error/0.0433482810164
+ROC: 0.858204688393
+TPR:	1.0
+FPR:	0.878787878788
+AR:	0.560606060606
+threshold: 1
+05-12 05:05:47	[Notice]	Start Loading Training Data
+05-12 05:05:47	[Notice]	7319 Labels Loaded 
+05-12 05:05:53	[Notice]	7319 Documents Loaded 
+05-12 05:10:31	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1756103
+# Valid set size     : 185225
+# training batches   : 660
+05-12 05:11:43	[Notice]	Compiling computing graph.
+05-12 05:13:25	[Notice]	Computing Graph Compiled
+05-12 05:13:25	[Notice]	Start Training
+05-12 05:13:25	[Notice]	Now batches at 1-th epoch.
+05-12 05:36:07	[Notice]	Current validate Model[1]
+ROC: 0.857585286831
+TPR:	1.0
+FPR:	0.969696969697
+AR:	0.515151515152
+threshold: 1
+05-12 05:36:07	[Notice]	Now Saving parameters.
+05-12 05:36:07	[Notice]	Parameters Saved.
+05-12 05:36:07	[Notice]	Now batches at 2-th epoch.
+05-12 05:59:06	[Notice]	Current validate Model[2]
+ROC: 0.863922241281
+TPR:	1.0
+FPR:	0.969696969697
+AR:	0.515151515152
+threshold: 1
+05-12 05:59:06	[Notice]	Now Saving parameters.
+05-12 05:59:06	[Notice]	Parameters Saved.
+05-12 05:59:06	[Notice]	Now batches at 3-th epoch.
+05-12 06:22:02	[Notice]	Current validate Model[3]
+ROC: 0.860872879741
+TPR:	0.998427672956
+FPR:	0.969696969697
+AR:	0.51436535163
+threshold: 1
+05-12 06:22:02	[Notice]	Now Saving parameters.
+05-12 06:22:02	[Notice]	Parameters Saved.
+05-12 06:22:02	[Notice]	Now batches at 4-th epoch.
+05-12 06:45:03	[Notice]	Current validate Model[4]
+ROC: 0.856822946446
+TPR:	0.998427672956
+FPR:	0.969696969697
+AR:	0.51436535163
+threshold: 1
+05-12 06:45:03	[Notice]	Now Saving parameters.
+05-12 06:45:03	[Notice]	Parameters Saved.
+05-12 06:45:03	[Notice]	Now batches at 5-th epoch.
+05-12 07:07:39	[Notice]	Current validate Model[5]
+ROC: 0.852201257862
+TPR:	0.998427672956
+FPR:	0.969696969697
+AR:	0.51436535163
+threshold: 1
+05-12 07:07:39	[Notice]	Now Saving parameters.
+05-12 07:07:39	[Notice]	Parameters Saved.
+05-12 07:07:39	[Notice]	Now batches at 6-th epoch.
+05-12 07:29:52	[Notice]	Current validate Model[6]
+ROC: 0.849390127692
+TPR:	0.996855345912
+FPR:	0.969696969697
+AR:	0.513579188107
+threshold: 1
+05-12 07:29:52	[Notice]	Now Saving parameters.
+05-12 07:29:52	[Notice]	Parameters Saved.
+05-12 07:29:52	[Notice]	Now batches at 7-th epoch.
+05-12 07:51:50	[Notice]	Current validate Model[7]
+ROC: 0.844577854012
+TPR:	0.996855345912
+FPR:	0.969696969697
+AR:	0.513579188107
+threshold: 1
+05-12 07:51:50	[Notice]	Now Saving parameters.
+05-12 07:51:50	[Notice]	Parameters Saved.
+05-12 07:51:50	[Notice]	Now batches at 8-th epoch.
+05-12 08:14:13	[Notice]	Current validate Model[8]
+ROC: 0.834476843911
+TPR:	0.996855345912
+FPR:	0.969696969697
+AR:	0.513579188107
+threshold: 1
+05-12 08:14:13	[Notice]	Now Saving parameters.
+05-12 08:14:13	[Notice]	Parameters Saved.
+05-12 08:14:13	[Notice]	End Training Data[h003]
+05-12 08:14:13	[Notice]	Now Starts Training with data/cdr/train/text_sh004 and data/cdr/train/label_sh004
+05-12 08:14:14	[Notice]	Start Loading Data[h004]
+05-12 08:14:14	[Notice]	6338 Labels Loaded 
+05-12 08:14:18	[Notice]	6338 Documents Loaded 
+05-12 08:14:22	[Notice]	getCorpus at getDataMatrix()
+05-12 08:14:27	[Notice]	Data has been loaded already
+05-12 08:15:16	[Notice]	Valid current model:	Cost/0.169083895428	Error/0.050822122571
+ROC: 0.834476843911
+TPR:	0.996855345912
+FPR:	0.969696969697
+AR:	0.513579188107
+threshold: 1
+05-12 08:15:16	[Notice]	Start Loading Training Data
+05-12 08:15:16	[Notice]	7379 Labels Loaded 
+05-12 08:15:28	[Notice]	7379 Documents Loaded 
+05-12 08:18:50	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1777282
+# Valid set size     : 185225
+# training batches   : 664
+05-12 08:19:39	[Notice]	Compiling computing graph.
+05-12 08:21:01	[Notice]	Computing Graph Compiled
+05-12 08:21:01	[Notice]	Start Training
+05-12 08:21:01	[Notice]	Now batches at 1-th epoch.
+05-12 08:43:47	[Notice]	Current validate Model[1]
+ROC: 0.871212121212
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 08:43:47	[Notice]	Now Saving parameters.
+05-12 08:43:47	[Notice]	Parameters Saved.
+05-12 08:43:47	[Notice]	Now batches at 2-th epoch.
+05-12 09:06:43	[Notice]	Current validate Model[2]
+ROC: 0.874928530589
+TPR:	0.995283018868
+FPR:	0.969696969697
+AR:	0.512793024585
+threshold: 1
+05-12 09:06:43	[Notice]	Now Saving parameters.
+05-12 09:06:43	[Notice]	Parameters Saved.
+05-12 09:06:43	[Notice]	Now batches at 3-th epoch.
+05-12 09:29:39	[Notice]	Current validate Model[3]
+ROC: 0.873308557271
+TPR:	0.995283018868
+FPR:	0.969696969697
+AR:	0.512793024585
+threshold: 1
+05-12 09:29:39	[Notice]	Now Saving parameters.
+05-12 09:29:39	[Notice]	Parameters Saved.
+05-12 09:29:39	[Notice]	Now batches at 4-th epoch.
+05-12 09:50:45	[Notice]	Current validate Model[4]
+ROC: 0.869496855346
+TPR:	0.996855345912
+FPR:	0.939393939394
+AR:	0.528730703259
+threshold: 1
+05-12 09:50:45	[Notice]	Now Saving parameters.
+05-12 09:50:45	[Notice]	Parameters Saved.
+05-12 09:50:45	[Notice]	Now batches at 5-th epoch.
+05-12 10:11:49	[Notice]	Current validate Model[5]
+ROC: 0.869925671812
+TPR:	0.996855345912
+FPR:	0.939393939394
+AR:	0.528730703259
+threshold: 1
+05-12 10:11:49	[Notice]	Now Saving parameters.
+05-12 10:11:49	[Notice]	Parameters Saved.
+05-12 10:11:49	[Notice]	Now batches at 6-th epoch.
+05-12 10:31:42	[Notice]	Current validate Model[6]
+ROC: 0.870163903183
+TPR:	0.996855345912
+FPR:	0.909090909091
+AR:	0.543882218411
+threshold: 1
+05-12 10:31:42	[Notice]	Now Saving parameters.
+05-12 10:31:42	[Notice]	Parameters Saved.
+05-12 10:31:42	[Notice]	Now batches at 7-th epoch.
+05-12 10:52:47	[Notice]	Current validate Model[7]
+ROC: 0.868686868687
+TPR:	0.995283018868
+FPR:	0.909090909091
+AR:	0.543096054889
+threshold: 1
+05-12 10:52:47	[Notice]	Now Saving parameters.
+05-12 10:52:47	[Notice]	Parameters Saved.
+05-12 10:52:47	[Notice]	Now batches at 8-th epoch.
+05-12 11:10:47	[Notice]	Current validate Model[8]
+ROC: 0.868639222413
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 11:10:47	[Notice]	Now Saving parameters.
+05-12 11:10:47	[Notice]	Parameters Saved.
+05-12 11:10:47	[Notice]	End Training Data[h004]
+05-12 11:10:47	[Notice]	Now Starts Training with data/cdr/train/text_sh005 and data/cdr/train/label_sh005
+05-12 11:10:49	[Notice]	Start Loading Data[h005]
+05-12 11:10:49	[Notice]	6338 Labels Loaded 
+05-12 11:10:58	[Notice]	6338 Documents Loaded 
+05-12 11:11:02	[Notice]	getCorpus at getDataMatrix()
+05-12 11:11:06	[Notice]	Data has been loaded already
+05-12 11:11:39	[Notice]	Valid current model:	Cost/0.159864352346	Error/0.050822122571
+ROC: 0.868639222413
+TPR:	0.995283018868
+FPR:	0.939393939394
+AR:	0.527944539737
+threshold: 1
+05-12 11:11:39	[Notice]	Start Loading Training Data
+05-12 11:11:39	[Notice]	7309 Labels Loaded 
+05-12 11:11:43	[Notice]	7309 Documents Loaded 
+05-12 11:14:22	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1743644
+# Valid set size     : 185225
+# training batches   : 656
+05-12 11:15:02	[Notice]	Compiling computing graph.
+05-12 11:16:15	[Notice]	Computing Graph Compiled
+05-12 11:16:15	[Notice]	Start Training
+05-12 11:16:15	[Notice]	Now batches at 1-th epoch.
+05-12 11:38:15	[Notice]	Current validate Model[1]
+ROC: 0.901133981323
+TPR:	0.996855345912
+FPR:	0.969696969697
+AR:	0.513579188107
+threshold: 1
+05-12 11:38:15	[Notice]	Now Saving parameters.
+05-12 11:38:15	[Notice]	Parameters Saved.
+05-12 11:38:15	[Notice]	Now batches at 2-th epoch.
+05-12 12:00:30	[Notice]	Current validate Model[2]
+ROC: 0.905850962455
+TPR:	0.993710691824
+FPR:	0.848484848485
+AR:	0.57261292167
+threshold: 1
+05-12 12:00:30	[Notice]	Now Saving parameters.
+05-12 12:00:30	[Notice]	Parameters Saved.
+05-12 12:00:30	[Notice]	Now batches at 3-th epoch.
+05-12 12:21:47	[Notice]	Current validate Model[3]
+ROC: 0.909233847913
+TPR:	0.993710691824
+FPR:	0.787878787879
+AR:	0.602915951973
+threshold: 1
+05-12 12:21:47	[Notice]	Now Saving parameters.
+05-12 12:21:47	[Notice]	Parameters Saved.
+05-12 12:21:47	[Notice]	Now batches at 4-th epoch.
+05-12 12:44:01	[Notice]	Current validate Model[4]
+ROC: 0.912187916905
+TPR:	0.990566037736
+FPR:	0.727272727273
+AR:	0.631646655232
+threshold: 1
+05-12 12:44:01	[Notice]	Now Saving parameters.
+05-12 12:44:01	[Notice]	Parameters Saved.
+05-12 12:44:01	[Notice]	Now batches at 5-th epoch.
+05-12 13:06:32	[Notice]	Current validate Model[5]
+ROC: 0.911473222794
+TPR:	0.98427672956
+FPR:	0.727272727273
+AR:	0.628502001144
+threshold: 1
+05-12 13:06:32	[Notice]	Now Saving parameters.
+05-12 13:06:32	[Notice]	Parameters Saved.
+05-12 13:06:32	[Notice]	Now batches at 6-th epoch.
+05-12 13:29:04	[Notice]	Current validate Model[6]
+ROC: 0.907423289499
+TPR:	0.973270440252
+FPR:	0.666666666667
+AR:	0.653301886792
+threshold: 1
+05-12 13:29:04	[Notice]	Now Saving parameters.
+05-12 13:29:04	[Notice]	Parameters Saved.
+05-12 13:29:04	[Notice]	Now batches at 7-th epoch.
+05-12 13:51:22	[Notice]	Current validate Model[7]
+ROC: 0.904707451877
+TPR:	0.960691823899
+FPR:	0.545454545455
+AR:	0.707618639222
+threshold: 1
+05-12 13:51:22	[Notice]	Now Saving parameters.
+05-12 13:51:22	[Notice]	Parameters Saved.
+05-12 13:51:22	[Notice]	Now batches at 8-th epoch.
+05-12 14:13:36	[Notice]	Current validate Model[8]
+ROC: 0.915380217267
+TPR:	0.963836477987
+FPR:	0.515151515152
+AR:	0.724342481418
+threshold: 1
+05-12 14:13:36	[Notice]	Now Saving parameters.
+05-12 14:13:36	[Notice]	Parameters Saved.
+05-12 14:13:36	[Notice]	End Training Data[h005]
+05-12 14:13:36	[Notice]	Now Starts Training with data/cdr/train/text_sh006 and data/cdr/train/label_sh006
+05-12 14:13:36	[Notice]	Start Loading Data[h006]
+05-12 14:13:37	[Notice]	6338 Labels Loaded 
+05-12 14:13:41	[Notice]	6338 Documents Loaded 
+05-12 14:13:45	[Notice]	getCorpus at getDataMatrix()
+05-12 14:13:50	[Notice]	Data has been loaded already
+05-12 14:14:34	[Notice]	Valid current model:	Cost/0.152939799138	Error/0.0597907324365
+ROC: 0.915380217267
+TPR:	0.963836477987
+FPR:	0.515151515152
+AR:	0.724342481418
+threshold: 1
+05-12 14:14:34	[Notice]	Start Loading Training Data
+05-12 14:14:34	[Notice]	7325 Labels Loaded 
+05-12 14:14:48	[Notice]	7325 Documents Loaded 
+05-12 14:18:14	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1748323
+# Valid set size     : 185225
+# training batches   : 659
+05-12 14:19:05	[Notice]	Compiling computing graph.
+05-12 14:20:35	[Notice]	Computing Graph Compiled
+05-12 14:20:35	[Notice]	Start Training
+05-12 14:20:35	[Notice]	Now batches at 1-th epoch.
+05-12 14:43:00	[Notice]	Current validate Model[1]
+ROC: 0.896035829998
+TPR:	0.996855345912
+FPR:	0.878787878788
+AR:	0.559033733562
+threshold: 1
+05-12 14:43:00	[Notice]	Now Saving parameters.
+05-12 14:43:00	[Notice]	Parameters Saved.
+05-12 14:43:00	[Notice]	Now batches at 2-th epoch.
+05-12 15:05:19	[Notice]	Current validate Model[2]
+ROC: 0.900943396226
+TPR:	0.996855345912
+FPR:	0.878787878788
+AR:	0.559033733562
+threshold: 1
+05-12 15:05:19	[Notice]	Now Saving parameters.
+05-12 15:05:19	[Notice]	Parameters Saved.
+05-12 15:05:19	[Notice]	Now batches at 3-th epoch.
+05-12 15:27:34	[Notice]	Current validate Model[3]
+ROC: 0.902992186011
+TPR:	0.993710691824
+FPR:	0.818181818182
+AR:	0.587764436821
+threshold: 1
+05-12 15:27:34	[Notice]	Now Saving parameters.
+05-12 15:27:34	[Notice]	Parameters Saved.
+05-12 15:27:34	[Notice]	Now batches at 4-th epoch.
+05-12 15:49:29	[Notice]	Current validate Model[4]
+ROC: 0.90508862207
+TPR:	0.993710691824
+FPR:	0.818181818182
+AR:	0.587764436821
+threshold: 1
+05-12 15:49:29	[Notice]	Now Saving parameters.
+05-12 15:49:29	[Notice]	Parameters Saved.
+05-12 15:49:29	[Notice]	Now batches at 5-th epoch.
+05-12 16:09:35	[Notice]	Current validate Model[5]
+ROC: 0.903373356204
+TPR:	0.99213836478
+FPR:	0.787878787879
+AR:	0.602129788451
+threshold: 1
+05-12 16:09:35	[Notice]	Now Saving parameters.
+05-12 16:09:35	[Notice]	Parameters Saved.
+05-12 16:09:35	[Notice]	Now batches at 6-th epoch.
+05-12 16:28:23	[Notice]	Current validate Model[6]
+ROC: 0.903039832285
+TPR:	0.99213836478
+FPR:	0.818181818182
+AR:	0.586978273299
+threshold: 1
+05-12 16:28:23	[Notice]	Now Saving parameters.
+05-12 16:28:23	[Notice]	Parameters Saved.
+05-12 16:28:23	[Notice]	Now batches at 7-th epoch.
+05-12 16:50:46	[Notice]	Current validate Model[7]
+ROC: 0.904850390699
+TPR:	0.99213836478
+FPR:	0.787878787879
+AR:	0.602129788451
+threshold: 1
+05-12 16:50:46	[Notice]	Now Saving parameters.
+05-12 16:50:46	[Notice]	Parameters Saved.
+05-12 16:50:46	[Notice]	Now batches at 8-th epoch.
+05-12 17:13:03	[Notice]	Current validate Model[8]
+ROC: 0.902182199352
+TPR:	0.988993710692
+FPR:	0.757575757576
+AR:	0.615708976558
+threshold: 1
+05-12 17:13:03	[Notice]	Now Saving parameters.
+05-12 17:13:03	[Notice]	Parameters Saved.
+05-12 17:13:03	[Notice]	End Training Data[h006]
+05-12 17:13:03	[Notice]	Now Starts Training with data/cdr/train/text_sh007 and data/cdr/train/label_sh007
+05-12 17:13:03	[Notice]	Start Loading Data[h007]
+05-12 17:13:03	[Notice]	6338 Labels Loaded 
+05-12 17:13:09	[Notice]	6338 Documents Loaded 
+05-12 17:13:13	[Notice]	getCorpus at getDataMatrix()
+05-12 17:13:18	[Notice]	Data has been loaded already
+05-12 17:14:03	[Notice]	Valid current model:	Cost/0.164187234896	Error/0.0478325859492
+ROC: 0.902182199352
+TPR:	0.988993710692
+FPR:	0.757575757576
+AR:	0.615708976558
+threshold: 1
+05-12 17:14:03	[Notice]	Start Loading Training Data
+05-12 17:14:03	[Notice]	7349 Labels Loaded 
+05-12 17:14:12	[Notice]	7349 Documents Loaded 
+05-12 17:17:36	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1761318
+# Valid set size     : 185225
+# training batches   : 657
+05-12 17:18:28	[Notice]	Compiling computing graph.
+05-12 17:20:06	[Notice]	Computing Graph Compiled
+05-12 17:20:06	[Notice]	Start Training
+05-12 17:20:06	[Notice]	Now batches at 1-th epoch.
+05-12 17:42:44	[Notice]	Current validate Model[1]
+ROC: 0.891795311607
+TPR:	0.987421383648
+FPR:	0.727272727273
+AR:	0.630074328188
+threshold: 1
+05-12 17:42:44	[Notice]	Now Saving parameters.
+05-12 17:42:44	[Notice]	Parameters Saved.
+05-12 17:42:44	[Notice]	Now batches at 2-th epoch.
+05-12 18:05:05	[Notice]	Current validate Model[2]
+ROC: 0.901991614256
+TPR:	0.979559748428
+FPR:	0.69696969697
+AR:	0.641295025729
+threshold: 1
+05-12 18:05:05	[Notice]	Now Saving parameters.
+05-12 18:05:05	[Notice]	Parameters Saved.
+05-12 18:05:05	[Notice]	Now batches at 3-th epoch.
+05-12 18:27:39	[Notice]	Current validate Model[3]
+ROC: 0.899085191538
+TPR:	0.968553459119
+FPR:	0.545454545455
+AR:	0.711549456832
+threshold: 1
+05-12 18:27:39	[Notice]	Now Saving parameters.
+05-12 18:27:39	[Notice]	Parameters Saved.
+05-12 18:27:39	[Notice]	Now batches at 4-th epoch.
+05-12 18:50:00	[Notice]	Current validate Model[4]
+ROC: 0.904802744425
+TPR:	0.971698113208
+FPR:	0.545454545455
+AR:	0.713121783877
+threshold: 1
+05-12 18:50:00	[Notice]	Now Saving parameters.
+05-12 18:50:00	[Notice]	Parameters Saved.
+05-12 18:50:00	[Notice]	Now batches at 5-th epoch.
+05-12 19:11:47	[Notice]	Current validate Model[5]
+ROC: 0.90075281113
+TPR:	0.970125786164
+FPR:	0.575757575758
+AR:	0.697184105203
+threshold: 1
+05-12 19:11:47	[Notice]	Now Saving parameters.
+05-12 19:11:47	[Notice]	Parameters Saved.
+05-12 19:11:47	[Notice]	Now batches at 6-th epoch.
+05-12 19:33:59	[Notice]	Current validate Model[6]
+ROC: 0.895082904517
+TPR:	0.948113207547
+FPR:	0.515151515152
+AR:	0.716480846198
+threshold: 1
+05-12 19:33:59	[Notice]	Now Saving parameters.
+05-12 19:33:59	[Notice]	Parameters Saved.
+05-12 19:33:59	[Notice]	Now batches at 7-th epoch.
+05-12 19:56:28	[Notice]	Current validate Model[7]
+ROC: 0.894749380598
+TPR:	0.941823899371
+FPR:	0.424242424242
+AR:	0.758790737564
+threshold: 1
+05-12 19:56:28	[Notice]	Now Saving parameters.
+05-12 19:56:28	[Notice]	Parameters Saved.
+05-12 19:56:28	[Notice]	Now batches at 8-th epoch.
+05-12 20:18:35	[Notice]	Current validate Model[8]
+ROC: 0.877120259196
+TPR:	0.960691823899
+FPR:	0.515151515152
+AR:	0.722770154374
+threshold: 1
+05-12 20:18:35	[Notice]	Now Saving parameters.
+05-12 20:18:35	[Notice]	Parameters Saved.
+05-12 20:18:35	[Notice]	End Training Data[h007]
+05-12 20:18:35	[Notice]	Now Starts Training with data/cdr/train/text_sh008 and data/cdr/train/label_sh008
+05-12 20:18:36	[Notice]	Start Loading Data[h008]
+05-12 20:18:36	[Notice]	6338 Labels Loaded 
+05-12 20:18:41	[Notice]	6338 Documents Loaded 
+05-12 20:18:46	[Notice]	getCorpus at getDataMatrix()
+05-12 20:18:51	[Notice]	Data has been loaded already
+05-12 20:19:35	[Notice]	Valid current model:	Cost/0.212324810769	Error/0.0627802690583
+ROC: 0.877120259196
+TPR:	0.960691823899
+FPR:	0.515151515152
+AR:	0.722770154374
+threshold: 1
+05-12 20:19:35	[Notice]	Start Loading Training Data
+05-12 20:19:35	[Notice]	7362 Labels Loaded 
+05-12 20:19:47	[Notice]	7362 Documents Loaded 
+05-12 20:23:08	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1771685
+# Valid set size     : 185225
+# training batches   : 661
+05-12 20:24:00	[Notice]	Compiling computing graph.
+05-12 20:25:30	[Notice]	Computing Graph Compiled
+05-12 20:25:30	[Notice]	Start Training
+05-12 20:25:30	[Notice]	Now batches at 1-th epoch.
+05-12 20:48:25	[Notice]	Current validate Model[1]
+ROC: 0.901753382885
+TPR:	0.998427672956
+FPR:	0.757575757576
+AR:	0.62042595769
+threshold: 1
+05-12 20:48:25	[Notice]	Now Saving parameters.
+05-12 20:48:25	[Notice]	Parameters Saved.
+05-12 20:48:25	[Notice]	Now batches at 2-th epoch.
+05-12 21:11:18	[Notice]	Current validate Model[2]
+ROC: 0.896464646465
+TPR:	0.988993710692
+FPR:	0.757575757576
+AR:	0.615708976558
+threshold: 1
+05-12 21:11:18	[Notice]	Now Saving parameters.
+05-12 21:11:18	[Notice]	Parameters Saved.
+05-12 21:11:18	[Notice]	Now batches at 3-th epoch.
+05-12 21:33:55	[Notice]	Current validate Model[3]
+ROC: 0.902611015819
+TPR:	0.98427672956
+FPR:	0.69696969697
+AR:	0.643653516295
+threshold: 1
+05-12 21:33:55	[Notice]	Now Saving parameters.
+05-12 21:33:55	[Notice]	Parameters Saved.
+05-12 21:33:55	[Notice]	Now batches at 4-th epoch.
+05-12 21:56:34	[Notice]	Current validate Model[4]
+ROC: 0.903278063655
+TPR:	0.988993710692
+FPR:	0.69696969697
+AR:	0.646012006861
+threshold: 1
+05-12 21:56:34	[Notice]	Now Saving parameters.
+05-12 21:56:34	[Notice]	Parameters Saved.
+05-12 21:56:34	[Notice]	Now batches at 5-th epoch.
+05-12 22:19:20	[Notice]	Current validate Model[5]
+ROC: 0.907709167143
+TPR:	0.987421383648
+FPR:	0.69696969697
+AR:	0.645225843339
+threshold: 1
+05-12 22:19:20	[Notice]	Now Saving parameters.
+05-12 22:19:20	[Notice]	Parameters Saved.
+05-12 22:19:20	[Notice]	Now batches at 6-th epoch.
+05-12 22:42:01	[Notice]	Current validate Model[6]
+ROC: 0.908566800076
+TPR:	0.982704402516
+FPR:	0.69696969697
+AR:	0.642867352773
+threshold: 1
+05-12 22:42:01	[Notice]	Now Saving parameters.
+05-12 22:42:01	[Notice]	Parameters Saved.
+05-12 22:42:01	[Notice]	Now batches at 7-th epoch.
+05-12 23:03:10	[Notice]	Current validate Model[7]
+ROC: 0.913617305127
+TPR:	0.985849056604
+FPR:	0.666666666667
+AR:	0.659591194969
+threshold: 1
+05-12 23:03:10	[Notice]	Now Saving parameters.
+05-12 23:03:10	[Notice]	Parameters Saved.
+05-12 23:03:10	[Notice]	Now batches at 8-th epoch.
+05-12 23:26:39	[Notice]	Current validate Model[8]
+ROC: 0.909757956928
+TPR:	0.97641509434
+FPR:	0.636363636364
+AR:	0.670025728988
+threshold: 1
+05-12 23:26:39	[Notice]	Now Saving parameters.
+05-12 23:26:39	[Notice]	Parameters Saved.
+05-12 23:26:39	[Notice]	End Training Data[h008]
+05-12 23:26:39	[Notice]	Now Starts Training with data/cdr/train/text_sh009 and data/cdr/train/label_sh009
+05-12 23:26:40	[Notice]	Start Loading Data[h009]
+05-12 23:26:40	[Notice]	6338 Labels Loaded 
+05-12 23:26:47	[Notice]	6338 Documents Loaded 
+05-12 23:26:54	[Notice]	getCorpus at getDataMatrix()
+05-12 23:27:00	[Notice]	Data has been loaded already
+05-12 23:27:53	[Notice]	Valid current model:	Cost/0.161509216322	Error/0.0538116591928
+ROC: 0.909757956928
+TPR:	0.97641509434
+FPR:	0.636363636364
+AR:	0.670025728988
+threshold: 1
+05-12 23:27:53	[Notice]	Start Loading Training Data
+05-12 23:27:53	[Notice]	7340 Labels Loaded 
+05-12 23:28:07	[Notice]	7340 Documents Loaded 
+05-12 23:32:33	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1752630
+# Valid set size     : 185225
+# training batches   : 659
+05-12 23:33:41	[Notice]	Compiling computing graph.
+05-12 23:35:33	[Notice]	Computing Graph Compiled
+05-12 23:35:33	[Notice]	Start Training
+05-12 23:35:33	[Notice]	Now batches at 1-th epoch.
+05-12 23:58:35	[Notice]	Current validate Model[1]
+ROC: 0.925195349724
+TPR:	0.998427672956
+FPR:	0.666666666667
+AR:	0.665880503145
+threshold: 1
+05-12 23:58:35	[Notice]	Now Saving parameters.
+05-12 23:58:35	[Notice]	Parameters Saved.
+05-12 23:58:35	[Notice]	Now batches at 2-th epoch.
+05-13 00:20:19	[Notice]	Current validate Model[2]
+ROC: 0.904326281685
+TPR:	0.995283018868
+FPR:	0.636363636364
+AR:	0.679459691252
+threshold: 1
+05-13 00:20:19	[Notice]	Now Saving parameters.
+05-13 00:20:19	[Notice]	Parameters Saved.
+05-13 00:20:19	[Notice]	Now batches at 3-th epoch.
+05-13 00:43:19	[Notice]	Current validate Model[3]
+ROC: 0.888507718696
+TPR:	0.987421383648
+FPR:	0.575757575758
+AR:	0.705831903945
+threshold: 1
+05-13 00:43:19	[Notice]	Now Saving parameters.
+05-13 00:43:19	[Notice]	Parameters Saved.
+05-13 00:43:19	[Notice]	Now batches at 4-th epoch.
+05-13 01:06:24	[Notice]	Current validate Model[4]
+ROC: 0.892510005718
+TPR:	0.979559748428
+FPR:	0.606060606061
+AR:	0.686749571184
+threshold: 1
+05-13 01:06:24	[Notice]	Now Saving parameters.
+05-13 01:06:24	[Notice]	Parameters Saved.
+05-13 01:06:24	[Notice]	Now batches at 5-th epoch.
+05-13 01:29:26	[Notice]	Current validate Model[5]
+ROC: 0.890937678674
+TPR:	0.970125786164
+FPR:	0.515151515152
+AR:	0.727487135506
+threshold: 1
+05-13 01:29:26	[Notice]	Now Saving parameters.
+05-13 01:29:26	[Notice]	Parameters Saved.
+05-13 01:29:26	[Notice]	Now batches at 6-th epoch.
+05-13 01:52:32	[Notice]	Current validate Model[6]
+ROC: 0.900419287212
+TPR:	0.977987421384
+FPR:	0.484848484848
+AR:	0.746569468268
+threshold: 1
+05-13 01:52:32	[Notice]	Now Saving parameters.
+05-13 01:52:32	[Notice]	Parameters Saved.
+05-13 01:52:32	[Notice]	Now batches at 7-th epoch.
+05-13 02:15:17	[Notice]	Current validate Model[7]
+ROC: 0.895464074709
+TPR:	0.971698113208
+FPR:	0.515151515152
+AR:	0.728273299028
+threshold: 1
+05-13 02:15:17	[Notice]	Now Saving parameters.
+05-13 02:15:17	[Notice]	Parameters Saved.
+05-13 02:15:17	[Notice]	Now batches at 8-th epoch.
+05-13 02:38:28	[Notice]	Current validate Model[8]
+ROC: 0.89441585668
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-13 02:38:28	[Notice]	Now Saving parameters.
+05-13 02:38:28	[Notice]	Parameters Saved.
+05-13 02:38:28	[Notice]	End Training Data[h009]
+05-13 02:38:28	[Notice]	Now Starts Training with data/cdr/train/text_sh010 and data/cdr/train/label_sh010
+05-13 02:38:29	[Notice]	Start Loading Data[h010]
+05-13 02:38:29	[Notice]	6338 Labels Loaded 
+05-13 02:38:34	[Notice]	6338 Documents Loaded 
+05-13 02:38:38	[Notice]	getCorpus at getDataMatrix()
+05-13 02:38:44	[Notice]	Data has been loaded already
+05-13 02:39:23	[Notice]	Valid current model:	Cost/0.157432622617	Error/0.0478325859492
+ROC: 0.89441585668
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-13 02:39:23	[Notice]	Start Loading Training Data
+05-13 02:39:23	[Notice]	7396 Labels Loaded 
+05-13 02:39:29	[Notice]	7396 Documents Loaded 
+05-13 02:44:11	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1780060
+# Valid set size     : 185225
+# training batches   : 667
+05-13 02:45:23	[Notice]	Compiling computing graph.
+05-13 02:47:23	[Notice]	Computing Graph Compiled
+05-13 02:47:23	[Notice]	Start Training
+05-13 02:47:23	[Notice]	Now batches at 1-th epoch.
+05-13 03:10:55	[Notice]	Current validate Model[1]
+ROC: 0.924385363065
+TPR:	0.995283018868
+FPR:	0.757575757576
+AR:	0.618853630646
+threshold: 1
+05-13 03:10:56	[Notice]	Now Saving parameters.
+05-13 03:10:56	[Notice]	Parameters Saved.
+05-13 03:10:56	[Notice]	Now batches at 2-th epoch.
+05-13 03:34:30	[Notice]	Current validate Model[2]
+ROC: 0.922622450924
+TPR:	0.988993710692
+FPR:	0.757575757576
+AR:	0.615708976558
+threshold: 1
+05-13 03:34:30	[Notice]	Now Saving parameters.
+05-13 03:34:30	[Notice]	Parameters Saved.
+05-13 03:34:30	[Notice]	Now batches at 3-th epoch.
+05-13 03:58:14	[Notice]	Current validate Model[3]
+ROC: 0.917143129407
+TPR:	0.993710691824
+FPR:	0.69696969697
+AR:	0.648370497427
+threshold: 1
+05-13 03:58:14	[Notice]	Now Saving parameters.
+05-13 03:58:14	[Notice]	Parameters Saved.
+05-13 03:58:14	[Notice]	Now batches at 4-th epoch.
+05-13 04:21:55	[Notice]	Current validate Model[4]
+ROC: 0.912473794549
+TPR:	0.990566037736
+FPR:	0.727272727273
+AR:	0.631646655232
+threshold: 1
+05-13 04:21:55	[Notice]	Now Saving parameters.
+05-13 04:21:55	[Notice]	Parameters Saved.
+05-13 04:21:55	[Notice]	Now batches at 5-th epoch.
+05-13 04:45:38	[Notice]	Current validate Model[5]
+ROC: 0.905612731084
+TPR:	0.979559748428
+FPR:	0.666666666667
+AR:	0.656446540881
+threshold: 1
+05-13 04:45:38	[Notice]	Now Saving parameters.
+05-13 04:45:38	[Notice]	Parameters Saved.
+05-13 04:45:38	[Notice]	Now batches at 6-th epoch.
+05-13 05:08:44	[Notice]	Current validate Model[6]
+ROC: 0.905660377358
+TPR:	0.981132075472
+FPR:	0.69696969697
+AR:	0.642081189251
+threshold: 1
+05-13 05:08:44	[Notice]	Now Saving parameters.
+05-13 05:08:44	[Notice]	Parameters Saved.
+05-13 05:08:44	[Notice]	Now batches at 7-th epoch.
+05-13 05:32:27	[Notice]	Current validate Model[7]
+ROC: 0.909948542024
+TPR:	0.973270440252
+FPR:	0.636363636364
+AR:	0.668453401944
+threshold: 1
+05-13 05:32:27	[Notice]	Now Saving parameters.
+05-13 05:32:27	[Notice]	Parameters Saved.
+05-13 05:32:27	[Notice]	Now batches at 8-th epoch.
+05-13 05:56:04	[Notice]	Current validate Model[8]
+ROC: 0.906803887936
+TPR:	0.974842767296
+FPR:	0.606060606061
+AR:	0.684391080617
+threshold: 1
+05-13 05:56:04	[Notice]	Now Saving parameters.
+05-13 05:56:04	[Notice]	Parameters Saved.
+05-13 05:56:04	[Notice]	End Training Data[h010]
+05-13 05:56:04	[Notice]	Now Starts Training with data/cdr/train/text_sh011 and data/cdr/train/label_sh011
+05-13 05:56:05	[Notice]	Start Loading Data[h011]
+05-13 05:56:05	[Notice]	6338 Labels Loaded 
+05-13 05:56:13	[Notice]	6338 Documents Loaded 
+05-13 05:56:18	[Notice]	getCorpus at getDataMatrix()
+05-13 05:56:23	[Notice]	Data has been loaded already
+05-13 05:57:08	[Notice]	Valid current model:	Cost/0.14959713729	Error/0.0538116591928
+ROC: 0.906803887936
+TPR:	0.974842767296
+FPR:	0.606060606061
+AR:	0.684391080617
+threshold: 1
+05-13 05:57:08	[Notice]	Start Loading Training Data
+05-13 05:57:08	[Notice]	7317 Labels Loaded 
+05-13 05:57:15	[Notice]	7317 Documents Loaded 
+05-13 06:01:45	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1746218
+# Valid set size     : 185225
+# training batches   : 658
+05-13 06:02:50	[Notice]	Compiling computing graph.
+05-13 06:04:55	[Notice]	Computing Graph Compiled
+05-13 06:04:55	[Notice]	Start Training
+05-13 06:04:55	[Notice]	Now batches at 1-th epoch.
+05-13 06:28:13	[Notice]	Current validate Model[1]
+ROC: 0.911854392986
+TPR:	0.996855345912
+FPR:	0.757575757576
+AR:	0.619639794168
+threshold: 1
+05-13 06:28:13	[Notice]	Now Saving parameters.
+05-13 06:28:13	[Notice]	Parameters Saved.
+05-13 06:28:13	[Notice]	Now batches at 2-th epoch.
+05-13 06:51:13	[Notice]	Current validate Model[2]
+ROC: 0.914189060415
+TPR:	0.990566037736
+FPR:	0.727272727273
+AR:	0.631646655232
+threshold: 1
+05-13 06:51:13	[Notice]	Now Saving parameters.
+05-13 06:51:13	[Notice]	Parameters Saved.
+05-13 06:51:13	[Notice]	Now batches at 3-th epoch.
+05-13 07:14:16	[Notice]	Current validate Model[3]
+ROC: 0.911473222794
+TPR:	0.990566037736
+FPR:	0.727272727273
+AR:	0.631646655232
+threshold: 1
+05-13 07:14:16	[Notice]	Now Saving parameters.
+05-13 07:14:16	[Notice]	Parameters Saved.
+05-13 07:14:16	[Notice]	Now batches at 4-th epoch.
+05-13 07:37:37	[Notice]	Current validate Model[4]
+ROC: 0.916333142748
+TPR:	0.990566037736
+FPR:	0.69696969697
+AR:	0.646798170383
+threshold: 1
+05-13 07:37:37	[Notice]	Now Saving parameters.
+05-13 07:37:37	[Notice]	Parameters Saved.
+05-13 07:37:37	[Notice]	Now batches at 5-th epoch.
+05-13 08:00:33	[Notice]	Current validate Model[5]
+ROC: 0.910949113779
+TPR:	0.987421383648
+FPR:	0.575757575758
+AR:	0.705831903945
+threshold: 1
+05-13 08:00:33	[Notice]	Now Saving parameters.
+05-13 08:00:33	[Notice]	Parameters Saved.
+05-13 08:00:33	[Notice]	Now batches at 6-th epoch.
+05-13 08:23:36	[Notice]	Current validate Model[6]
+ROC: 0.910949113779
+TPR:	0.979559748428
+FPR:	0.575757575758
+AR:	0.701901086335
+threshold: 1
+05-13 08:23:36	[Notice]	Now Saving parameters.
+05-13 08:23:36	[Notice]	Parameters Saved.
+05-13 08:23:36	[Notice]	Now batches at 7-th epoch.
+05-13 08:46:31	[Notice]	Current validate Model[7]
+ROC: 0.903278063655
+TPR:	0.982704402516
+FPR:	0.515151515152
+AR:	0.733776443682
+threshold: 1
+05-13 08:46:31	[Notice]	Now Saving parameters.
+05-13 08:46:31	[Notice]	Parameters Saved.
+05-13 08:46:31	[Notice]	Now batches at 8-th epoch.
+05-13 09:09:33	[Notice]	Current validate Model[8]
+ROC: 0.901276920145
+TPR:	0.981132075472
+FPR:	0.545454545455
+AR:	0.717838765009
+threshold: 1
+05-13 09:09:33	[Notice]	Now Saving parameters.
+05-13 09:09:33	[Notice]	Parameters Saved.
+05-13 09:09:33	[Notice]	End Training Data[h011]
+05-13 09:09:33	[Notice]	Now Starts Training with data/cdr/train/text_sh012 and data/cdr/train/label_sh012
+05-13 09:09:34	[Notice]	Start Loading Data[h012]
+05-13 09:09:34	[Notice]	6338 Labels Loaded 
+05-13 09:09:40	[Notice]	6338 Documents Loaded 
+05-13 09:09:45	[Notice]	getCorpus at getDataMatrix()
+05-13 09:09:51	[Notice]	Data has been loaded already
+05-13 09:10:30	[Notice]	Valid current model:	Cost/0.171791573742	Error/0.0448430493274
+ROC: 0.901276920145
+TPR:	0.981132075472
+FPR:	0.545454545455
+AR:	0.717838765009
+threshold: 1
+05-13 09:10:30	[Notice]	Start Loading Training Data
+05-13 09:10:30	[Notice]	7297 Labels Loaded 
+05-13 09:10:36	[Notice]	7297 Documents Loaded 
+05-13 09:15:03	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1743139
+# Valid set size     : 185225
+# training batches   : 656
+05-13 09:16:03	[Notice]	Compiling computing graph.
+05-13 09:18:02	[Notice]	Computing Graph Compiled
+05-13 09:18:02	[Notice]	Start Training
+05-13 09:18:02	[Notice]	Now batches at 1-th epoch.
+05-13 09:40:56	[Notice]	Current validate Model[1]
+ROC: 0.93324757004
+TPR:	0.990566037736
+FPR:	0.606060606061
+AR:	0.692252715838
+threshold: 1
+05-13 09:40:56	[Notice]	Now Saving parameters.
+05-13 09:40:56	[Notice]	Parameters Saved.
+05-13 09:40:56	[Notice]	Now batches at 2-th epoch.
+05-13 10:03:16	[Notice]	Current validate Model[2]
+ROC: 0.928530588908
+TPR:	0.996855345912
+FPR:	0.757575757576
+AR:	0.619639794168
+threshold: 1
+05-13 10:03:16	[Notice]	Now Saving parameters.
+05-13 10:03:16	[Notice]	Parameters Saved.
+05-13 10:03:16	[Notice]	Now batches at 3-th epoch.
+05-13 10:25:31	[Notice]	Current validate Model[3]
+ROC: 0.928387650086
+TPR:	0.993710691824
+FPR:	0.727272727273
+AR:	0.633218982276
+threshold: 1
+05-13 10:25:31	[Notice]	Now Saving parameters.
+05-13 10:25:31	[Notice]	Parameters Saved.
+05-13 10:25:31	[Notice]	Now batches at 4-th epoch.
+05-13 10:47:57	[Notice]	Current validate Model[4]
+ROC: 0.913140842386
+TPR:	0.995283018868
+FPR:	0.69696969697
+AR:	0.649156660949
+threshold: 1
+05-13 10:47:57	[Notice]	Now Saving parameters.
+05-13 10:47:57	[Notice]	Parameters Saved.
+05-13 10:47:57	[Notice]	Now batches at 5-th epoch.
+05-13 11:06:02	[Notice]	Current validate Model[5]
+ROC: 0.907423289499
+TPR:	0.993710691824
+FPR:	0.757575757576
+AR:	0.618067467124
+threshold: 1
+05-13 11:06:02	[Notice]	Now Saving parameters.
+05-13 11:06:02	[Notice]	Parameters Saved.
+05-13 11:06:02	[Notice]	Now batches at 6-th epoch.
+05-13 11:25:40	[Notice]	Current validate Model[6]
+ROC: 0.908090337336
+TPR:	0.987421383648
+FPR:	0.575757575758
+AR:	0.705831903945
+threshold: 1
+05-13 11:25:41	[Notice]	Now Saving parameters.
+05-13 11:25:41	[Notice]	Parameters Saved.
+05-13 11:25:41	[Notice]	Now batches at 7-th epoch.
+05-13 11:48:34	[Notice]	Current validate Model[7]
+ROC: 0.917667238422
+TPR:	0.982704402516
+FPR:	0.484848484848
+AR:	0.748927958834
+threshold: 1
+05-13 11:48:34	[Notice]	Now Saving parameters.
+05-13 11:48:34	[Notice]	Parameters Saved.
+05-13 11:48:34	[Notice]	Now batches at 8-th epoch.
+05-13 12:12:07	[Notice]	Current validate Model[8]
+ROC: 0.918334286259
+TPR:	0.977987421384
+FPR:	0.575757575758
+AR:	0.701114922813
+threshold: 1
+05-13 12:12:07	[Notice]	Now Saving parameters.
+05-13 12:12:07	[Notice]	Parameters Saved.
+05-13 12:12:07	[Notice]	End Training Data[h012]
+05-13 12:12:07	[Notice]	Now Starts Training with data/cdr/train/text_sh013 and data/cdr/train/label_sh013
+05-13 12:12:08	[Notice]	Start Loading Data[h013]
+05-13 12:12:08	[Notice]	6338 Labels Loaded 
+05-13 12:12:15	[Notice]	6338 Documents Loaded 
+05-13 12:12:21	[Notice]	getCorpus at getDataMatrix()
+05-13 12:12:26	[Notice]	Data has been loaded already
+05-13 12:13:14	[Notice]	Valid current model:	Cost/0.147339796671	Error/0.0493273542601
+ROC: 0.918334286259
+TPR:	0.977987421384
+FPR:	0.575757575758
+AR:	0.701114922813
+threshold: 1
+05-13 12:13:15	[Notice]	Start Loading Training Data
+05-13 12:13:15	[Notice]	7327 Labels Loaded 
+05-13 12:13:30	[Notice]	7327 Documents Loaded 
+05-13 12:17:52	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1763326
+# Valid set size     : 185225
+# training batches   : 662
+05-13 12:18:36	[Notice]	Compiling computing graph.
+05-13 12:20:19	[Notice]	Computing Graph Compiled
+05-13 12:20:19	[Notice]	Start Training
+05-13 12:20:19	[Notice]	Now batches at 1-th epoch.
+05-13 12:43:29	[Notice]	Current validate Model[1]
+ROC: 0.928054126167
+TPR:	0.993710691824
+FPR:	0.727272727273
+AR:	0.633218982276
+threshold: 1
+05-13 12:43:30	[Notice]	Now Saving parameters.
+05-13 12:43:30	[Notice]	Parameters Saved.
+05-13 12:43:30	[Notice]	Now batches at 2-th epoch.
+05-13 13:06:59	[Notice]	Current validate Model[2]
+ROC: 0.921574232895
+TPR:	0.996855345912
+FPR:	0.727272727273
+AR:	0.63479130932
+threshold: 1
+05-13 13:06:59	[Notice]	Now Saving parameters.
+05-13 13:06:59	[Notice]	Parameters Saved.
+05-13 13:06:59	[Notice]	Now batches at 3-th epoch.
+05-13 13:30:07	[Notice]	Current validate Model[3]
+ROC: 0.898322851153
+TPR:	0.995283018868
+FPR:	0.727272727273
+AR:	0.634005145798
+threshold: 1
+05-13 13:30:07	[Notice]	Now Saving parameters.
+05-13 13:30:07	[Notice]	Parameters Saved.
+05-13 13:30:07	[Notice]	Now batches at 4-th epoch.
+05-13 13:53:32	[Notice]	Current validate Model[4]
+ROC: 0.903897465218
+TPR:	0.990566037736
+FPR:	0.666666666667
+AR:	0.661949685535
+threshold: 1
+05-13 13:53:32	[Notice]	Now Saving parameters.
+05-13 13:53:32	[Notice]	Parameters Saved.
+05-13 13:53:32	[Notice]	Now batches at 5-th epoch.
+05-13 14:17:07	[Notice]	Current validate Model[5]
+ROC: 0.904516866781
+TPR:	0.988993710692
+FPR:	0.636363636364
+AR:	0.676315037164
+threshold: 1
+05-13 14:17:07	[Notice]	Now Saving parameters.
+05-13 14:17:07	[Notice]	Parameters Saved.
+05-13 14:17:07	[Notice]	Now batches at 6-th epoch.
+05-13 14:40:29	[Notice]	Current validate Model[6]
+ROC: 0.90203926053
+TPR:	0.998427672956
+FPR:	0.787878787879
+AR:	0.605274442539
+threshold: 1
+05-13 14:40:29	[Notice]	Now Saving parameters.
+05-13 14:40:29	[Notice]	Parameters Saved.
+05-13 14:40:29	[Notice]	Now batches at 7-th epoch.
+05-13 15:04:00	[Notice]	Current validate Model[7]
+ROC: 0.910758528683
+TPR:	0.99213836478
+FPR:	0.636363636364
+AR:	0.677887364208
+threshold: 1
+05-13 15:04:00	[Notice]	Now Saving parameters.
+05-13 15:04:00	[Notice]	Parameters Saved.
+05-13 15:04:00	[Notice]	Now batches at 8-th epoch.
+05-13 15:27:37	[Notice]	Current validate Model[8]
+ROC: 0.907899752239
+TPR:	0.995283018868
+FPR:	0.727272727273
+AR:	0.634005145798
+threshold: 1
+05-13 15:27:37	[Notice]	Now Saving parameters.
+05-13 15:27:37	[Notice]	Parameters Saved.
+05-13 15:27:37	[Notice]	End Training Data[h013]
+05-13 15:27:37	[Notice]	Now Starts Training with data/cdr/train/text_sh014 and data/cdr/train/label_sh014
+05-13 15:27:38	[Notice]	Start Loading Data[h014]
+05-13 15:27:38	[Notice]	6338 Labels Loaded 
+05-13 15:27:44	[Notice]	6338 Documents Loaded 
+05-13 15:27:48	[Notice]	getCorpus at getDataMatrix()
+05-13 15:27:53	[Notice]	Data has been loaded already
+05-13 15:28:36	[Notice]	Valid current model:	Cost/0.183120119398	Error/0.0403587443946
+ROC: 0.907899752239
+TPR:	0.995283018868
+FPR:	0.727272727273
+AR:	0.634005145798
+threshold: 1
+05-13 15:28:36	[Notice]	Start Loading Training Data
+05-13 15:28:36	[Notice]	7296 Labels Loaded 
+05-13 15:28:42	[Notice]	7296 Documents Loaded 
+05-13 15:32:45	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1752106
+# Valid set size     : 185225
+# training batches   : 655
+05-13 15:33:36	[Notice]	Compiling computing graph.
+05-13 15:35:33	[Notice]	Computing Graph Compiled
+05-13 15:35:33	[Notice]	Start Training
+05-13 15:35:33	[Notice]	Now batches at 1-th epoch.
+05-13 15:57:36	[Notice]	Current validate Model[1]
+ROC: 0.943967981704
+TPR:	0.99213836478
+FPR:	0.484848484848
+AR:	0.753644939966
+threshold: 1
+05-13 15:57:37	[Notice]	Now Saving parameters.
+05-13 15:57:37	[Notice]	Parameters Saved.
+05-13 15:57:37	[Notice]	Now batches at 2-th epoch.
+05-13 16:20:50	[Notice]	Current validate Model[2]
+ROC: 0.938155136268
+TPR:	0.995283018868
+FPR:	0.515151515152
+AR:	0.740065751858
+threshold: 1
+05-13 16:20:50	[Notice]	Now Saving parameters.
+05-13 16:20:50	[Notice]	Parameters Saved.
+05-13 16:20:50	[Notice]	Now batches at 3-th epoch.
+05-13 16:44:22	[Notice]	Current validate Model[3]
+ROC: 0.94063274252
+TPR:	0.988993710692
+FPR:	0.393939393939
+AR:	0.797527158376
+threshold: 1
+05-13 16:44:22	[Notice]	Now Saving parameters.
+05-13 16:44:22	[Notice]	Parameters Saved.
+05-13 16:44:22	[Notice]	Now batches at 4-th epoch.
+05-13 17:07:07	[Notice]	Current validate Model[4]
+ROC: 0.939632170764
+TPR:	0.985849056604
+FPR:	0.363636363636
+AR:	0.811106346484
+threshold: 1
+05-13 17:07:07	[Notice]	Now Saving parameters.
+05-13 17:07:07	[Notice]	Parameters Saved.
+05-13 17:07:07	[Notice]	Now batches at 5-th epoch.
+05-13 17:29:52	[Notice]	Current validate Model[5]
+ROC: 0.95506956356
+TPR:	0.988993710692
+FPR:	0.393939393939
+AR:	0.797527158376
+threshold: 1
+05-13 17:29:52	[Notice]	Now Saving parameters.
+05-13 17:29:52	[Notice]	Parameters Saved.
+05-13 17:29:52	[Notice]	Now batches at 6-th epoch.
+05-13 17:51:54	[Notice]	Current validate Model[6]
+ROC: 0.935677530017
+TPR:	0.988993710692
+FPR:	0.575757575758
+AR:	0.706618067467
+threshold: 1
+05-13 17:51:54	[Notice]	Now Saving parameters.
+05-13 17:51:54	[Notice]	Parameters Saved.
+05-13 17:51:54	[Notice]	Now batches at 7-th epoch.
+05-13 18:14:19	[Notice]	Current validate Model[7]
+ROC: 0.953926052983
+TPR:	0.982704402516
+FPR:	0.333333333333
+AR:	0.824685534591
+threshold: 1
+05-13 18:14:19	[Notice]	Now Saving parameters.
+05-13 18:14:19	[Notice]	Parameters Saved.
+05-13 18:14:19	[Notice]	Now batches at 8-th epoch.
+05-13 18:37:27	[Notice]	Current validate Model[8]
+ROC: 0.945873832666
+TPR:	0.985849056604
+FPR:	0.454545454545
+AR:	0.765651801029
+threshold: 1
+05-13 18:37:27	[Notice]	Now Saving parameters.
+05-13 18:37:27	[Notice]	Parameters Saved.
+05-13 18:37:27	[Notice]	End Training Data[h014]
+05-13 18:37:27	[Notice]	Now Starts Training with data/cdr/train/text_sh015 and data/cdr/train/label_sh015
+05-13 18:37:28	[Notice]	Start Loading Data[h015]
+05-13 18:37:28	[Notice]	6338 Labels Loaded 
+05-13 18:37:38	[Notice]	6338 Documents Loaded 
+05-13 18:37:42	[Notice]	getCorpus at getDataMatrix()
+05-13 18:37:46	[Notice]	Data has been loaded already
+05-13 18:38:26	[Notice]	Valid current model:	Cost/0.11102655532	Error/0.0358744394619
+ROC: 0.945873832666
+TPR:	0.985849056604
+FPR:	0.454545454545
+AR:	0.765651801029
+threshold: 1
+05-13 18:38:26	[Notice]	Start Loading Training Data
+05-13 18:38:26	[Notice]	7394 Labels Loaded 
+05-13 18:38:32	[Notice]	7394 Documents Loaded 
+05-13 18:42:09	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1761922
+# Valid set size     : 185225
+# training batches   : 661
+05-13 18:43:00	[Notice]	Compiling computing graph.
+05-13 18:44:42	[Notice]	Computing Graph Compiled
+05-13 18:44:42	[Notice]	Start Training
+05-13 18:44:42	[Notice]	Now batches at 1-th epoch.
+05-13 19:06:55	[Notice]	Current validate Model[1]
+ROC: 0.95049552125
+TPR:	0.966981132075
+FPR:	0.30303030303
+AR:	0.831975414523
+threshold: 1
+05-13 19:06:55	[Notice]	Now Saving parameters.
+05-13 19:06:55	[Notice]	Parameters Saved.
+05-13 19:06:55	[Notice]	Now batches at 2-th epoch.
+05-13 19:29:52	[Notice]	Current validate Model[2]
+ROC: 0.960072422337
+TPR:	0.977987421384
+FPR:	0.30303030303
+AR:	0.837478559177
+threshold: 1
+05-13 19:29:52	[Notice]	Now Saving parameters.
+05-13 19:29:52	[Notice]	Parameters Saved.
+05-13 19:29:52	[Notice]	Now batches at 3-th epoch.
+05-13 19:52:48	[Notice]	Current validate Model[3]
+ROC: 0.945111492281
+TPR:	0.971698113208
+FPR:	0.393939393939
+AR:	0.788879359634
+threshold: 1
+05-13 19:52:48	[Notice]	Now Saving parameters.
+05-13 19:52:48	[Notice]	Parameters Saved.
+05-13 19:52:48	[Notice]	Now batches at 4-th epoch.
+05-13 20:15:36	[Notice]	Current validate Model[4]
+ROC: 0.951448446731
+TPR:	0.979559748428
+FPR:	0.424242424242
+AR:	0.777658662093
+threshold: 1
+05-13 20:15:36	[Notice]	Now Saving parameters.
+05-13 20:15:36	[Notice]	Parameters Saved.
+05-13 20:15:36	[Notice]	Now batches at 5-th epoch.
+05-13 20:38:34	[Notice]	Current validate Model[5]
+ROC: 0.944349151896
+TPR:	0.98427672956
+FPR:	0.424242424242
+AR:	0.780017152659
+threshold: 1
+05-13 20:38:34	[Notice]	Now Saving parameters.
+05-13 20:38:34	[Notice]	Parameters Saved.
+05-13 20:38:34	[Notice]	Now batches at 6-th epoch.
+05-13 21:01:15	[Notice]	Current validate Model[6]
+ROC: 0.935629883743
+TPR:	0.988993710692
+FPR:	0.484848484848
+AR:	0.752072612922
+threshold: 1
+05-13 21:01:15	[Notice]	Now Saving parameters.
+05-13 21:01:15	[Notice]	Parameters Saved.
+05-13 21:01:15	[Notice]	Now batches at 7-th epoch.
+05-13 21:24:06	[Notice]	Current validate Model[7]
+ROC: 0.933152277492
+TPR:	0.990566037736
+FPR:	0.484848484848
+AR:	0.752858776444
+threshold: 1
+05-13 21:24:06	[Notice]	Now Saving parameters.
+05-13 21:24:06	[Notice]	Parameters Saved.
+05-13 21:24:06	[Notice]	Now batches at 8-th epoch.
+05-13 21:46:37	[Notice]	Current validate Model[8]
+ROC: 0.926720030494
+TPR:	0.99213836478
+FPR:	0.484848484848
+AR:	0.753644939966
+threshold: 1
+05-13 21:46:37	[Notice]	Now Saving parameters.
+05-13 21:46:37	[Notice]	Parameters Saved.
+05-13 21:46:37	[Notice]	End Training Data[h015]
+05-13 21:46:37	[Notice]	Now Starts Training with data/cdr/train/text_sh016 and data/cdr/train/label_sh016
+05-13 21:46:38	[Notice]	Start Loading Data[h016]
+05-13 21:46:38	[Notice]	6338 Labels Loaded 
+05-13 21:46:43	[Notice]	6338 Documents Loaded 
+05-13 21:46:47	[Notice]	getCorpus at getDataMatrix()
+05-13 21:46:52	[Notice]	Data has been loaded already
+05-13 21:47:36	[Notice]	Valid current model:	Cost/0.137040919385	Error/0.0313901345291
+ROC: 0.926720030494
+TPR:	0.99213836478
+FPR:	0.484848484848
+AR:	0.753644939966
+threshold: 1
+05-13 21:47:36	[Notice]	Start Loading Training Data
+05-13 21:47:36	[Notice]	7353 Labels Loaded 
+05-13 21:47:50	[Notice]	7353 Documents Loaded 
+05-13 21:51:17	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1750710
+# Valid set size     : 185225
+# training batches   : 659
+05-13 21:52:07	[Notice]	Compiling computing graph.
+05-13 21:53:47	[Notice]	Computing Graph Compiled
+05-13 21:53:47	[Notice]	Start Training
+05-13 21:53:47	[Notice]	Now batches at 1-th epoch.
+05-13 22:15:44	[Notice]	Current validate Model[1]
+ROC: 0.95459310082
+TPR:	0.998427672956
+FPR:	0.69696969697
+AR:	0.650728987993
+threshold: 1
+05-13 22:15:44	[Notice]	Now Saving parameters.
+05-13 22:15:44	[Notice]	Parameters Saved.
+05-13 22:15:44	[Notice]	Now batches at 2-th epoch.
+05-13 22:38:24	[Notice]	Current validate Model[2]
+ROC: 0.954497808271
+TPR:	0.998427672956
+FPR:	0.606060606061
+AR:	0.696183533448
+threshold: 1
+05-13 22:38:24	[Notice]	Now Saving parameters.
+05-13 22:38:24	[Notice]	Parameters Saved.
+05-13 22:38:24	[Notice]	Now batches at 3-th epoch.
+05-13 23:00:58	[Notice]	Current validate Model[3]
+ROC: 0.95202020202
+TPR:	1.0
+FPR:	0.606060606061
+AR:	0.69696969697
+threshold: 1
+05-13 23:00:58	[Notice]	Now Saving parameters.
+05-13 23:00:58	[Notice]	Parameters Saved.
+05-13 23:00:58	[Notice]	Now batches at 4-th epoch.
+05-13 23:23:55	[Notice]	Current validate Model[4]
+ROC: 0.948065561273
+TPR:	0.99213836478
+FPR:	0.575757575758
+AR:	0.708190394511
+threshold: 1
+05-13 23:23:55	[Notice]	Now Saving parameters.
+05-13 23:23:55	[Notice]	Parameters Saved.
+05-13 23:23:55	[Notice]	Now batches at 5-th epoch.
+05-13 23:47:14	[Notice]	Current validate Model[5]
+ROC: 0.939203354298
+TPR:	0.995283018868
+FPR:	0.636363636364
+AR:	0.679459691252
+threshold: 1
+05-13 23:47:14	[Notice]	Now Saving parameters.
+05-13 23:47:14	[Notice]	Parameters Saved.
+05-13 23:47:14	[Notice]	Now batches at 6-th epoch.
+05-14 00:09:40	[Notice]	Current validate Model[6]
+ROC: 0.914522584334
+TPR:	0.993710691824
+FPR:	0.606060606061
+AR:	0.693825042882
+threshold: 1
+05-14 00:09:40	[Notice]	Now Saving parameters.
+05-14 00:09:40	[Notice]	Parameters Saved.
+05-14 00:09:40	[Notice]	Now batches at 7-th epoch.
+05-14 00:33:00	[Notice]	Current validate Model[7]
+ROC: 0.862492853059
+TPR:	0.998427672956
+FPR:	0.909090909091
+AR:	0.544668381933
+threshold: 1
+05-14 00:33:00	[Notice]	Now Saving parameters.
+05-14 00:33:00	[Notice]	Parameters Saved.
+05-14 00:33:00	[Notice]	Now batches at 8-th epoch.
+05-14 00:56:03	[Notice]	Current validate Model[8]
+ROC: 0.933724032781
+TPR:	0.987421383648
+FPR:	0.515151515152
+AR:	0.736134934248
+threshold: 1
+05-14 00:56:03	[Notice]	Now Saving parameters.
+05-14 00:56:03	[Notice]	Parameters Saved.
+05-14 00:56:03	[Notice]	End Training Data[h016]
+05-14 00:56:03	[Notice]	Now Starts Training with data/cdr/train/text_sh017 and data/cdr/train/label_sh017
+05-14 00:56:09	[Notice]	Start Loading Data[h017]
+05-14 00:56:10	[Notice]	6338 Labels Loaded 
+05-14 00:56:30	[Notice]	6338 Documents Loaded 
+05-14 00:56:37	[Notice]	getCorpus at getDataMatrix()
+05-14 00:56:43	[Notice]	Data has been loaded already
+05-14 00:57:29	[Notice]	Valid current model:	Cost/0.134534015824	Error/0.0373692077728
+ROC: 0.933724032781
+TPR:	0.987421383648
+FPR:	0.515151515152
+AR:	0.736134934248
+threshold: 1
+05-14 00:57:29	[Notice]	Start Loading Training Data
+05-14 00:57:29	[Notice]	7351 Labels Loaded 
+05-14 00:57:37	[Notice]	7351 Documents Loaded 
+05-14 01:02:14	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1746129
+# Valid set size     : 185225
+# training batches   : 658
+05-14 01:03:22	[Notice]	Compiling computing graph.
+05-14 01:05:19	[Notice]	Computing Graph Compiled
+05-14 01:05:19	[Notice]	Start Training
+05-14 01:05:19	[Notice]	Now batches at 1-th epoch.
+05-14 01:28:13	[Notice]	Current validate Model[1]
+ROC: 0.917667238422
+TPR:	0.998427672956
+FPR:	0.666666666667
+AR:	0.665880503145
+threshold: 1
+05-14 01:28:13	[Notice]	Now Saving parameters.
+05-14 01:28:13	[Notice]	Parameters Saved.
+05-14 01:28:13	[Notice]	Now batches at 2-th epoch.
+05-14 01:51:27	[Notice]	Current validate Model[2]
+ROC: 0.913903182771
+TPR:	0.995283018868
+FPR:	0.484848484848
+AR:	0.75521726701
+threshold: 1
+05-14 01:51:27	[Notice]	Now Saving parameters.
+05-14 01:51:27	[Notice]	Parameters Saved.
+05-14 01:51:27	[Notice]	Now batches at 3-th epoch.
+05-14 02:14:06	[Notice]	Current validate Model[3]
+ROC: 0.912759672194
+TPR:	0.995283018868
+FPR:	0.424242424242
+AR:	0.785520297313
+threshold: 1
+05-14 02:14:06	[Notice]	Now Saving parameters.
+05-14 02:14:06	[Notice]	Parameters Saved.
+05-14 02:14:06	[Notice]	Now batches at 4-th epoch.
+05-14 02:37:15	[Notice]	Current validate Model[4]
+ROC: 0.908900323995
+TPR:	0.995283018868
+FPR:	0.454545454545
+AR:	0.770368782161
+threshold: 1
+05-14 02:37:15	[Notice]	Now Saving parameters.
+05-14 02:37:15	[Notice]	Parameters Saved.
+05-14 02:37:15	[Notice]	Now batches at 5-th epoch.
+05-14 03:00:38	[Notice]	Current validate Model[5]
+ROC: 0.901229273871
+TPR:	0.996855345912
+FPR:	0.424242424242
+AR:	0.786306460835
+threshold: 1
+05-14 03:00:38	[Notice]	Now Saving parameters.
+05-14 03:00:38	[Notice]	Parameters Saved.
+05-14 03:00:38	[Notice]	Now batches at 6-th epoch.
+05-14 03:23:43	[Notice]	Current validate Model[6]
+ROC: 0.913140842386
+TPR:	0.995283018868
+FPR:	0.333333333333
+AR:	0.830974842767
+threshold: 1
+05-14 03:23:43	[Notice]	Now Saving parameters.
+05-14 03:23:43	[Notice]	Parameters Saved.
+05-14 03:23:43	[Notice]	Now batches at 7-th epoch.
+05-14 03:46:35	[Notice]	Current validate Model[7]
+ROC: 0.891318848866
+TPR:	0.996855345912
+FPR:	0.545454545455
+AR:	0.725700400229
+threshold: 1
+05-14 03:46:35	[Notice]	Now Saving parameters.
+05-14 03:46:35	[Notice]	Parameters Saved.
+05-14 03:46:35	[Notice]	Now batches at 8-th epoch.
+05-14 04:07:25	[Notice]	Current validate Model[8]
+ROC: 0.89136649514
+TPR:	0.993710691824
+FPR:	0.545454545455
+AR:	0.724128073185
+threshold: 1
+05-14 04:07:25	[Notice]	Now Saving parameters.
+05-14 04:07:25	[Notice]	Parameters Saved.
+05-14 04:07:25	[Notice]	End Training Data[h017]
+05-14 04:07:25	[Notice]	Now Starts Training with data/cdr/train/text_sz000 and data/cdr/train/label_sz000
+05-14 04:07:26	[Notice]	Start Loading Data[z000]
+05-14 04:07:26	[Notice]	6338 Labels Loaded 
+05-14 04:07:31	[Notice]	6338 Documents Loaded 
+05-14 04:07:35	[Notice]	getCorpus at getDataMatrix()
+05-14 04:07:41	[Notice]	Data has been loaded already
+05-14 04:08:46	[Notice]	Valid current model:	Cost/0.12795139587	Error/0.0328849028401
+ROC: 0.89136649514
+TPR:	0.993710691824
+FPR:	0.545454545455
+AR:	0.724128073185
+threshold: 1
+05-14 04:08:46	[Notice]	Start Loading Training Data
+05-14 04:08:46	[Notice]	7553 Labels Loaded 
+05-14 04:09:02	[Notice]	7553 Documents Loaded 
+05-14 04:14:07	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1806839
+# Valid set size     : 185225
+# training batches   : 666
+05-14 04:15:15	[Notice]	Compiling computing graph.
+05-14 04:17:19	[Notice]	Computing Graph Compiled
+05-14 04:17:19	[Notice]	Start Training
+05-14 04:17:19	[Notice]	Now batches at 1-th epoch.
+05-14 04:41:22	[Notice]	Current validate Model[1]
+ROC: 0.918286639985
+TPR:	1.0
+FPR:	0.878787878788
+AR:	0.560606060606
+threshold: 1
+05-14 04:41:22	[Notice]	Now Saving parameters.
+05-14 04:41:22	[Notice]	Parameters Saved.
+05-14 04:41:22	[Notice]	Now batches at 2-th epoch.
+05-14 05:05:31	[Notice]	Current validate Model[2]
+ROC: 0.924861825805
+TPR:	1.0
+FPR:	0.909090909091
+AR:	0.545454545455
+threshold: 1
+05-14 05:05:31	[Notice]	Now Saving parameters.
+05-14 05:05:31	[Notice]	Parameters Saved.
+05-14 05:05:31	[Notice]	Now batches at 3-th epoch.
+05-14 05:29:38	[Notice]	Current validate Model[3]
+ROC: 0.932056413188
+TPR:	0.998427672956
+FPR:	0.878787878788
+AR:	0.559819897084
+threshold: 1
+05-14 05:29:38	[Notice]	Now Saving parameters.
+05-14 05:29:38	[Notice]	Parameters Saved.
+05-14 05:29:38	[Notice]	Now batches at 4-th epoch.
+05-14 05:53:43	[Notice]	Current validate Model[4]
+ROC: 0.934724604536
+TPR:	0.998427672956
+FPR:	0.878787878788
+AR:	0.559819897084
+threshold: 1
+05-14 05:53:43	[Notice]	Now Saving parameters.
+05-14 05:53:43	[Notice]	Parameters Saved.
+05-14 05:53:43	[Notice]	Now batches at 5-th epoch.
+05-14 06:17:37	[Notice]	Current validate Model[5]
+ROC: 0.937249857061
+TPR:	0.998427672956
+FPR:	0.787878787879
+AR:	0.605274442539
+threshold: 1
+05-14 06:17:37	[Notice]	Now Saving parameters.
+05-14 06:17:37	[Notice]	Parameters Saved.
+05-14 06:17:37	[Notice]	Now batches at 6-th epoch.
+05-14 06:41:31	[Notice]	Current validate Model[6]
+ROC: 0.938107489994
+TPR:	0.995283018868
+FPR:	0.757575757576
+AR:	0.618853630646
+threshold: 1
+05-14 06:41:31	[Notice]	Now Saving parameters.
+05-14 06:41:31	[Notice]	Parameters Saved.
+05-14 06:41:31	[Notice]	Now batches at 7-th epoch.
+05-14 07:05:45	[Notice]	Current validate Model[7]
+ROC: 0.93629693158
+TPR:	0.993710691824
+FPR:	0.727272727273
+AR:	0.633218982276
+threshold: 1
+05-14 07:05:45	[Notice]	Now Saving parameters.
+05-14 07:05:45	[Notice]	Parameters Saved.
+05-14 07:05:45	[Notice]	Now batches at 8-th epoch.
+05-14 07:29:45	[Notice]	Current validate Model[8]
+ROC: 0.931865828092
+TPR:	0.990566037736
+FPR:	0.757575757576
+AR:	0.61649514008
+threshold: 1
+05-14 07:29:45	[Notice]	Now Saving parameters.
+05-14 07:29:45	[Notice]	Parameters Saved.
+05-14 07:29:45	[Notice]	End Training Data[z000]
+05-14 07:29:45	[Notice]	Now Starts Training with data/cdr/train/text_sz001 and data/cdr/train/label_sz001
+05-14 07:29:46	[Notice]	Start Loading Data[z001]
+05-14 07:29:46	[Notice]	6338 Labels Loaded 
+05-14 07:29:54	[Notice]	6338 Documents Loaded 
+05-14 07:29:59	[Notice]	getCorpus at getDataMatrix()
+05-14 07:30:05	[Notice]	Data has been loaded already
+05-14 07:30:46	[Notice]	Valid current model:	Cost/0.126511637115	Error/0.0463378176383
+ROC: 0.931865828092
+TPR:	0.990566037736
+FPR:	0.757575757576
+AR:	0.61649514008
+threshold: 1
+05-14 07:30:46	[Notice]	Start Loading Training Data
+05-14 07:30:46	[Notice]	7583 Labels Loaded 
+05-14 07:30:51	[Notice]	7583 Documents Loaded 
+05-14 07:35:43	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1837432
+# Valid set size     : 185225
+# training batches   : 667
+05-14 07:36:49	[Notice]	Compiling computing graph.
+05-14 07:38:57	[Notice]	Computing Graph Compiled
+05-14 07:38:57	[Notice]	Start Training
+05-14 07:38:57	[Notice]	Now batches at 1-th epoch.
+05-14 08:02:59	[Notice]	Current validate Model[1]
+ROC: 0.937011625691
+TPR:	0.977987421384
+FPR:	0.575757575758
+AR:	0.701114922813
+threshold: 1
+05-14 08:02:59	[Notice]	Now Saving parameters.
+05-14 08:02:59	[Notice]	Parameters Saved.
+05-14 08:02:59	[Notice]	Now batches at 2-th epoch.
+05-14 08:27:16	[Notice]	Current validate Model[2]
+ROC: 0.939965694683
+TPR:	0.974842767296
+FPR:	0.545454545455
+AR:	0.714694110921
+threshold: 1
+05-14 08:27:16	[Notice]	Now Saving parameters.
+05-14 08:27:16	[Notice]	Parameters Saved.
+05-14 08:27:16	[Notice]	Now batches at 3-th epoch.
+05-14 08:51:50	[Notice]	Current validate Model[3]
+ROC: 0.937488088431
+TPR:	0.965408805031
+FPR:	0.545454545455
+AR:	0.709977129788
+threshold: 1
+05-14 08:51:50	[Notice]	Now Saving parameters.
+05-14 08:51:50	[Notice]	Parameters Saved.
+05-14 08:51:50	[Notice]	Now batches at 4-th epoch.
+05-14 09:16:17	[Notice]	Current validate Model[4]
+ROC: 0.938965122927
+TPR:	0.959119496855
+FPR:	0.484848484848
+AR:	0.737135506003
+threshold: 1
+05-14 09:16:17	[Notice]	Now Saving parameters.
+05-14 09:16:17	[Notice]	Parameters Saved.
+05-14 09:16:17	[Notice]	Now batches at 5-th epoch.
+05-14 09:40:42	[Notice]	Current validate Model[5]
+ROC: 0.941823899371
+TPR:	0.954402515723
+FPR:	0.333333333333
+AR:	0.810534591195
+threshold: 1
+05-14 09:40:42	[Notice]	Now Saving parameters.
+05-14 09:40:42	[Notice]	Parameters Saved.
+05-14 09:40:42	[Notice]	Now batches at 6-th epoch.
+05-14 10:04:49	[Notice]	Current validate Model[6]
+ROC: 0.944587383267
+TPR:	0.949685534591
+FPR:	0.30303030303
+AR:	0.82332761578
+threshold: 1
+05-14 10:04:49	[Notice]	Now Saving parameters.
+05-14 10:04:49	[Notice]	Parameters Saved.
+05-14 10:04:49	[Notice]	Now batches at 7-th epoch.
+05-14 10:28:58	[Notice]	Current validate Model[7]
+ROC: 0.945969125214
+TPR:	0.943396226415
+FPR:	0.242424242424
+AR:	0.850485991995
+threshold: 1
+05-14 10:28:58	[Notice]	Now Saving parameters.
+05-14 10:28:58	[Notice]	Parameters Saved.
+05-14 10:28:58	[Notice]	Now batches at 8-th epoch.
+05-14 10:52:03	[Notice]	Current validate Model[8]
+ROC: 0.944015627978
+TPR:	0.937106918239
+FPR:	0.242424242424
+AR:	0.847341337907
+threshold: 1
+05-14 10:52:03	[Notice]	Now Saving parameters.
+05-14 10:52:03	[Notice]	Parameters Saved.
+05-14 10:52:03	[Notice]	End Training Data[z001]
+05-14 10:52:03	[Notice]	Now Starts Training with data/cdr/train/text_sz002 and data/cdr/train/label_sz002
+05-14 10:52:04	[Notice]	Start Loading Data[z002]
+05-14 10:52:04	[Notice]	6338 Labels Loaded 
+05-14 10:52:13	[Notice]	6338 Documents Loaded 
+05-14 10:52:18	[Notice]	getCorpus at getDataMatrix()
+05-14 10:52:22	[Notice]	Data has been loaded already
+05-14 10:52:55	[Notice]	Valid current model:	Cost/0.177786122306	Error/0.0717488789238
+ROC: 0.944015627978
+TPR:	0.937106918239
+FPR:	0.242424242424
+AR:	0.847341337907
+threshold: 1
+05-14 10:52:55	[Notice]	Start Loading Training Data
+05-14 10:52:56	[Notice]	7624 Labels Loaded 
+05-14 10:53:01	[Notice]	7624 Documents Loaded 
+05-14 10:56:56	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1838824
+# Valid set size     : 185225
+# training batches   : 668
+05-14 10:57:40	[Notice]	Compiling computing graph.
+05-14 10:59:09	[Notice]	Computing Graph Compiled
+05-14 10:59:09	[Notice]	Start Training
+05-14 10:59:09	[Notice]	Now batches at 1-th epoch.
+05-14 11:18:01	[Notice]	Current validate Model[1]
+ROC: 0.944206213074
+TPR:	0.979559748428
+FPR:	0.515151515152
+AR:	0.732204116638
+threshold: 1
+05-14 11:18:01	[Notice]	Now Saving parameters.
+05-14 11:18:01	[Notice]	Parameters Saved.
+05-14 11:18:01	[Notice]	Now batches at 2-th epoch.
+05-14 11:41:50	[Notice]	Current validate Model[2]
+ROC: 0.946731465599
+TPR:	0.987421383648
+FPR:	0.515151515152
+AR:	0.736134934248
+threshold: 1
+05-14 11:41:50	[Notice]	Now Saving parameters.
+05-14 11:41:50	[Notice]	Parameters Saved.
+05-14 11:41:50	[Notice]	Now batches at 3-th epoch.
+05-14 12:06:21	[Notice]	Current validate Model[3]
+ROC: 0.944968553459
+TPR:	0.973270440252
+FPR:	0.454545454545
+AR:	0.759362492853
+threshold: 1
+05-14 12:06:21	[Notice]	Now Saving parameters.
+05-14 12:06:21	[Notice]	Parameters Saved.
+05-14 12:06:21	[Notice]	Now batches at 4-th epoch.
+05-14 12:30:54	[Notice]	Current validate Model[4]
+ROC: 0.941299790356
+TPR:	0.943396226415
+FPR:	0.30303030303
+AR:	0.820182961692
+threshold: 1
+05-14 12:30:54	[Notice]	Now Saving parameters.
+05-14 12:30:54	[Notice]	Parameters Saved.
+05-14 12:30:54	[Notice]	Now batches at 5-th epoch.
+05-14 12:55:13	[Notice]	Current validate Model[5]
+ROC: 0.943157995045
+TPR:	0.946540880503
+FPR:	0.30303030303
+AR:	0.821755288736
+threshold: 1
+05-14 12:55:13	[Notice]	Now Saving parameters.
+05-14 12:55:13	[Notice]	Parameters Saved.
+05-14 12:55:13	[Notice]	Now batches at 6-th epoch.
+05-14 13:19:23	[Notice]	Current validate Model[6]
+ROC: 0.939298646846
+TPR:	0.970125786164
+FPR:	0.454545454545
+AR:	0.757790165809
+threshold: 1
+05-14 13:19:23	[Notice]	Now Saving parameters.
+05-14 13:19:23	[Notice]	Parameters Saved.
+05-14 13:19:23	[Notice]	Now batches at 7-th epoch.
+05-14 13:43:51	[Notice]	Current validate Model[7]
+ROC: 0.949971412236
+TPR:	0.985849056604
+FPR:	0.515151515152
+AR:	0.735348770726
+threshold: 1
+05-14 13:43:51	[Notice]	Now Saving parameters.
+05-14 13:43:51	[Notice]	Parameters Saved.
+05-14 13:43:51	[Notice]	Now batches at 8-th epoch.
+05-14 14:08:24	[Notice]	Current validate Model[8]
+ROC: 0.953020773775
+TPR:	0.971698113208
+FPR:	0.363636363636
+AR:	0.804030874786
+threshold: 1
+05-14 14:08:24	[Notice]	Now Saving parameters.
+05-14 14:08:24	[Notice]	Parameters Saved.
+05-14 14:08:24	[Notice]	End Training Data[z002]
+05-14 14:08:24	[Notice]	Now Starts Training with data/cdr/train/text_sz003 and data/cdr/train/label_sz003
+05-14 14:08:25	[Notice]	Start Loading Data[z003]
+05-14 14:08:25	[Notice]	6338 Labels Loaded 
+05-14 14:08:31	[Notice]	6338 Documents Loaded 
+05-14 14:08:35	[Notice]	getCorpus at getDataMatrix()
+05-14 14:08:39	[Notice]	Data has been loaded already
+05-14 14:09:16	[Notice]	Valid current model:	Cost/0.130376463539	Error/0.0448430493274
+ROC: 0.953020773775
+TPR:	0.971698113208
+FPR:	0.363636363636
+AR:	0.804030874786
+threshold: 1
+05-14 14:09:16	[Notice]	Start Loading Training Data
+05-14 14:09:16	[Notice]	7561 Labels Loaded 
+05-14 14:09:29	[Notice]	7561 Documents Loaded 
+05-14 14:13:37	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1821521
+# Valid set size     : 185225
+# training batches   : 665
+05-14 14:14:31	[Notice]	Compiling computing graph.
+05-14 14:16:26	[Notice]	Computing Graph Compiled
+05-14 14:16:26	[Notice]	Start Training
+05-14 14:16:26	[Notice]	Now batches at 1-th epoch.
+05-14 14:39:52	[Notice]	Current validate Model[1]
+ROC: 0.949399656947
+TPR:	0.99213836478
+FPR:	0.636363636364
+AR:	0.677887364208
+threshold: 1
+05-14 14:39:52	[Notice]	Now Saving parameters.
+05-14 14:39:52	[Notice]	Parameters Saved.
+05-14 14:39:52	[Notice]	Now batches at 2-th epoch.
+05-14 15:03:12	[Notice]	Current validate Model[2]
+ROC: 0.95001905851
+TPR:	0.990566037736
+FPR:	0.727272727273
+AR:	0.631646655232
+threshold: 1
+05-14 15:03:12	[Notice]	Now Saving parameters.
+05-14 15:03:12	[Notice]	Parameters Saved.
+05-14 15:03:12	[Notice]	Now batches at 3-th epoch.
+05-14 15:26:34	[Notice]	Current validate Model[3]
+ROC: 0.941204497808
+TPR:	0.990566037736
+FPR:	0.636363636364
+AR:	0.677101200686
+threshold: 1
+05-14 15:26:34	[Notice]	Now Saving parameters.
+05-14 15:26:34	[Notice]	Parameters Saved.
+05-14 15:26:34	[Notice]	Now batches at 4-th epoch.
+05-14 15:50:05	[Notice]	Current validate Model[4]
+ROC: 0.942157423289
+TPR:	0.987421383648
+FPR:	0.575757575758
+AR:	0.705831903945
+threshold: 1
+05-14 15:50:05	[Notice]	Now Saving parameters.
+05-14 15:50:05	[Notice]	Parameters Saved.
+05-14 15:50:05	[Notice]	Now batches at 5-th epoch.
+05-14 16:13:34	[Notice]	Current validate Model[5]
+ROC: 0.943634457785
+TPR:	0.988993710692
+FPR:	0.575757575758
+AR:	0.706618067467
+threshold: 1
+05-14 16:13:34	[Notice]	Now Saving parameters.
+05-14 16:13:34	[Notice]	Parameters Saved.
+05-14 16:13:34	[Notice]	Now batches at 6-th epoch.
+05-14 16:37:30	[Notice]	Current validate Model[6]
+ROC: 0.941823899371
+TPR:	0.981132075472
+FPR:	0.424242424242
+AR:	0.778444825615
+threshold: 1
+05-14 16:37:30	[Notice]	Now Saving parameters.
+05-14 16:37:30	[Notice]	Parameters Saved.
+05-14 16:37:30	[Notice]	Now batches at 7-th epoch.
+05-14 17:01:14	[Notice]	Current validate Model[7]
+ROC: 0.939965694683
+TPR:	0.979559748428
+FPR:	0.484848484848
+AR:	0.74735563179
+threshold: 1
+05-14 17:01:14	[Notice]	Now Saving parameters.
+05-14 17:01:14	[Notice]	Parameters Saved.
+05-14 17:01:14	[Notice]	Now batches at 8-th epoch.
+05-14 17:24:13	[Notice]	Current validate Model[8]
+ROC: 0.932532875929
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-14 17:24:13	[Notice]	Now Saving parameters.
+05-14 17:24:13	[Notice]	Parameters Saved.
+05-14 17:24:13	[Notice]	End Training Data[z003]
+05-14 17:24:13	[Notice]	Now Starts Training with data/cdr/train/text_sz004 and data/cdr/train/label_sz004
+05-14 17:24:14	[Notice]	Start Loading Data[z004]
+05-14 17:24:14	[Notice]	6338 Labels Loaded 
+05-14 17:24:20	[Notice]	6338 Documents Loaded 
+05-14 17:24:25	[Notice]	getCorpus at getDataMatrix()
+05-14 17:24:29	[Notice]	Data has been loaded already
+05-14 17:25:17	[Notice]	Valid current model:	Cost/0.127586040126	Error/0.0463378176383
+ROC: 0.932532875929
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-14 17:25:17	[Notice]	Start Loading Training Data
+05-14 17:25:17	[Notice]	7569 Labels Loaded 
+05-14 17:25:28	[Notice]	7569 Documents Loaded 
+05-14 17:28:59	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1804207
+# Valid set size     : 185225
+# training batches   : 660
+05-14 17:29:51	[Notice]	Compiling computing graph.
+05-14 17:31:30	[Notice]	Computing Graph Compiled
+05-14 17:31:30	[Notice]	Start Training
+05-14 17:31:30	[Notice]	Now batches at 1-th epoch.
+05-14 17:54:58	[Notice]	Current validate Model[1]
+ROC: 0.936582809224
+TPR:	0.993710691824
+FPR:	0.818181818182
+AR:	0.587764436821
+threshold: 1
+05-14 17:54:58	[Notice]	Now Saving parameters.
+05-14 17:54:58	[Notice]	Parameters Saved.
+05-14 17:54:58	[Notice]	Now batches at 2-th epoch.
+05-14 18:18:21	[Notice]	Current validate Model[2]
+ROC: 0.937964551172
+TPR:	0.995283018868
+FPR:	0.818181818182
+AR:	0.588550600343
+threshold: 1
+05-14 18:18:21	[Notice]	Now Saving parameters.
+05-14 18:18:21	[Notice]	Parameters Saved.
+05-14 18:18:21	[Notice]	Now batches at 3-th epoch.
+05-14 18:41:27	[Notice]	Current validate Model[3]
+ROC: 0.932771107299
+TPR:	0.993710691824
+FPR:	0.727272727273
+AR:	0.633218982276
+threshold: 1
+05-14 18:41:27	[Notice]	Now Saving parameters.
+05-14 18:41:27	[Notice]	Parameters Saved.
+05-14 18:41:27	[Notice]	Now batches at 4-th epoch.
+05-14 19:04:07	[Notice]	Current validate Model[4]
+ROC: 0.942681532304
+TPR:	0.988993710692
+FPR:	0.666666666667
+AR:	0.661163522013
+threshold: 1
+05-14 19:04:07	[Notice]	Now Saving parameters.
+05-14 19:04:07	[Notice]	Parameters Saved.
+05-14 19:04:07	[Notice]	Now batches at 5-th epoch.
+05-14 19:27:14	[Notice]	Current validate Model[5]
+ROC: 0.933533447684
+TPR:	0.98427672956
+FPR:	0.666666666667
+AR:	0.658805031447
+threshold: 1
+05-14 19:27:14	[Notice]	Now Saving parameters.
+05-14 19:27:14	[Notice]	Parameters Saved.
+05-14 19:27:14	[Notice]	Now batches at 6-th epoch.
+05-14 19:50:34	[Notice]	Current validate Model[6]
+ROC: 0.930769963789
+TPR:	0.990566037736
+FPR:	0.818181818182
+AR:	0.586192109777
+threshold: 1
+05-14 19:50:34	[Notice]	Now Saving parameters.
+05-14 19:50:34	[Notice]	Parameters Saved.
+05-14 19:50:34	[Notice]	Now batches at 7-th epoch.
+05-14 20:13:57	[Notice]	Current validate Model[7]
+ROC: 0.907947398513
+TPR:	0.996855345912
+FPR:	0.909090909091
+AR:	0.543882218411
+threshold: 1
+05-14 20:13:57	[Notice]	Now Saving parameters.
+05-14 20:13:57	[Notice]	Parameters Saved.
+05-14 20:13:57	[Notice]	Now batches at 8-th epoch.
+05-14 20:37:39	[Notice]	Current validate Model[8]
+ROC: 0.926005336383
+TPR:	0.982704402516
+FPR:	0.484848484848
+AR:	0.748927958834
+threshold: 1
+05-14 20:37:39	[Notice]	Now Saving parameters.
+05-14 20:37:39	[Notice]	Parameters Saved.
+05-14 20:37:39	[Notice]	End Training Data[z004]
+05-14 20:37:39	[Notice]	Now Starts Training with data/cdr/train/text_sz005 and data/cdr/train/label_sz005
+05-14 20:37:40	[Notice]	Start Loading Data[z005]
+05-14 20:37:40	[Notice]	6338 Labels Loaded 
+05-14 20:37:45	[Notice]	6338 Documents Loaded 
+05-14 20:37:49	[Notice]	getCorpus at getDataMatrix()
+05-14 20:37:52	[Notice]	Data has been loaded already
+05-14 20:38:33	[Notice]	Valid current model:	Cost/0.143158697469	Error/0.0403587443946
+ROC: 0.926005336383
+TPR:	0.982704402516
+FPR:	0.484848484848
+AR:	0.748927958834
+threshold: 1
+05-14 20:38:33	[Notice]	Start Loading Training Data
+05-14 20:38:33	[Notice]	7588 Labels Loaded 
+05-14 20:38:39	[Notice]	7588 Documents Loaded 
+05-14 20:42:32	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1828437
+# Valid set size     : 185225
+# training batches   : 667
+05-14 20:43:25	[Notice]	Compiling computing graph.
+05-14 20:45:07	[Notice]	Computing Graph Compiled
+05-14 20:45:07	[Notice]	Start Training
+05-14 20:45:07	[Notice]	Now batches at 1-th epoch.
+05-14 21:08:50	[Notice]	Current validate Model[1]
+ROC: 0.943110348771
+TPR:	0.981132075472
+FPR:	0.575757575758
+AR:	0.702687249857
+threshold: 1
+05-14 21:08:50	[Notice]	Now Saving parameters.
+05-14 21:08:50	[Notice]	Parameters Saved.
+05-14 21:08:50	[Notice]	Now batches at 2-th epoch.
+05-14 21:32:49	[Notice]	Current validate Model[2]
+ROC: 0.95154373928
+TPR:	0.970125786164
+FPR:	0.393939393939
+AR:	0.788093196112
+threshold: 1
+05-14 21:32:49	[Notice]	Now Saving parameters.
+05-14 21:32:49	[Notice]	Parameters Saved.
+05-14 21:32:49	[Notice]	Now batches at 3-th epoch.
+05-14 21:56:23	[Notice]	Current validate Model[3]
+ROC: 0.940823327616
+TPR:	0.97641509434
+FPR:	0.393939393939
+AR:	0.7912378502
+threshold: 1
+05-14 21:56:23	[Notice]	Now Saving parameters.
+05-14 21:56:23	[Notice]	Parameters Saved.
+05-14 21:56:23	[Notice]	Now batches at 4-th epoch.
+05-14 22:20:19	[Notice]	Current validate Model[4]
+ROC: 0.939489231942
+TPR:	0.970125786164
+FPR:	0.515151515152
+AR:	0.727487135506
+threshold: 1
+05-14 22:20:19	[Notice]	Now Saving parameters.
+05-14 22:20:19	[Notice]	Parameters Saved.
+05-14 22:20:19	[Notice]	Now batches at 5-th epoch.
+05-14 22:44:12	[Notice]	Current validate Model[5]
+ROC: 0.916523727844
+TPR:	0.957547169811
+FPR:	0.393939393939
+AR:	0.781803887936
+threshold: 1
+05-14 22:44:12	[Notice]	Now Saving parameters.
+05-14 22:44:12	[Notice]	Parameters Saved.
+05-14 22:44:12	[Notice]	Now batches at 6-th epoch.
+05-14 23:07:57	[Notice]	Current validate Model[6]
+ROC: 0.923908900324
+TPR:	0.970125786164
+FPR:	0.484848484848
+AR:	0.742638650658
+threshold: 1
+05-14 23:07:57	[Notice]	Now Saving parameters.
+05-14 23:07:57	[Notice]	Parameters Saved.
+05-14 23:07:57	[Notice]	Now batches at 7-th epoch.
+05-14 23:32:32	[Notice]	Current validate Model[7]
+ROC: 0.916571374119
+TPR:	0.970125786164
+FPR:	0.515151515152
+AR:	0.727487135506
+threshold: 1
+05-14 23:32:32	[Notice]	Now Saving parameters.
+05-14 23:32:32	[Notice]	Parameters Saved.
+05-14 23:32:32	[Notice]	Now batches at 8-th epoch.
+05-14 23:56:24	[Notice]	Current validate Model[8]
+ROC: 0.888221841052
+TPR:	0.979559748428
+FPR:	0.606060606061
+AR:	0.686749571184
+threshold: 1
+05-14 23:56:24	[Notice]	Now Saving parameters.
+05-14 23:56:24	[Notice]	Parameters Saved.
+05-14 23:56:24	[Notice]	End Training Data[z005]
+05-14 23:56:24	[Notice]	Now Starts Training with data/cdr/train/text_sz006 and data/cdr/train/label_sz006
+05-14 23:56:25	[Notice]	Start Loading Data[z006]
+05-14 23:56:25	[Notice]	6338 Labels Loaded 
+05-14 23:56:34	[Notice]	6338 Documents Loaded 
+05-14 23:56:39	[Notice]	getCorpus at getDataMatrix()
+05-14 23:56:44	[Notice]	Data has been loaded already
+05-14 23:57:37	[Notice]	Valid current model:	Cost/0.174033708359	Error/0.0493273542601
+ROC: 0.888221841052
+TPR:	0.979559748428
+FPR:	0.606060606061
+AR:	0.686749571184
+threshold: 1
+05-14 23:57:38	[Notice]	Start Loading Training Data
+05-14 23:57:38	[Notice]	7544 Labels Loaded 
+05-14 23:57:57	[Notice]	7544 Documents Loaded 
+05-15 00:02:15	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1816333
+# Valid set size     : 185225
+# training batches   : 663
+05-15 00:03:25	[Notice]	Compiling computing graph.
+05-15 00:05:23	[Notice]	Computing Graph Compiled
+05-15 00:05:23	[Notice]	Start Training
+05-15 00:05:23	[Notice]	Now batches at 1-th epoch.
+05-15 00:29:16	[Notice]	Current validate Model[1]
+ROC: 0.918906041548
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-15 00:29:16	[Notice]	Now Saving parameters.
+05-15 00:29:16	[Notice]	Parameters Saved.
+05-15 00:29:16	[Notice]	Now batches at 2-th epoch.
+05-15 00:53:30	[Notice]	Current validate Model[2]
+ROC: 0.919001334096
+TPR:	0.979559748428
+FPR:	0.454545454545
+AR:	0.762507146941
+threshold: 1
+05-15 00:53:31	[Notice]	Now Saving parameters.
+05-15 00:53:31	[Notice]	Parameters Saved.
+05-15 00:53:31	[Notice]	Now batches at 3-th epoch.
+05-15 01:17:56	[Notice]	Current validate Model[3]
+ROC: 0.922765389747
+TPR:	0.974842767296
+FPR:	0.454545454545
+AR:	0.760148656375
+threshold: 1
+05-15 01:17:56	[Notice]	Now Saving parameters.
+05-15 01:17:56	[Notice]	Parameters Saved.
+05-15 01:17:56	[Notice]	Now batches at 4-th epoch.
+05-15 01:41:50	[Notice]	Current validate Model[4]
+ROC: 0.925004764627
+TPR:	0.981132075472
+FPR:	0.454545454545
+AR:	0.763293310463
+threshold: 1
+05-15 01:41:50	[Notice]	Now Saving parameters.
+05-15 01:41:50	[Notice]	Parameters Saved.
+05-15 01:41:50	[Notice]	Now batches at 5-th epoch.
+05-15 02:05:42	[Notice]	Current validate Model[5]
+ROC: 0.929578806937
+TPR:	0.970125786164
+FPR:	0.393939393939
+AR:	0.788093196112
+threshold: 1
+05-15 02:05:42	[Notice]	Now Saving parameters.
+05-15 02:05:42	[Notice]	Parameters Saved.
+05-15 02:05:42	[Notice]	Now batches at 6-th epoch.
+05-15 02:29:40	[Notice]	Current validate Model[6]
+ROC: 0.924528301887
+TPR:	0.973270440252
+FPR:	0.393939393939
+AR:	0.789665523156
+threshold: 1
+05-15 02:29:40	[Notice]	Now Saving parameters.
+05-15 02:29:40	[Notice]	Parameters Saved.
+05-15 02:29:40	[Notice]	Now batches at 7-th epoch.
+05-15 02:53:10	[Notice]	Current validate Model[7]
+ROC: 0.928482942634
+TPR:	0.973270440252
+FPR:	0.393939393939
+AR:	0.789665523156
+threshold: 1
+05-15 02:53:10	[Notice]	Now Saving parameters.
+05-15 02:53:10	[Notice]	Parameters Saved.
+05-15 02:53:10	[Notice]	Now batches at 8-th epoch.
+05-15 03:15:55	[Notice]	Current validate Model[8]
+ROC: 0.921193062702
+TPR:	0.968553459119
+FPR:	0.424242424242
+AR:	0.772155517439
+threshold: 1
+05-15 03:15:55	[Notice]	Now Saving parameters.
+05-15 03:15:55	[Notice]	Parameters Saved.
+05-15 03:15:55	[Notice]	End Training Data[z006]
+05-15 03:15:55	[Notice]	Now Starts Training with data/cdr/train/text_sz007 and data/cdr/train/label_sz007
+05-15 03:15:56	[Notice]	Start Loading Data[z007]
+05-15 03:15:56	[Notice]	6338 Labels Loaded 
+05-15 03:16:01	[Notice]	6338 Documents Loaded 
+05-15 03:16:07	[Notice]	getCorpus at getDataMatrix()
+05-15 03:16:12	[Notice]	Data has been loaded already
+05-15 03:17:10	[Notice]	Valid current model:	Cost/0.162745162817	Error/0.050822122571
+ROC: 0.921193062702
+TPR:	0.968553459119
+FPR:	0.424242424242
+AR:	0.772155517439
+threshold: 1
+05-15 03:17:11	[Notice]	Start Loading Training Data
+05-15 03:17:11	[Notice]	7570 Labels Loaded 
+05-15 03:17:26	[Notice]	7570 Documents Loaded 
+05-15 03:22:00	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1814855
+# Valid set size     : 185225
+# training batches   : 666
+05-15 03:23:11	[Notice]	Compiling computing graph.
+05-15 03:25:10	[Notice]	Computing Graph Compiled
+05-15 03:25:10	[Notice]	Start Training
+05-15 03:25:10	[Notice]	Now batches at 1-th epoch.
+05-15 03:49:18	[Notice]	Current validate Model[1]
+ROC: 0.926338860301
+TPR:	0.982704402516
+FPR:	0.606060606061
+AR:	0.688321898228
+threshold: 1
+05-15 03:49:18	[Notice]	Now Saving parameters.
+05-15 03:49:18	[Notice]	Parameters Saved.
+05-15 03:49:18	[Notice]	Now batches at 2-th epoch.
+05-15 04:13:26	[Notice]	Current validate Model[2]
+ROC: 0.921717171717
+TPR:	0.979559748428
+FPR:	0.606060606061
+AR:	0.686749571184
+threshold: 1
+05-15 04:13:26	[Notice]	Now Saving parameters.
+05-15 04:13:26	[Notice]	Parameters Saved.
+05-15 04:13:26	[Notice]	Now batches at 3-th epoch.
+05-15 04:38:00	[Notice]	Current validate Model[3]
+ROC: 0.924004192872
+TPR:	0.977987421384
+FPR:	0.636363636364
+AR:	0.67081189251
+threshold: 1
+05-15 04:38:00	[Notice]	Now Saving parameters.
+05-15 04:38:00	[Notice]	Parameters Saved.
+05-15 04:38:00	[Notice]	Now batches at 4-th epoch.
+05-15 05:02:03	[Notice]	Current validate Model[4]
+ROC: 0.919334858014
+TPR:	0.97641509434
+FPR:	0.575757575758
+AR:	0.700328759291
+threshold: 1
+05-15 05:02:03	[Notice]	Now Saving parameters.
+05-15 05:02:03	[Notice]	Parameters Saved.
+05-15 05:02:03	[Notice]	Now batches at 5-th epoch.
+05-15 05:26:20	[Notice]	Current validate Model[5]
+ROC: 0.916380789022
+TPR:	0.97641509434
+FPR:	0.545454545455
+AR:	0.715480274443
+threshold: 1
+05-15 05:26:20	[Notice]	Now Saving parameters.
+05-15 05:26:20	[Notice]	Parameters Saved.
+05-15 05:26:20	[Notice]	Now batches at 6-th epoch.
+05-15 05:50:44	[Notice]	Current validate Model[6]
+ROC: 0.912902611016
+TPR:	0.973270440252
+FPR:	0.545454545455
+AR:	0.713907947399
+threshold: 1
+05-15 05:50:44	[Notice]	Now Saving parameters.
+05-15 05:50:44	[Notice]	Parameters Saved.
+05-15 05:50:44	[Notice]	Now batches at 7-th epoch.
+05-15 06:14:55	[Notice]	Current validate Model[7]
+ROC: 0.909329140461
+TPR:	0.973270440252
+FPR:	0.545454545455
+AR:	0.713907947399
+threshold: 1
+05-15 06:14:55	[Notice]	Now Saving parameters.
+05-15 06:14:55	[Notice]	Parameters Saved.
+05-15 06:14:55	[Notice]	Now batches at 8-th epoch.
+05-15 06:39:04	[Notice]	Current validate Model[8]
+ROC: 0.89875166762
+TPR:	0.973270440252
+FPR:	0.606060606061
+AR:	0.683604917095
+threshold: 1
+05-15 06:39:04	[Notice]	Now Saving parameters.
+05-15 06:39:04	[Notice]	Parameters Saved.
+05-15 06:39:04	[Notice]	End Training Data[z007]
+05-15 06:39:04	[Notice]	Now Starts Training with data/cdr/train/text_sz008 and data/cdr/train/label_sz008
+05-15 06:39:05	[Notice]	Start Loading Data[z008]
+05-15 06:39:05	[Notice]	6338 Labels Loaded 
+05-15 06:39:14	[Notice]	6338 Documents Loaded 
+05-15 06:39:19	[Notice]	getCorpus at getDataMatrix()
+05-15 06:39:25	[Notice]	Data has been loaded already
+05-15 06:40:08	[Notice]	Valid current model:	Cost/0.173014320652	Error/0.0553064275037
+ROC: 0.89875166762
+TPR:	0.973270440252
+FPR:	0.606060606061
+AR:	0.683604917095
+threshold: 1
+05-15 06:40:08	[Notice]	Start Loading Training Data
+05-15 06:40:08	[Notice]	7553 Labels Loaded 
+05-15 06:40:13	[Notice]	7553 Documents Loaded 
+05-15 06:45:22	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1819720
+# Valid set size     : 185225
+# training batches   : 666
+05-15 06:46:37	[Notice]	Compiling computing graph.
+05-15 06:48:46	[Notice]	Computing Graph Compiled
+05-15 06:48:46	[Notice]	Start Training
+05-15 06:48:46	[Notice]	Now batches at 1-th epoch.
+05-15 07:12:32	[Notice]	Current validate Model[1]
+ROC: 0.904659805603
+TPR:	0.981132075472
+FPR:	0.636363636364
+AR:	0.672384219554
+threshold: 1
+05-15 07:12:32	[Notice]	Now Saving parameters.
+05-15 07:12:32	[Notice]	Parameters Saved.
+05-15 07:12:32	[Notice]	Now batches at 2-th epoch.
+05-15 07:36:38	[Notice]	Current validate Model[2]
+ROC: 0.907947398513
+TPR:	0.979559748428
+FPR:	0.575757575758
+AR:	0.701901086335
+threshold: 1
+05-15 07:36:38	[Notice]	Now Saving parameters.
+05-15 07:36:38	[Notice]	Parameters Saved.
+05-15 07:36:38	[Notice]	Now batches at 3-th epoch.
+05-15 08:00:31	[Notice]	Current validate Model[3]
+ROC: 0.907899752239
+TPR:	0.97641509434
+FPR:	0.545454545455
+AR:	0.715480274443
+threshold: 1
+05-15 08:00:31	[Notice]	Now Saving parameters.
+05-15 08:00:31	[Notice]	Parameters Saved.
+05-15 08:00:31	[Notice]	Now batches at 4-th epoch.
+05-15 08:24:22	[Notice]	Current validate Model[4]
+ROC: 0.901943967982
+TPR:	0.968553459119
+FPR:	0.545454545455
+AR:	0.711549456832
+threshold: 1
+05-15 08:24:22	[Notice]	Now Saving parameters.
+05-15 08:24:22	[Notice]	Parameters Saved.
+05-15 08:24:22	[Notice]	Now batches at 5-th epoch.
+05-15 08:48:48	[Notice]	Current validate Model[5]
+ROC: 0.892986468458
+TPR:	0.974842767296
+FPR:	0.515151515152
+AR:	0.729845626072
+threshold: 1
+05-15 08:48:48	[Notice]	Now Saving parameters.
+05-15 08:48:48	[Notice]	Parameters Saved.
+05-15 08:48:48	[Notice]	Now batches at 6-th epoch.
+05-15 09:12:41	[Notice]	Current validate Model[6]
+ROC: 0.892176481799
+TPR:	0.966981132075
+FPR:	0.484848484848
+AR:	0.741066323613
+threshold: 1
+05-15 09:12:41	[Notice]	Now Saving parameters.
+05-15 09:12:41	[Notice]	Parameters Saved.
+05-15 09:12:41	[Notice]	Now batches at 7-th epoch.
+05-15 09:36:28	[Notice]	Current validate Model[7]
+ROC: 0.886983037926
+TPR:	0.970125786164
+FPR:	0.454545454545
+AR:	0.757790165809
+threshold: 1
+05-15 09:36:28	[Notice]	Now Saving parameters.
+05-15 09:36:28	[Notice]	Parameters Saved.
+05-15 09:36:28	[Notice]	Now batches at 8-th epoch.
+05-15 10:01:00	[Notice]	Current validate Model[8]
+ROC: 0.88221841052
+TPR:	0.965408805031
+FPR:	0.363636363636
+AR:	0.800886220698
+threshold: 1
+05-15 10:01:00	[Notice]	Now Saving parameters.
+05-15 10:01:00	[Notice]	Parameters Saved.
+05-15 10:01:00	[Notice]	End Training Data[z008]
+05-15 10:01:00	[Notice]	Now Starts Training with data/cdr/train/text_sz009 and data/cdr/train/label_sz009
+05-15 10:01:01	[Notice]	Start Loading Data[z009]
+05-15 10:01:01	[Notice]	6338 Labels Loaded 
+05-15 10:01:10	[Notice]	6338 Documents Loaded 
+05-15 10:01:15	[Notice]	getCorpus at getDataMatrix()
+05-15 10:01:21	[Notice]	Data has been loaded already
+05-15 10:02:09	[Notice]	Valid current model:	Cost/0.202282628476	Error/0.050822122571
+ROC: 0.88221841052
+TPR:	0.965408805031
+FPR:	0.363636363636
+AR:	0.800886220698
+threshold: 1
+05-15 10:02:10	[Notice]	Start Loading Training Data
+05-15 10:02:10	[Notice]	7568 Labels Loaded 
+05-15 10:02:30	[Notice]	7568 Documents Loaded 
+05-15 10:07:38	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1836677
+# Valid set size     : 185225
+# training batches   : 669
+05-15 10:08:36	[Notice]	Compiling computing graph.
+05-15 10:10:31	[Notice]	Computing Graph Compiled
+05-15 10:10:31	[Notice]	Start Training
+05-15 10:10:31	[Notice]	Now batches at 1-th epoch.
+05-15 10:34:39	[Notice]	Current validate Model[1]
+ROC: 0.889794168096
+TPR:	0.996855345912
+FPR:	0.818181818182
+AR:	0.589336763865
+threshold: 1
+05-15 10:34:40	[Notice]	Now Saving parameters.
+05-15 10:34:40	[Notice]	Parameters Saved.
+05-15 10:34:40	[Notice]	Now batches at 2-th epoch.
+05-15 10:56:25	[Notice]	Current validate Model[2]
+ROC: 0.900609872308
+TPR:	0.982704402516
+FPR:	0.69696969697
+AR:	0.642867352773
+threshold: 1
+05-15 10:56:25	[Notice]	Now Saving parameters.
+05-15 10:56:25	[Notice]	Parameters Saved.
+05-15 10:56:25	[Notice]	Now batches at 3-th epoch.
+05-15 11:15:16	[Notice]	Current validate Model[3]
+ROC: 0.903659233848
+TPR:	0.981132075472
+FPR:	0.69696969697
+AR:	0.642081189251
+threshold: 1
+05-15 11:15:16	[Notice]	Now Saving parameters.
+05-15 11:15:16	[Notice]	Parameters Saved.
+05-15 11:15:16	[Notice]	Now batches at 4-th epoch.
+05-15 11:36:31	[Notice]	Current validate Model[4]
+ROC: 0.905803316181
+TPR:	0.98427672956
+FPR:	0.666666666667
+AR:	0.658805031447
+threshold: 1
+05-15 11:36:31	[Notice]	Now Saving parameters.
+05-15 11:36:31	[Notice]	Parameters Saved.
+05-15 11:36:31	[Notice]	Now batches at 5-th epoch.
+05-15 12:00:45	[Notice]	Current validate Model[5]
+ROC: 0.911616161616
+TPR:	0.988993710692
+FPR:	0.69696969697
+AR:	0.646012006861
+threshold: 1
+05-15 12:00:45	[Notice]	Now Saving parameters.
+05-15 12:00:45	[Notice]	Parameters Saved.
+05-15 12:00:45	[Notice]	Now batches at 6-th epoch.
+05-15 12:24:55	[Notice]	Current validate Model[6]
+ROC: 0.914046121593
+TPR:	0.977987421384
+FPR:	0.575757575758
+AR:	0.701114922813
+threshold: 1
+05-15 12:24:55	[Notice]	Now Saving parameters.
+05-15 12:24:55	[Notice]	Parameters Saved.
+05-15 12:24:55	[Notice]	Now batches at 7-th epoch.
+05-15 12:48:47	[Notice]	Current validate Model[7]
+ROC: 0.914665523156
+TPR:	0.97641509434
+FPR:	0.515151515152
+AR:	0.730631789594
+threshold: 1
+05-15 12:48:47	[Notice]	Now Saving parameters.
+05-15 12:48:47	[Notice]	Parameters Saved.
+05-15 12:48:47	[Notice]	Now batches at 8-th epoch.
+05-15 13:12:34	[Notice]	Current validate Model[8]
+ROC: 0.923003621117
+TPR:	0.974842767296
+FPR:	0.545454545455
+AR:	0.714694110921
+threshold: 1
+05-15 13:12:34	[Notice]	Now Saving parameters.
+05-15 13:12:34	[Notice]	Parameters Saved.
+05-15 13:12:34	[Notice]	End Training Data[z009]
+05-15 13:12:34	[Notice]	Now Starts Training with data/cdr/train/text_sz010 and data/cdr/train/label_sz010
+05-15 13:12:35	[Notice]	Start Loading Data[z010]
+05-15 13:12:35	[Notice]	6338 Labels Loaded 
+05-15 13:12:39	[Notice]	6338 Documents Loaded 
+05-15 13:12:44	[Notice]	getCorpus at getDataMatrix()
+05-15 13:12:49	[Notice]	Data has been loaded already
+05-15 13:13:35	[Notice]	Valid current model:	Cost/0.155654832622	Error/0.050822122571
+ROC: 0.923003621117
+TPR:	0.974842767296
+FPR:	0.545454545455
+AR:	0.714694110921
+threshold: 1
+05-15 13:13:35	[Notice]	Start Loading Training Data
+05-15 13:13:35	[Notice]	7569 Labels Loaded 
+05-15 13:13:47	[Notice]	7569 Documents Loaded 
+05-15 13:17:34	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1834024
+# Valid set size     : 185225
+# training batches   : 668
+05-15 13:18:25	[Notice]	Compiling computing graph.
+05-15 13:20:01	[Notice]	Computing Graph Compiled
+05-15 13:20:01	[Notice]	Start Training
+05-15 13:20:01	[Notice]	Now batches at 1-th epoch.
+05-15 13:43:22	[Notice]	Current validate Model[1]
+ROC: 0.898179912331
+TPR:	0.987421383648
+FPR:	0.666666666667
+AR:	0.660377358491
+threshold: 1
+05-15 13:43:22	[Notice]	Now Saving parameters.
+05-15 13:43:22	[Notice]	Parameters Saved.
+05-15 13:43:22	[Notice]	Now batches at 2-th epoch.
+05-15 14:06:43	[Notice]	Current validate Model[2]
+ROC: 0.893272346103
+TPR:	0.987421383648
+FPR:	0.636363636364
+AR:	0.675528873642
+threshold: 1
+05-15 14:06:43	[Notice]	Now Saving parameters.
+05-15 14:06:43	[Notice]	Parameters Saved.
+05-15 14:06:43	[Notice]	Now batches at 3-th epoch.
+05-15 14:30:25	[Notice]	Current validate Model[3]
+ROC: 0.877453783114
+TPR:	0.990566037736
+FPR:	0.666666666667
+AR:	0.661949685535
+threshold: 1
+05-15 14:30:25	[Notice]	Now Saving parameters.
+05-15 14:30:25	[Notice]	Parameters Saved.
+05-15 14:30:25	[Notice]	Now batches at 4-th epoch.
+05-15 14:54:13	[Notice]	Current validate Model[4]
+ROC: 0.874833238041
+TPR:	0.987421383648
+FPR:	0.636363636364
+AR:	0.675528873642
+threshold: 1
+05-15 14:54:13	[Notice]	Now Saving parameters.
+05-15 14:54:13	[Notice]	Parameters Saved.
+05-15 14:54:13	[Notice]	Now batches at 5-th epoch.
+05-15 15:18:00	[Notice]	Current validate Model[5]
+ROC: 0.859491137793
+TPR:	0.987421383648
+FPR:	0.606060606061
+AR:	0.690680388794
+threshold: 1
+05-15 15:18:00	[Notice]	Now Saving parameters.
+05-15 15:18:00	[Notice]	Parameters Saved.
+05-15 15:18:00	[Notice]	Now batches at 6-th epoch.
+05-15 15:41:37	[Notice]	Current validate Model[6]
+ROC: 0.85863350486
+TPR:	0.985849056604
+FPR:	0.575757575758
+AR:	0.705045740423
+threshold: 1
+05-15 15:41:37	[Notice]	Now Saving parameters.
+05-15 15:41:37	[Notice]	Parameters Saved.
+05-15 15:41:37	[Notice]	Now batches at 7-th epoch.
+05-15 16:05:25	[Notice]	Current validate Model[7]
+ROC: 0.870116256909
+TPR:	0.985849056604
+FPR:	0.606060606061
+AR:	0.689894225272
+threshold: 1
+05-15 16:05:25	[Notice]	Now Saving parameters.
+05-15 16:05:25	[Notice]	Parameters Saved.
+05-15 16:05:25	[Notice]	Now batches at 8-th epoch.
+05-15 16:29:08	[Notice]	Current validate Model[8]
+ROC: 0.868496283591
+TPR:	0.987421383648
+FPR:	0.515151515152
+AR:	0.736134934248
+threshold: 1
+05-15 16:29:08	[Notice]	Now Saving parameters.
+05-15 16:29:08	[Notice]	Parameters Saved.
+05-15 16:29:08	[Notice]	End Training Data[z010]
+05-15 16:29:08	[Notice]	Now Starts Training with data/cdr/train/text_sz011 and data/cdr/train/label_sz011
+05-15 16:29:09	[Notice]	Start Loading Data[z011]
+05-15 16:29:09	[Notice]	6338 Labels Loaded 
+05-15 16:29:16	[Notice]	6338 Documents Loaded 
+05-15 16:29:20	[Notice]	getCorpus at getDataMatrix()
+05-15 16:29:26	[Notice]	Data has been loaded already
+05-15 16:30:04	[Notice]	Valid current model:	Cost/0.162422487709	Error/0.0373692077728
+ROC: 0.868496283591
+TPR:	0.987421383648
+FPR:	0.515151515152
+AR:	0.736134934248
+threshold: 1
+05-15 16:30:04	[Notice]	Start Loading Training Data
+05-15 16:30:04	[Notice]	7557 Labels Loaded 
+05-15 16:30:10	[Notice]	7557 Documents Loaded 
+05-15 16:33:57	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1814139
+# Valid set size     : 185225
+# training batches   : 662
+05-15 16:34:52	[Notice]	Compiling computing graph.
+05-15 16:36:32	[Notice]	Computing Graph Compiled
+05-15 16:36:32	[Notice]	Start Training
+05-15 16:36:32	[Notice]	Now batches at 1-th epoch.
+05-15 17:00:07	[Notice]	Current validate Model[1]
+ROC: 0.871783876501
+TPR:	0.981132075472
+FPR:	0.575757575758
+AR:	0.702687249857
+threshold: 1
+05-15 17:00:07	[Notice]	Now Saving parameters.
+05-15 17:00:07	[Notice]	Parameters Saved.
+05-15 17:00:07	[Notice]	Now batches at 2-th epoch.
+05-15 17:23:25	[Notice]	Current validate Model[2]
+ROC: 0.878311416047
+TPR:	0.987421383648
+FPR:	0.545454545455
+AR:	0.720983419097
+threshold: 1
+05-15 17:23:25	[Notice]	Now Saving parameters.
+05-15 17:23:25	[Notice]	Parameters Saved.
+05-15 17:23:25	[Notice]	Now batches at 3-th epoch.
+05-15 17:46:55	[Notice]	Current validate Model[3]
+ROC: 0.897512864494
+TPR:	0.968553459119
+FPR:	0.363636363636
+AR:	0.802458547742
+threshold: 1
+05-15 17:46:55	[Notice]	Now Saving parameters.
+05-15 17:46:55	[Notice]	Parameters Saved.
+05-15 17:46:55	[Notice]	Now batches at 4-th epoch.
+05-15 18:10:27	[Notice]	Current validate Model[4]
+ROC: 0.892414713169
+TPR:	0.963836477987
+FPR:	0.424242424242
+AR:	0.769797026872
+threshold: 1
+05-15 18:10:27	[Notice]	Now Saving parameters.
+05-15 18:10:27	[Notice]	Parameters Saved.
+05-15 18:10:27	[Notice]	Now batches at 5-th epoch.
+05-15 18:34:01	[Notice]	Current validate Model[5]
+ROC: 0.891747665333
+TPR:	0.962264150943
+FPR:	0.454545454545
+AR:	0.753859348199
+threshold: 1
+05-15 18:34:01	[Notice]	Now Saving parameters.
+05-15 18:34:01	[Notice]	Parameters Saved.
+05-15 18:34:01	[Notice]	Now batches at 6-th epoch.
+05-15 18:57:14	[Notice]	Current validate Model[6]
+ROC: 0.888412426148
+TPR:	0.977987421384
+FPR:	0.515151515152
+AR:	0.731417953116
+threshold: 1
+05-15 18:57:14	[Notice]	Now Saving parameters.
+05-15 18:57:14	[Notice]	Parameters Saved.
+05-15 18:57:14	[Notice]	Now batches at 7-th epoch.
+05-15 19:20:38	[Notice]	Current validate Model[7]
+ROC: 0.884743663046
+TPR:	0.974842767296
+FPR:	0.515151515152
+AR:	0.729845626072
+threshold: 1
+05-15 19:20:38	[Notice]	Now Saving parameters.
+05-15 19:20:38	[Notice]	Parameters Saved.
+05-15 19:20:38	[Notice]	Now batches at 8-th epoch.
+05-15 19:44:13	[Notice]	Current validate Model[8]
+ROC: 0.893891747665
+TPR:	0.965408805031
+FPR:	0.454545454545
+AR:	0.755431675243
+threshold: 1
+05-15 19:44:13	[Notice]	Now Saving parameters.
+05-15 19:44:13	[Notice]	Parameters Saved.
+05-15 19:44:13	[Notice]	End Training Data[z011]
+05-15 19:44:13	[Notice]	Now Starts Training with data/cdr/train/text_sz012 and data/cdr/train/label_sz012
+05-15 19:44:13	[Notice]	Start Loading Data[z012]
+05-15 19:44:14	[Notice]	6338 Labels Loaded 
+05-15 19:44:20	[Notice]	6338 Documents Loaded 
+05-15 19:44:23	[Notice]	getCorpus at getDataMatrix()
+05-15 19:44:28	[Notice]	Data has been loaded already
+05-15 19:45:15	[Notice]	Valid current model:	Cost/0.177390038411	Error/0.0553064275037
+ROC: 0.893891747665
+TPR:	0.965408805031
+FPR:	0.454545454545
+AR:	0.755431675243
+threshold: 1
+05-15 19:45:15	[Notice]	Start Loading Training Data
+05-15 19:45:15	[Notice]	7597 Labels Loaded 
+05-15 19:45:30	[Notice]	7597 Documents Loaded 
+05-15 19:49:19	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1815708
+# Valid set size     : 185225
+# training batches   : 668
+05-15 19:50:12	[Notice]	Compiling computing graph.
+05-15 19:51:54	[Notice]	Computing Graph Compiled
+05-15 19:51:54	[Notice]	Start Training
+05-15 19:51:54	[Notice]	Now batches at 1-th epoch.
+05-15 20:15:23	[Notice]	Current validate Model[1]
+ROC: 0.842957880694
+TPR:	0.996855345912
+FPR:	0.878787878788
+AR:	0.559033733562
+threshold: 1
+05-15 20:15:23	[Notice]	Now Saving parameters.
+05-15 20:15:23	[Notice]	Parameters Saved.
+05-15 20:15:23	[Notice]	Now batches at 2-th epoch.
+05-15 20:39:00	[Notice]	Current validate Model[2]
+ROC: 0.889746521822
+TPR:	0.990566037736
+FPR:	0.787878787879
+AR:	0.601343624929
+threshold: 1
+05-15 20:39:00	[Notice]	Now Saving parameters.
+05-15 20:39:00	[Notice]	Parameters Saved.
+05-15 20:39:00	[Notice]	Now batches at 3-th epoch.
+05-15 21:02:18	[Notice]	Current validate Model[3]
+ROC: 0.89465408805
+TPR:	0.995283018868
+FPR:	0.787878787879
+AR:	0.603702115495
+threshold: 1
+05-15 21:02:18	[Notice]	Now Saving parameters.
+05-15 21:02:18	[Notice]	Parameters Saved.
+05-15 21:02:18	[Notice]	Now batches at 4-th epoch.
+05-15 21:25:41	[Notice]	Current validate Model[4]
+ROC: 0.909186201639
+TPR:	0.988993710692
+FPR:	0.515151515152
+AR:	0.73692109777
+threshold: 1
+05-15 21:25:41	[Notice]	Now Saving parameters.
+05-15 21:25:41	[Notice]	Parameters Saved.
+05-15 21:25:41	[Notice]	Now batches at 5-th epoch.
+05-15 21:49:11	[Notice]	Current validate Model[5]
+ROC: 0.900323994664
+TPR:	0.99213836478
+FPR:	0.666666666667
+AR:	0.662735849057
+threshold: 1
+05-15 21:49:11	[Notice]	Now Saving parameters.
+05-15 21:49:11	[Notice]	Parameters Saved.
+05-15 21:49:11	[Notice]	Now batches at 6-th epoch.
+05-15 22:12:48	[Notice]	Current validate Model[6]
+ROC: 0.9022774919
+TPR:	0.98427672956
+FPR:	0.454545454545
+AR:	0.764865637507
+threshold: 1
+05-15 22:12:48	[Notice]	Now Saving parameters.
+05-15 22:12:48	[Notice]	Parameters Saved.
+05-15 22:12:48	[Notice]	Now batches at 7-th epoch.
+05-15 22:35:54	[Notice]	Current validate Model[7]
+ROC: 0.90861444635
+TPR:	0.988993710692
+FPR:	0.575757575758
+AR:	0.706618067467
+threshold: 1
+05-15 22:35:54	[Notice]	Now Saving parameters.
+05-15 22:35:54	[Notice]	Parameters Saved.
+05-15 22:35:54	[Notice]	Now batches at 8-th epoch.
+05-15 22:59:34	[Notice]	Current validate Model[8]
+ROC: 0.876977320374
+TPR:	0.993710691824
+FPR:	0.69696969697
+AR:	0.648370497427
+threshold: 1
+05-15 22:59:34	[Notice]	Now Saving parameters.
+05-15 22:59:34	[Notice]	Parameters Saved.
+05-15 22:59:34	[Notice]	End Training Data[z012]
+05-15 22:59:34	[Notice]	Now Starts Training with data/cdr/train/text_sz013 and data/cdr/train/label_sz013
+05-15 22:59:35	[Notice]	Start Loading Data[z013]
+05-15 22:59:35	[Notice]	6338 Labels Loaded 
+05-15 22:59:40	[Notice]	6338 Documents Loaded 
+05-15 22:59:44	[Notice]	getCorpus at getDataMatrix()
+05-15 22:59:49	[Notice]	Data has been loaded already
+05-15 23:00:33	[Notice]	Valid current model:	Cost/0.184760894959	Error/0.0403587443946
+ROC: 0.876977320374
+TPR:	0.993710691824
+FPR:	0.69696969697
+AR:	0.648370497427
+threshold: 1
+05-15 23:00:33	[Notice]	Start Loading Training Data
+05-15 23:00:34	[Notice]	7542 Labels Loaded 
+05-15 23:00:45	[Notice]	7542 Documents Loaded 
+05-15 23:04:29	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1810757
+# Valid set size     : 185225
+# training batches   : 662
+05-15 23:05:23	[Notice]	Compiling computing graph.
+05-15 23:07:02	[Notice]	Computing Graph Compiled
+05-15 23:07:02	[Notice]	Start Training
+05-15 23:07:02	[Notice]	Now batches at 1-th epoch.
+05-15 23:30:29	[Notice]	Current validate Model[1]
+ROC: 0.912616733371
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-15 23:30:30	[Notice]	Now Saving parameters.
+05-15 23:30:30	[Notice]	Parameters Saved.
+05-15 23:30:30	[Notice]	Now batches at 2-th epoch.
+05-15 23:54:30	[Notice]	Current validate Model[2]
+ROC: 0.917619592148
+TPR:	0.970125786164
+FPR:	0.454545454545
+AR:	0.757790165809
+threshold: 1
+05-15 23:54:30	[Notice]	Now Saving parameters.
+05-15 23:54:30	[Notice]	Parameters Saved.
+05-15 23:54:30	[Notice]	Now batches at 3-th epoch.
+05-16 00:15:23	[Notice]	Current validate Model[3]
+ROC: 0.930579378693
+TPR:	0.955974842767
+FPR:	0.333333333333
+AR:	0.811320754717
+threshold: 1
+05-16 00:15:23	[Notice]	Now Saving parameters.
+05-16 00:15:23	[Notice]	Parameters Saved.
+05-16 00:15:23	[Notice]	Now batches at 4-th epoch.
+05-16 00:34:01	[Notice]	Current validate Model[4]
+ROC: 0.929626453211
+TPR:	0.968553459119
+FPR:	0.363636363636
+AR:	0.802458547742
+threshold: 1
+05-16 00:34:01	[Notice]	Now Saving parameters.
+05-16 00:34:01	[Notice]	Parameters Saved.
+05-16 00:34:01	[Notice]	Now batches at 5-th epoch.
+05-16 00:52:51	[Notice]	Current validate Model[5]
+ROC: 0.924814179531
+TPR:	0.968553459119
+FPR:	0.393939393939
+AR:	0.78730703259
+threshold: 1
+05-16 00:52:51	[Notice]	Now Saving parameters.
+05-16 00:52:51	[Notice]	Parameters Saved.
+05-16 00:52:51	[Notice]	Now batches at 6-th epoch.
+05-16 01:12:01	[Notice]	Current validate Model[6]
+ROC: 0.916952544311
+TPR:	0.963836477987
+FPR:	0.333333333333
+AR:	0.815251572327
+threshold: 1
+05-16 01:12:01	[Notice]	Now Saving parameters.
+05-16 01:12:01	[Notice]	Parameters Saved.
+05-16 01:12:01	[Notice]	Now batches at 7-th epoch.
+05-16 01:31:20	[Notice]	Current validate Model[7]
+ROC: 0.884171907757
+TPR:	0.985849056604
+FPR:	0.606060606061
+AR:	0.689894225272
+threshold: 1
+05-16 01:31:20	[Notice]	Now Saving parameters.
+05-16 01:31:20	[Notice]	Parameters Saved.
+05-16 01:31:20	[Notice]	Now batches at 8-th epoch.
+05-16 01:50:36	[Notice]	Current validate Model[8]
+ROC: 0.87388031256
+TPR:	0.993710691824
+FPR:	0.757575757576
+AR:	0.618067467124
+threshold: 1
+05-16 01:50:36	[Notice]	Now Saving parameters.
+05-16 01:50:36	[Notice]	Parameters Saved.
+05-16 01:50:36	[Notice]	End Training Data[z013]
+05-16 01:50:36	[Notice]	Now Starts Training with data/cdr/train/text_sz014 and data/cdr/train/label_sz014
+05-16 01:50:37	[Notice]	Start Loading Data[z014]
+05-16 01:50:37	[Notice]	6338 Labels Loaded 
+05-16 01:50:44	[Notice]	6338 Documents Loaded 
+05-16 01:50:48	[Notice]	getCorpus at getDataMatrix()
+05-16 01:50:54	[Notice]	Data has been loaded already
+05-16 01:51:28	[Notice]	Valid current model:	Cost/0.195656459104	Error/0.0433482810164
+ROC: 0.87388031256
+TPR:	0.993710691824
+FPR:	0.757575757576
+AR:	0.618067467124
+threshold: 1
+05-16 01:51:28	[Notice]	Start Loading Training Data
+05-16 01:51:28	[Notice]	7610 Labels Loaded 
+05-16 01:51:33	[Notice]	7610 Documents Loaded 
+05-16 01:55:40	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1849098
+# Valid set size     : 185225
+# training batches   : 673
+05-16 01:56:39	[Notice]	Compiling computing graph.
+05-16 01:58:22	[Notice]	Computing Graph Compiled
+05-16 01:58:22	[Notice]	Start Training
+05-16 01:58:22	[Notice]	Now batches at 1-th epoch.
+05-16 02:18:10	[Notice]	Current validate Model[1]
+ROC: 0.917476653326
+TPR:	0.974842767296
+FPR:	0.393939393939
+AR:	0.790451686678
+threshold: 1
+05-16 02:18:10	[Notice]	Now Saving parameters.
+05-16 02:18:10	[Notice]	Parameters Saved.
+05-16 02:18:10	[Notice]	Now batches at 2-th epoch.
+05-16 02:38:02	[Notice]	Current validate Model[2]
+ROC: 0.91295025729
+TPR:	0.979559748428
+FPR:	0.515151515152
+AR:	0.732204116638
+threshold: 1
+05-16 02:38:02	[Notice]	Now Saving parameters.
+05-16 02:38:02	[Notice]	Parameters Saved.
+05-16 02:38:02	[Notice]	Now batches at 3-th epoch.
+05-16 02:57:58	[Notice]	Current validate Model[3]
+ROC: 0.911997331809
+TPR:	0.968553459119
+FPR:	0.454545454545
+AR:	0.757004002287
+threshold: 1
+05-16 02:57:58	[Notice]	Now Saving parameters.
+05-16 02:57:58	[Notice]	Parameters Saved.
+05-16 02:57:58	[Notice]	Now batches at 4-th epoch.
+05-16 03:18:05	[Notice]	Current validate Model[4]
+ROC: 0.907042119306
+TPR:	0.971698113208
+FPR:	0.454545454545
+AR:	0.758576329331
+threshold: 1
+05-16 03:18:05	[Notice]	Now Saving parameters.
+05-16 03:18:05	[Notice]	Parameters Saved.
+05-16 03:18:05	[Notice]	Now batches at 5-th epoch.
+05-16 03:38:18	[Notice]	Current validate Model[5]
+ROC: 0.910567943587
+TPR:	0.979559748428
+FPR:	0.515151515152
+AR:	0.732204116638
+threshold: 1
+05-16 03:38:18	[Notice]	Now Saving parameters.
+05-16 03:38:18	[Notice]	Parameters Saved.
+05-16 03:38:18	[Notice]	Now batches at 6-th epoch.
+05-16 03:58:47	[Notice]	Current validate Model[6]
+ROC: 0.912473794549
+TPR:	0.971698113208
+FPR:	0.393939393939
+AR:	0.788879359634
+threshold: 1
+05-16 03:58:47	[Notice]	Now Saving parameters.
+05-16 03:58:47	[Notice]	Parameters Saved.
+05-16 03:58:47	[Notice]	Now batches at 7-th epoch.
+05-16 04:19:11	[Notice]	Current validate Model[7]
+ROC: 0.895178197065
+TPR:	0.974842767296
+FPR:	0.393939393939
+AR:	0.790451686678
+threshold: 1
+05-16 04:19:11	[Notice]	Now Saving parameters.
+05-16 04:19:11	[Notice]	Parameters Saved.
+05-16 04:19:11	[Notice]	Now batches at 8-th epoch.
+05-16 04:39:31	[Notice]	Current validate Model[8]
+ROC: 0.889079473985
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-16 04:39:31	[Notice]	Now Saving parameters.
+05-16 04:39:31	[Notice]	Parameters Saved.
+05-16 04:39:31	[Notice]	End Training Data[z014]
+05-16 04:39:31	[Notice]	Now Starts Training with data/cdr/train/text_sz015 and data/cdr/train/label_sz015
+05-16 04:39:31	[Notice]	Start Loading Data[z015]
+05-16 04:39:32	[Notice]	6338 Labels Loaded 
+05-16 04:39:40	[Notice]	6338 Documents Loaded 
+05-16 04:39:45	[Notice]	getCorpus at getDataMatrix()
+05-16 04:39:50	[Notice]	Data has been loaded already
+05-16 04:40:27	[Notice]	Valid current model:	Cost/0.183861264594	Error/0.0463378176383
+ROC: 0.889079473985
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-16 04:40:27	[Notice]	Start Loading Training Data
+05-16 04:40:27	[Notice]	7596 Labels Loaded 
+05-16 04:40:32	[Notice]	7596 Documents Loaded 
+05-16 04:45:00	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1826464
+# Valid set size     : 185225
+# training batches   : 669
+05-16 04:45:56	[Notice]	Compiling computing graph.
+05-16 04:47:40	[Notice]	Computing Graph Compiled
+05-16 04:47:40	[Notice]	Start Training
+05-16 04:47:40	[Notice]	Now batches at 1-th epoch.
+05-16 05:07:48	[Notice]	Current validate Model[1]
+ROC: 0.891461787688
+TPR:	0.981132075472
+FPR:	0.454545454545
+AR:	0.763293310463
+threshold: 1
+05-16 05:07:48	[Notice]	Now Saving parameters.
+05-16 05:07:48	[Notice]	Parameters Saved.
+05-16 05:07:48	[Notice]	Now batches at 2-th epoch.
+05-16 05:28:02	[Notice]	Current validate Model[2]
+ROC: 0.895511720983
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-16 05:28:02	[Notice]	Now Saving parameters.
+05-16 05:28:02	[Notice]	Parameters Saved.
+05-16 05:28:02	[Notice]	Now batches at 3-th epoch.
+05-16 05:47:56	[Notice]	Current validate Model[3]
+ROC: 0.877930245855
+TPR:	0.979559748428
+FPR:	0.515151515152
+AR:	0.732204116638
+threshold: 1
+05-16 05:47:56	[Notice]	Now Saving parameters.
+05-16 05:47:56	[Notice]	Parameters Saved.
+05-16 05:47:56	[Notice]	Now batches at 4-th epoch.
+05-16 06:07:56	[Notice]	Current validate Model[4]
+ROC: 0.887268915571
+TPR:	0.973270440252
+FPR:	0.515151515152
+AR:	0.72905946255
+threshold: 1
+05-16 06:07:56	[Notice]	Now Saving parameters.
+05-16 06:07:56	[Notice]	Parameters Saved.
+05-16 06:07:56	[Notice]	Now batches at 5-th epoch.
+05-16 06:27:49	[Notice]	Current validate Model[5]
+ROC: 0.887888317134
+TPR:	0.981132075472
+FPR:	0.515151515152
+AR:	0.73299028016
+threshold: 1
+05-16 06:27:49	[Notice]	Now Saving parameters.
+05-16 06:27:49	[Notice]	Parameters Saved.
+05-16 06:27:49	[Notice]	Now batches at 6-th epoch.
+05-16 06:48:00	[Notice]	Current validate Model[6]
+ROC: 0.887983609682
+TPR:	0.97641509434
+FPR:	0.484848484848
+AR:	0.745783304746
+threshold: 1
+05-16 06:48:00	[Notice]	Now Saving parameters.
+05-16 06:48:00	[Notice]	Parameters Saved.
+05-16 06:48:00	[Notice]	Now batches at 7-th epoch.
+05-16 07:08:04	[Notice]	Current validate Model[7]
+ROC: 0.867162187917
+TPR:	0.979559748428
+FPR:	0.666666666667
+AR:	0.656446540881
+threshold: 1
+05-16 07:08:04	[Notice]	Now Saving parameters.
+05-16 07:08:04	[Notice]	Parameters Saved.
+05-16 07:08:04	[Notice]	Now batches at 8-th epoch.
+05-16 07:28:06	[Notice]	Current validate Model[8]
+ROC: 0.870116256909
+TPR:	0.98427672956
+FPR:	0.636363636364
+AR:	0.673956546598
+threshold: 1
+05-16 07:28:06	[Notice]	Now Saving parameters.
+05-16 07:28:06	[Notice]	Parameters Saved.
+05-16 07:28:06	[Notice]	End Training Data[z015]
+05-16 07:28:06	[Notice]	Now Starts Training with data/cdr/train/text_sz016 and data/cdr/train/label_sz016
+05-16 07:28:07	[Notice]	Start Loading Data[z016]
+05-16 07:28:07	[Notice]	6338 Labels Loaded 
+05-16 07:28:12	[Notice]	6338 Documents Loaded 
+05-16 07:28:17	[Notice]	getCorpus at getDataMatrix()
+05-16 07:28:22	[Notice]	Data has been loaded already
+05-16 07:29:01	[Notice]	Valid current model:	Cost/0.196932202187	Error/0.0463378176383
+ROC: 0.870116256909
+TPR:	0.98427672956
+FPR:	0.636363636364
+AR:	0.673956546598
+threshold: 1
+05-16 07:29:01	[Notice]	Start Loading Training Data
+05-16 07:29:01	[Notice]	7565 Labels Loaded 
+05-16 07:29:16	[Notice]	7565 Documents Loaded 
+05-16 07:33:12	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1814356
+# Valid set size     : 185225
+# training batches   : 662
+05-16 07:34:01	[Notice]	Compiling computing graph.
+05-16 07:35:32	[Notice]	Computing Graph Compiled
+05-16 07:35:32	[Notice]	Start Training
+05-16 07:35:32	[Notice]	Now batches at 1-th epoch.
+05-16 07:54:19	[Notice]	Current validate Model[1]
+ROC: 0.893367638651
+TPR:	0.98427672956
+FPR:	0.757575757576
+AR:	0.613350485992
+threshold: 1
+05-16 07:54:19	[Notice]	Now Saving parameters.
+05-16 07:54:19	[Notice]	Parameters Saved.
+05-16 07:54:19	[Notice]	Now batches at 2-th epoch.
+05-16 08:13:20	[Notice]	Current validate Model[2]
+ROC: 0.896845816657
+TPR:	0.979559748428
+FPR:	0.636363636364
+AR:	0.671598056032
+threshold: 1
+05-16 08:13:20	[Notice]	Now Saving parameters.
+05-16 08:13:20	[Notice]	Parameters Saved.
+05-16 08:13:20	[Notice]	Now batches at 3-th epoch.
+05-16 08:32:23	[Notice]	Current validate Model[3]
+ROC: 0.9035639413
+TPR:	0.982704402516
+FPR:	0.515151515152
+AR:	0.733776443682
+threshold: 1
+05-16 08:32:23	[Notice]	Now Saving parameters.
+05-16 08:32:23	[Notice]	Parameters Saved.
+05-16 08:32:23	[Notice]	Now batches at 4-th epoch.
+05-16 08:51:23	[Notice]	Current validate Model[4]
+ROC: 0.884171907757
+TPR:	0.98427672956
+FPR:	0.575757575758
+AR:	0.704259576901
+threshold: 1
+05-16 08:51:23	[Notice]	Now Saving parameters.
+05-16 08:51:23	[Notice]	Parameters Saved.
+05-16 08:51:23	[Notice]	Now batches at 5-th epoch.
+05-16 09:10:17	[Notice]	Current validate Model[5]
+ROC: 0.890461215933
+TPR:	0.979559748428
+FPR:	0.69696969697
+AR:	0.641295025729
+threshold: 1
+05-16 09:10:17	[Notice]	Now Saving parameters.
+05-16 09:10:17	[Notice]	Parameters Saved.
+05-16 09:10:17	[Notice]	Now batches at 6-th epoch.
+05-16 09:29:08	[Notice]	Current validate Model[6]
+ROC: 0.888745950067
+TPR:	0.981132075472
+FPR:	0.515151515152
+AR:	0.73299028016
+threshold: 1
+05-16 09:29:08	[Notice]	Now Saving parameters.
+05-16 09:29:08	[Notice]	Parameters Saved.
+05-16 09:29:08	[Notice]	Now batches at 7-th epoch.
+05-16 09:47:58	[Notice]	Current validate Model[7]
+ROC: 0.882671050124
+TPR:	0.982704402516
+FPR:	0.69696969697
+AR:	0.642867352773
+threshold: 1
+05-16 09:47:58	[Notice]	Now Saving parameters.
+05-16 09:47:58	[Notice]	Parameters Saved.
+05-16 09:47:58	[Notice]	Now batches at 8-th epoch.
+05-16 10:06:49	[Notice]	Current validate Model[8]
+ROC: 0.91295025729
+TPR:	0.974842767296
+FPR:	0.454545454545
+AR:	0.760148656375
+threshold: 1
+05-16 10:06:49	[Notice]	Now Saving parameters.
+05-16 10:06:49	[Notice]	Parameters Saved.
+05-16 10:06:49	[Notice]	End Training Data[z016]
+05-16 10:06:49	[Notice]	Now Starts Training with data/cdr/train/text_sz017 and data/cdr/train/label_sz017
+05-16 10:06:51	[Notice]	Start Loading Data[z017]
+05-16 10:06:51	[Notice]	6338 Labels Loaded 
+05-16 10:07:01	[Notice]	6338 Documents Loaded 
+05-16 10:07:05	[Notice]	getCorpus at getDataMatrix()
+05-16 10:07:09	[Notice]	Data has been loaded already
+05-16 10:07:44	[Notice]	Valid current model:	Cost/0.172753239941	Error/0.0463378176383
+ROC: 0.91295025729
+TPR:	0.974842767296
+FPR:	0.454545454545
+AR:	0.760148656375
+threshold: 1
+05-16 10:07:44	[Notice]	Start Loading Training Data
+05-16 10:07:44	[Notice]	7578 Labels Loaded 
+05-16 10:07:50	[Notice]	7578 Documents Loaded 
+05-16 10:10:54	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1826761
+# Valid set size     : 185225
+# training batches   : 665
+05-16 10:11:37	[Notice]	Compiling computing graph.
+05-16 10:12:57	[Notice]	Computing Graph Compiled
+05-16 10:12:57	[Notice]	Start Training
+05-16 10:12:57	[Notice]	Now batches at 1-th epoch.
+05-16 10:31:43	[Notice]	Current validate Model[1]
+ROC: 0.91271202592
+TPR:	0.982704402516
+FPR:	0.606060606061
+AR:	0.688321898228
+threshold: 1
+05-16 10:31:43	[Notice]	Now Saving parameters.
+05-16 10:31:43	[Notice]	Parameters Saved.
+05-16 10:31:43	[Notice]	Now batches at 2-th epoch.
+05-16 10:50:35	[Notice]	Current validate Model[2]
+ROC: 0.915570802363
+TPR:	0.988993710692
+FPR:	0.636363636364
+AR:	0.676315037164
+threshold: 1
+05-16 10:50:35	[Notice]	Now Saving parameters.
+05-16 10:50:35	[Notice]	Parameters Saved.
+05-16 10:50:35	[Notice]	Now batches at 3-th epoch.
+05-16 11:09:27	[Notice]	Current validate Model[3]
+ROC: 0.926195921479
+TPR:	0.982704402516
+FPR:	0.727272727273
+AR:	0.627715837621
+threshold: 1
+05-16 11:09:27	[Notice]	Now Saving parameters.
+05-16 11:09:27	[Notice]	Parameters Saved.
+05-16 11:09:27	[Notice]	Now batches at 4-th epoch.
+05-16 11:28:18	[Notice]	Current validate Model[4]
+ROC: 0.917857823518
+TPR:	0.98427672956
+FPR:	0.636363636364
+AR:	0.673956546598
+threshold: 1
+05-16 11:28:18	[Notice]	Now Saving parameters.
+05-16 11:28:18	[Notice]	Parameters Saved.
+05-16 11:28:18	[Notice]	Now batches at 5-th epoch.
+05-16 11:47:09	[Notice]	Current validate Model[5]
+ROC: 0.917571945874
+TPR:	0.981132075472
+FPR:	0.575757575758
+AR:	0.702687249857
+threshold: 1
+05-16 11:47:09	[Notice]	Now Saving parameters.
+05-16 11:47:09	[Notice]	Parameters Saved.
+05-16 11:47:09	[Notice]	Now batches at 6-th epoch.
+05-16 12:06:18	[Notice]	Current validate Model[6]
+ROC: 0.901324566419
+TPR:	0.974842767296
+FPR:	0.575757575758
+AR:	0.699542595769
+threshold: 1
+05-16 12:06:18	[Notice]	Now Saving parameters.
+05-16 12:06:18	[Notice]	Parameters Saved.
+05-16 12:06:18	[Notice]	Now batches at 7-th epoch.
+05-16 12:25:10	[Notice]	Current validate Model[7]
+ROC: 0.903945111492
+TPR:	0.97641509434
+FPR:	0.575757575758
+AR:	0.700328759291
+threshold: 1
+05-16 12:25:10	[Notice]	Now Saving parameters.
+05-16 12:25:10	[Notice]	Parameters Saved.
+05-16 12:25:10	[Notice]	Now batches at 8-th epoch.
+05-16 12:46:11	[Notice]	Current validate Model[8]
+ROC: 0.907756813417
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-16 12:46:11	[Notice]	Now Saving parameters.
+05-16 12:46:11	[Notice]	Parameters Saved.
+05-16 12:46:11	[Notice]	End Training Data[z017]
+05-16 12:46:11	[Notice]	Now Starts Training with data/cdr/train/text_sz018 and data/cdr/train/label_sz018
+05-16 12:46:11	[Notice]	Start Loading Data[z018]
+05-16 12:46:11	[Notice]	6338 Labels Loaded 
+05-16 12:46:15	[Notice]	6338 Documents Loaded 
+05-16 12:46:19	[Notice]	getCorpus at getDataMatrix()
+05-16 12:46:23	[Notice]	Data has been loaded already
+05-16 12:47:01	[Notice]	Valid current model:	Cost/0.17915890037	Error/0.0478325859492
+ROC: 0.907756813417
+TPR:	0.977987421384
+FPR:	0.545454545455
+AR:	0.716266437965
+threshold: 1
+05-16 12:47:01	[Notice]	Start Loading Training Data
+05-16 12:47:01	[Notice]	7597 Labels Loaded 
+05-16 12:47:11	[Notice]	7597 Documents Loaded 
+05-16 12:50:11	[Notice]	getCorpus at getDataMatrix()
+# Batch size         : 10
+# Train set size     : 1824088
+# Valid set size     : 185225
+# training batches   : 671
+05-16 12:50:55	[Notice]	Compiling computing graph.
+05-16 12:52:15	[Notice]	Computing Graph Compiled
+05-16 12:52:15	[Notice]	Start Training
+05-16 12:52:15	[Notice]	Now batches at 1-th epoch.
+05-16 13:10:51	[Notice]	Current validate Model[1]
+ROC: 0.908662092624
+TPR:	0.970125786164
+FPR:	0.515151515152
+AR:	0.727487135506
+threshold: 1
+05-16 13:10:51	[Notice]	Now Saving parameters.
+05-16 13:10:51	[Notice]	Parameters Saved.
+05-16 13:10:51	[Notice]	Now batches at 2-th epoch.
+05-16 13:29:38	[Notice]	Current validate Model[2]
+ROC: 0.922288927006
+TPR:	0.965408805031
+FPR:	0.454545454545
+AR:	0.755431675243
+threshold: 1
+05-16 13:29:38	[Notice]	Now Saving parameters.
+05-16 13:29:38	[Notice]	Parameters Saved.
+05-16 13:29:38	[Notice]	Now batches at 3-th epoch.
+05-16 13:48:21	[Notice]	Current validate Model[3]
+ROC: 0.919001334096
+TPR:	0.968553459119
+FPR:	0.545454545455
+AR:	0.711549456832
+threshold: 1
+05-16 13:48:21	[Notice]	Now Saving parameters.
+05-16 13:48:21	[Notice]	Parameters Saved.
+05-16 13:48:21	[Notice]	Now batches at 4-th epoch.
+05-16 14:07:06	[Notice]	Current validate Model[4]
+ROC: 0.913903182771
+TPR:	0.970125786164
+FPR:	0.484848484848
+AR:	0.742638650658
+threshold: 1
+05-16 14:07:06	[Notice]	Now Saving parameters.
+05-16 14:07:06	[Notice]	Parameters Saved.
+05-16 14:07:06	[Notice]	Now batches at 5-th epoch.
+05-16 14:25:51	[Notice]	Current validate Model[5]
+ROC: 0.899609300553
+TPR:	0.97641509434
+FPR:	0.636363636364
+AR:	0.670025728988
+threshold: 1
+05-16 14:25:51	[Notice]	Now Saving parameters.
+05-16 14:25:51	[Notice]	Parameters Saved.
+05-16 14:25:51	[Notice]	Now batches at 6-th epoch.
+05-16 14:44:34	[Notice]	Current validate Model[6]
+ROC: 0.931151133981
+TPR:	0.957547169811
+FPR:	0.363636363636
+AR:	0.796955403087
+threshold: 1
+05-16 14:44:34	[Notice]	Now Saving parameters.
+05-16 14:44:34	[Notice]	Parameters Saved.
+05-16 14:44:34	[Notice]	Now batches at 7-th epoch.
+05-16 15:03:23	[Notice]	Current validate Model[7]
+ROC: 0.926862969316
+TPR:	0.960691823899
+FPR:	0.393939393939
+AR:	0.78337621498
+threshold: 1
+05-16 15:03:23	[Notice]	Now Saving parameters.
+05-16 15:03:23	[Notice]	Parameters Saved.
+05-16 15:03:23	[Notice]	Now batches at 8-th epoch.
+05-16 15:22:07	[Notice]	Current validate Model[8]
+ROC: 0.854392986468
+TPR:	0.962264150943
+FPR:	0.575757575758
+AR:	0.693253287593
+threshold: 1
+05-16 15:22:07	[Notice]	Now Saving parameters.
+05-16 15:22:07	[Notice]	Parameters Saved.
+05-16 15:22:07	[Notice]	End Training Data[z018]
