@@ -2,6 +2,7 @@
 + It's just someone's Graduation design.
 + **C**onvolutional **D**istribution Reader.
 + Unfortunately in Coding. Not finished yet.
++ Oral examination for graduation Finished. [16/06/03]
 
 ### Dependency
 + [Python](http://www.python.org/)
